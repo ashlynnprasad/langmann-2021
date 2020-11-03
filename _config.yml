@@ -18,7 +18,7 @@ source-code: https://github.com/ashlynnprasad/langmann-2021
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Uno Langmann Family Collection of B.C. Photographs Digital Exhibition
+title: Uno Langmann Family Collection of B.C. Photographs Digital Exhibition.
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: a digital exhibition of historic BC photographs
 # description appears in meta tags and other locations
@@ -44,10 +44,10 @@ metadata: psychiana
 # ROBOTS EXCLUDE
 #
 # set noindex to true if you do NOT want Google to index your site
-noindex: true 
+noindex: true
 
 ##########
-# BUILD SETTINGS 
+# BUILD SETTINGS
 #
 # Note: use environment variable on build command to include analytics
 # JEKYLL_ENV=production jekyll build
