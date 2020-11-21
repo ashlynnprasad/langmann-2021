@@ -20,7 +20,7 @@ source-code: https://github.com/ashlynnprasad/langmann-2021
 # title of site appears in banner
 title: Uno Langmann Family Collection of B.C. Photographs Digital Exhibition.
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a digital exhibition of historic BC photographs
+tagline: A digital exhibition of historic BC photographs
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "This collection includes photographs and postcards from the Uno Langmann Family Collection of Historic Photographs at Rare Books and Special Collections at UBC."
@@ -31,7 +31,7 @@ author: ashlynnprasad
 # COLLECTION SETTINGS
 #
 # choose metadata: this is the name of the csv file in your _data directory that describes the objects in your collection
-metadata: psychiana
+metadata: langmann
 
 ##########
 # GOOGLE SERVICES [optional!]
