@@ -103,7 +103,7 @@ bootswatch: sandstone # leave blank or comment out for plain bootstrap
 
 # THEME FONTS
 base-font-size: 1.2em
-text-color: "#191919"
-link-color: "#17a2b8"
+text-color: "#25383C"
+link-color: "#728FCE"
 base-font-family: # comment out for bootstrap defaults. e.g. Roboto
 font-cdn: <link href="https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap" rel="stylesheet">  # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
