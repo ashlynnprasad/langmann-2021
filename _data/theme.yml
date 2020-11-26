@@ -106,4 +106,5 @@ base-font-size: 1.2em
 text-color: "#191919"
 link-color: "#17a2b8"
 base-font-family: # comment out for bootstrap defaults. e.g. Roboto
-font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+font-cdn: <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap" rel="stylesheet">  # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
