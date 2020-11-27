@@ -17,4 +17,4 @@ The fairy tale went one step further. Settlers wanted to see themselves as contr
 This section features images that point to this colonial fairy tale, showing us how settlers chose to view their relationships to the lands that they had stolen, as well as showcasing snapshots of various locales in the city, and the confidence and speed with which settlers developed those areas into their idea of what a modern metropolis should be.
 
 
-`{% raw %}{% include feature/item-figure.html objectid="langmann019" width="25" %}{% endraw %}`
+{% include feature/item-figure.html objectid="langmann019" width="25" %}
