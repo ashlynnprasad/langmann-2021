@@ -20,7 +20,7 @@ This section features images that point to this colonial fairy tale, showing us 
 <div class="row">
   <div class="col-md-8">
 
-  `{% raw %}{% include feature/item-figure.html objectid="langmann019" width="25" %}{% endraw %}`
+  {% include feature/item-figure.html objectid="langmann019" width="25" %}
   
   </div>
   <div class="col-md-4">  
