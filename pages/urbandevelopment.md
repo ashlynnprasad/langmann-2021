@@ -14,11 +14,10 @@ An important piece of the context surrounding the photographs in this section is
 The fairy tale went one step further. Settlers wanted to see themselves as controlling and improving an untamed wilderness, and they wanted a wilderness near to the city, an urban park that would “transform the image of Vancouver to be more than just another boomtown.”  The area now known as Stanley Park became the chosen space to create this wilderness. However, some mental gymnastics were required to set Stanley Park up in the public imagination as an untamed wilderness. The reality was that, far from being the “primeval forest” that settlers imagined it to be, the area had long been the site of a thriving populace of indigenous peoples.<br>
 “The Aboriginal presence on the peninsula was considerable on the eve of the imposition of Stanley Park in 1887. Whatever may have been the land’s official status, Aboriginal people still considered it their own. For some, including August Jack and his family, it was a place of residence. For others, it served economic and spiritual purposes [including as a burial ground].”<br><br>
 
-This section features images that point to this colonial fairy tale, showing us how settlers chose to view their relationships to the lands that they had stolen, as well as showcasing snapshots of various locales in the city, and the confidence and speed with which settlers developed those areas into their idea of what a modern metropolis should be.
+This section features images that point to this colonial fairy tale, showing us how settlers chose to view their relationships to the lands that they had stolen, as well as showcasing snapshots of various locales in the city, and the confidence and speed with which settlers developed those areas into their idea of what a modern metropolis should be.<br><br>
 
 
 {%- assign items = site.data[site.metadata] -%}
-<div class="row">
   <div class="col-md-8">
 
   {% include feature/item-figure.html objectid="langmann019" width="25" %}
@@ -32,4 +31,3 @@ This section features images that point to this colonial fairy tale, showing us 
   <div class="col-md-12">
 
   </div>
-</div>
