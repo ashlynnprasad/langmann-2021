@@ -1,6 +1,6 @@
 ---
 title: Urban Development
-layout: about
+layout: page
 permalink: /urbandevelopment.html
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
@@ -18,11 +18,11 @@ This section features images that point to this colonial fairy tale, showing us 
 
 
 {%- assign items = site.data[site.metadata] -%}
-  <div class="col-md-8">
+<div class="col-md-8">
 
   {% include feature/item-figure.html objectid="langmann019" width="25" %}
   
-  </div>
+</div>
   <div class="col-md-4">  
 
     Perhaps the best example of the colonial-settler attitude towards progress and urban development, this illustration for the Golden Jubilee shows two drawings of the Vancouver skyline, one before skyscrapers and buildings were erected, and one after. The paragraph gets at the fairy tale that colonial settlers had to tell themselves in order to justify to themselves the violent takeover of indigenous lands. They had to first believe that Vancouver had been completely pure and unsettled before they had taken over, ignoring the society that had existed there before and continued to exist after their arrival; and they had to secondly believe that urbanization and industrialization were positive steps towards progress, in order to believe that they had created and saved rather than destroyed and harmed.
@@ -30,4 +30,4 @@ This section features images that point to this colonial fairy tale, showing us 
   </div>
   <div class="col-md-12">
 
-  </div>
+</div>
