@@ -55,7 +55,7 @@ To build one, a user writes in [Markdown](https://guides.github.com/features/mas
 
 - Card -- > `{% raw %}{% include feature/card.html header="This is a Card" text="The card features an image from the collection as a cap" objectid="demo_004" width="25" centered=true %}{% endraw %}`
 
-{% include feature/card.html header="This is a Card" text="The card features an image from the collection as a cap" objectid="demo_004" width="25" centered=true %}
+{% include feature/card.html header=""This is the forest primeval"" text="The card features an image from the collection as a cap" objectid="demo_004" width="25" centered=true %}
 
 - Buttons -- > `{% raw %}{% include feature/button.html text="Button Link to Somewhere" link="https://collectionbuilder.github.io/" color="success" %}{% endraw %}`
 
