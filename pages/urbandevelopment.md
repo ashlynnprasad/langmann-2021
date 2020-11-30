@@ -17,6 +17,19 @@ The fairy tale went one step further. Settlers wanted to see themselves as contr
 This section features images that point to this colonial fairy tale, showing us how settlers chose to view their relationships to the lands that they had stolen, as well as showcasing snapshots of various locales in the city, and the confidence and speed with which settlers developed those areas into their idea of what a modern metropolis should be.
 
 
-{% include feature/item-figure.html objectid="langmann019" width="25" %}
+{%- assign items = site.data[site.metadata] -%}
+<div class="row">
+  <div class="col-md-8">
 
-{% include feature/card.html header="This is the forest primeval" text="The handwritten caption on this photograph of a tall row of trees, reading <i>This is the forest primeval</i> provides further evidence for the way in which settlers chose to view the lands they had stolen, and Stanley Park in particular." objectid="langmann034" width="25" centered=true %}
+  {% include feature/item-figure.html objectid="langmann019" width="25" %}
+  
+  </div>
+  <div class="col-md-4">  
+
+Perhaps the best example of the colonial-settler attitude towards progress and urban development, this illustration for the Golden Jubilee shows two drawings of the Vancouver skyline, one before skyscrapers and buildings were erected, and one after. The paragraph gets at the fairy tale that colonial settlers had to tell themselves in order to justify to themselves the violent takeover of indigenous lands. They had to first believe that Vancouver had been completely pure and unsettled before they had taken over, ignoring the society that had existed there before and continued to exist after their arrival; and they had to secondly believe that urbanization and industrialization were positive steps towards progress, in order to believe that they had created and saved rather than destroyed and harmed.
+
+  </div>
+  <div class="col-md-12">
+
+  </div>
+</div>
