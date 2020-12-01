@@ -33,7 +33,7 @@ This section features images that point to this colonial fairy tale, showing us 
       The handwritten caption on this photograph of a tall row of trees, reading “This is the forest primeval,” provides further evidence for the way in which settlers chose to view the lands they had stolen, and Stanley Park in particular.
     </div>
     <div class="col-sm">
-      {% include feature/item-figure.html objectid="langmann034" width="25" %}
+      {% include feature/item-figure.html objectid="langmann034" width="50" %}
     </div>
   </div>
 </div>
@@ -49,4 +49,3 @@ Jean Barman, in her book Stanley Park’s Secret shares quotes from indigenous i
 <b>“We was inside this house when the surveyors come along, and they chop the corner of our house when we was eating inside.” </b>
     </div>
   </div>
-</div>
