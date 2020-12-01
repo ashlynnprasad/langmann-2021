@@ -16,3 +16,17 @@ Leona Sparrow also explains the impact of colonization of indigenous lands: “E
 Cole Harris explains more broadly the outlook that many indigenous peoples held in regard to the environment, and how different that would have been at that time from the worldview held by colonial settlers:<br>
 Economy and society were not separate categories, nor was the environment. People lived in familiar places, named them intimately, knew the seasonal ways of flora and fauna…. Subsequent inhabitants of the region would not begin to match this detailed, localized knowledge of a natural world. Nor would they know its spirits. The Native peoples of the Lower Mainland drew no distinction between mind and matter, animate and inanimate, human and natural, subject and object – categories of the modern European mind.” <br><br>
 The images in this section portray settler-colonialists’ careless attitudes towards custodianship of the natural environment. In doing so, the images also remind us of the extent to which neither the lands nor indigenous peoples’ relationships to the lands were adequately considered or respected.
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      {% include feature/item-figure.html objectid="langmann033" width="75" %}
+    </div>
+    <div class="col-sm">
+      {% include feature/item-figure.html objectid="langmann010" width="75" %}
+    </div>
+    <div class="col-sm">
+      {% include feature/item-figure.html objectid="langmann008" width="75" %}
+    </div>
+  </div>
+</div>
