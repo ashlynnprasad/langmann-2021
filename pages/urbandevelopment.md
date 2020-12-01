@@ -26,3 +26,14 @@ This section features images that point to this colonial fairy tale, showing us 
     </div>
   </div>
 </div>
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      The handwritten caption on this photograph of a tall row of trees, reading “This is the forest primeval,” provides further evidence for the way in which settlers chose to view the lands they had stolen, and Stanley Park in particular.
+    </div>
+    <div class="col-sm">
+      {% include feature/item-figure.html objectid="langmann034" width="75" align="left" %}
+    </div>
+  </div>
+</div>
