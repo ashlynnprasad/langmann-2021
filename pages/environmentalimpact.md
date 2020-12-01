@@ -20,13 +20,13 @@ The images in this section portray settler-colonialists’ careless attitudes to
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      {% include feature/item-figure.html objectid="langmann033" width="75" %}
+      {% include feature/item-figure.html objectid="langmann033" width="100" %}
     </div>
     <div class="col-sm">
-      {% include feature/item-figure.html objectid="langmann010" width="75" %}
+      {% include feature/item-figure.html objectid="langmann010" width="100" %}
     </div>
     <div class="col-sm">
-      {% include feature/item-figure.html objectid="langmann008" width="75" %}
+      {% include feature/item-figure.html objectid="langmann008" width="100" %}
     </div>
   </div>
 </div>
