@@ -22,7 +22,7 @@ One of the most important factors to consider when browsing the Uno Langmann Col
 The focus remained on grooming Stanley Park to become a decoration to the city, where once it had been the site of a thriving indigenous population. A newspaper article at the time of the relocation of Lumberman’s Arch celebrated it as a “permanent advertisement of our lumber industries, a memento of the Royal visit and, artistically placed, a real ornament and appropriate addition to our beautiful park.” 
     </div>
   </div>
-</div>
+</div><br><br>
 <div class="container">
   <div class="row">
     <div class="col-sm">
@@ -32,7 +32,7 @@ The focus remained on grooming Stanley Park to become a decoration to the city, 
       {% include feature/item-figure.html objectid="langmann026" width="75" %}
     </div>
   </div>
-</div>
+</div><br><br>
 <div class="container">
   <div class="row">
     <div class="col-sm">
@@ -42,7 +42,7 @@ The focus remained on grooming Stanley Park to become a decoration to the city, 
       This image shows us another relic of the many past lives of Stanley Park, from a zoo which once existed there. As Donaldson says, “Not only were plant species regularly added and replaced in the Stanley Park of the early 20th century; so too were members of the peninsula’s animal population” such as “animals kept in the park zoo (including several deer and a bear notable for its repeated escapes).”  The existence of such an attraction acts as yet another example of the ways in which the settlers of that time wished to craft a particular image of Stanley Park: full of nature, but only in ways that felt palatable and safe to settlers.
     </div>
   </div>
-</div>
+</div><br><br>
 <div class="container">
   <div class="row">
     <div class="col-sm">
