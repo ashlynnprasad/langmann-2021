@@ -23,3 +23,13 @@ The focus remained on grooming Stanley Park to become a decoration to the city, 
     </div>
   </div>
 </div>
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      Photographs such as this offer us an insight into what Stanley Park might have been like before it was taken under control by settlers. It also offers us a better understanding of the ways in which Stanley Park was intentionally styled in order to appear untouched, while simultaneously and systematically removing certain naturally-occurring aspects of its environment, such as the existence of wild buffalo on the land. The removal of the buffalo is particularly poignant because many indigenous peoples “consider the buffalo as their sacred animal that is closely connected to the Creator.” 
+    </div>
+    <div class="col-sm">
+      {% include feature/item-figure.html objectid="langmann026" width="25" %}
+    </div>
+  </div>
+</div>
