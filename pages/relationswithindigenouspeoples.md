@@ -15,7 +15,7 @@ One of the most important factors to consider when browsing the Uno Langmann Col
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      {% include feature/item-figure.html objectid="langmann025" width="25" %}
+      {% include feature/item-figure.html objectid="langmann025" width="50" %}
     </div>
     <div class="col-sm">
       Another example of the ways in which settler-colonial preferences for the visual appeal of the park overrode entire histories of indigenous customs and land rights was the re-placement of Lumberman’s Arch. John Mackie explains how the arch was resituated from its original home downtown to Stanley Park, “on the site of an old native village that whites called Whoi Whoi,” or Xwayxway, and which had been home to Squamish, Musqueam and Tsleil-Waututh First Nations.  Not only was it their home, but “when the first road was built around Stanley Park, a construction crew unearthed near Whoi Whoi a large deposit of broken and crushed clam shells, as well as skulls and other body parts.... Rather than exciting any interest, the shells were used to surface the road.” 
@@ -29,7 +29,7 @@ The focus remained on grooming Stanley Park to become a decoration to the city, 
       Photographs such as this offer us an insight into what Stanley Park might have been like before it was taken under control by settlers. It also offers us a better understanding of the ways in which Stanley Park was intentionally styled in order to appear untouched, while simultaneously and systematically removing certain naturally-occurring aspects of its environment, such as the existence of wild buffalo on the land. The removal of the buffalo is particularly poignant because many indigenous peoples “consider the buffalo as their sacred animal that is closely connected to the Creator.” 
     </div>
     <div class="col-sm">
-      {% include feature/item-figure.html objectid="langmann026" width="25" %}
+      {% include feature/item-figure.html objectid="langmann026" width="50" %}
     </div>
   </div>
 </div>
