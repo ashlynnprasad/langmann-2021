@@ -23,6 +23,7 @@ The focus remained on grooming Stanley Park to become a decoration to the city, 
     </div>
   </div>
 </div><br><br>
+
 <div class="container">
   <div class="row">
     <div class="col-sm">
@@ -33,6 +34,7 @@ The focus remained on grooming Stanley Park to become a decoration to the city, 
     </div>
   </div>
 </div><br><br>
+
 <div class="container">
   <div class="row">
     <div class="col-sm">
@@ -43,6 +45,7 @@ The focus remained on grooming Stanley Park to become a decoration to the city, 
     </div>
   </div>
 </div><br><br>
+
 <div class="container">
   <div class="row">
     <div class="col-sm">
@@ -52,4 +55,50 @@ The focus remained on grooming Stanley Park to become a decoration to the city, 
       {% include feature/item-figure.html objectid="langmann030" width="75" %}
     </div>
   </div>
-</div>
+</div><br><br>
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      {% include feature/item-figure.html objectid="langmann015" width="75" %}
+    </div>
+    <div class="col-sm">
+      This image is most notable for its illustration of George Vancouver, one of the first colonizers of the area that now bears his name. In the image, George Vancouver is seen in larger-than-life form, physically standing on the lands now known as Stanley Park. Vancouver’s arms are slightly raised and his feet positioned in a way that arguably conveys power and ownership. Whether intentionally or not, his raised arms somewhat mimic the “Salish tradition of welcoming visitors,” which also includes raised arms. 
+    </div>
+  </div>
+</div><br><br>
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      “When British Columbia entered Confederation in 1871, Aboriginal people were placed under federal jurisdiction. By 1876, the Indian Act legislated our daily lives. In an attempt to assimilate Aboriginal people to Christian Canadian society, the government sent our children to Indian residential schools. Despite these destructive policies, our culture and society persisted.” <br>
+This image portrays an Indian residential school in Chilliwack, with the innocuous and euphemistic handwritten caption, “Coqualeetza Industrial School.” The residential school system is widely considered to be one of the greatest crimes perpetrated against indigenous peoples by the Canadian government, and indigenous families today are still grappling with the generational trauma that these institutions caused. More information can be found through the Indian Residential School History and Dialogue Centre, which aims to address this history from a Survivor-centred approach. 
+    </div>
+    <div class="col-sm">
+      {% include feature/item-figure.html objectid="langmann024" width="75" %}
+    </div>
+  </div>
+</div><br><br>
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      {% include feature/item-figure.html objectid="langmann029" width="75" %} 
+    </div>
+    <div class="col-sm">
+      This image portrays a white settler child who has been dressed up in traditional indigenous clothing as a “mascot” for the Vancouver Golden Jubilee celebration. The image is particularly poignant when set up in conversation with the previous image of a residential school, since indigenous children in residential schools were frequently punished and abused for attempting to wear the traditional clothes or speak the traditional languages of their peoples. It is also worth noticing that the occasion for which this settler child was dressed up in indigenous clothing was an anniversary of the creation of the city of Vancouver, which of course was only possible because of settler subjugation of indigenous peoples.<br>
+The use of indigenous peoples and imagery as “mascots” is an affront that continues to be perpetrated – and fought against by indigenous peoples across North America – today. 
+    </div>
+  </div>
+</div><br><br>
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      This image portrays a play about the crucifixion of Jesus Christ performed by indigenous folks in front of an audience of white settlers. The context of the image, such as how and why this event came to pass, is unknown, but there is something striking about the image when one considers that Christianity was often forcibly foisted upon indigenous peoples and children in particular in order to both separate them from their cultural traditions and to offer another pathway by which settlers could justify colonization to themselves.
+    </div>
+    <div class="col-sm">
+      {% include feature/item-figure.html objectid="langmann023" width="75" %} 
+    </div>
+  </div>
+</div><br><br>
