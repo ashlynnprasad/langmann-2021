@@ -48,7 +48,7 @@ This section features images that point to this colonial fairy tale, showing us 
     </div>
   </div>
 Jean Barman, in her book Stanley Park’s Secret shares quotes from indigenous individuals who lived on these lands before they were forced to relocate. In one case, a man named August Jack shares his experience of his house literally being chopped down while he was inside. The house was located on the site of a future road that would wrap around the perimeter of Stanley Park, and would therefore have been not unlike the houses pictured here at the edge of Deadman’s Island.<br>
-<b>“We was inside this house when the surveyors come along, and they chop the corner of our house when we was eating inside.” </b><br><br>
+<b>“We was inside this house when the surveyors come along, and they chop the corner of our house when we was eating inside.” </b><br><br><br>
 
 <div class="container">
   <div class="row">
@@ -69,7 +69,7 @@ Jean Barman, in her book Stanley Park’s Secret shares quotes from indigenous i
       This postcard is notable not only for the way it showcases the large buildings and paved roads of Vancouver’s newly-developed downtown area, as well as the parade which is apparently intended to show off the city, but also for the signage visible. One banner reads “A Hundred Thousand Welcomes,” in an example of settlers enthusiastically welcoming strangers to lands that they had stolen from the only peoples who were rightfully positioned to be offering mass welcomes.
     </div>
   </div>
-Another slightly more puzzling sign in the background reads “Just Watch Vancouver Smoke.” This could be an indication of the fact that, at the time, industrialization was seen as an mark of societal progress, and the negative impacts of things like smokestacks on the environment were not yet being widely considered – at least not by settlers.<br><br>
+Another slightly more puzzling sign in the background reads “Just Watch Vancouver Smoke.” This could be an indication of the fact that, at the time, industrialization was seen as an mark of societal progress, and the negative impacts of things like smokestacks on the environment were not yet being widely considered – at least not by settlers.<br><br><br>
   
 <div class="container">
   <div class="row">
@@ -79,7 +79,7 @@ Another slightly more puzzling sign in the background reads “Just Watch Vancou
     <div class="col-sm">
       {% include feature/item-figure.html objectid="langmann016" width="75" %}
     </div>
-  </div><br>
+  </div>
   These triumphant aerial shots portray the sprawling, newly erected buildings of Vancouver’s downtown hub. Not everyone was permitted to share in the perceived progress of the young city, however. By the time Vancouver was developing as a city, indigenous peoples had already faced a long history of settler-colonialists and the Canadian government ignoring their land rights. “Colonial governments in Canada initially practiced a policy of extinguishment, which meant that Aboriginal peoples’ rights would be surrendered or legislated away, often in exchange for treaty rights…. Over time, however, many Aboriginal people found that the Canadian state continued to subjugate them and infringe upon the very rights they thought would be respected…. For example, the government added specific pieces of discriminatory legislation in the Indian Act that made it illegal for Aboriginal people to organize politically or to hire legal counsel to further land claims.”  In this way, indigenous peoples were forced to watch their traditional and ancestral homelands, such as those pictured in the images above, give way to settlements that they were forcibly excluded from, while any powers they had to seek redress were also stripped away. “The government amended the Indian Act in 1927 making it illegal for us to hire lawyers and hold meetings to pursue land claims. Despite this injustice, First Nations worked together to form the Native Brotherhood of British Columbia and other political organizations to assert our Aboriginal rights.” <br><br>
 Jordan Stranger-Ross discusses the idea that there has been a historical “opposition assumed between the civilization cities are imagined to represent, and the imagined savageness of Indigenous people…. There is an idea that the two can’t coexist.”  For this reason, when settlers designated lands for First Nations reserves, those lands were often not centrally located near developing urban hubs. “If you look at where reserves have been placed in this country, they’re largely on the outskirts,” says Ginger Gosnell-Myers. “That’s by design ... we’re looking at a deliberate history of exclusion.” <br><br>
   
