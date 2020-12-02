@@ -45,10 +45,10 @@ This section features images that point to this colonial fairy tale, showing us 
     </div>
     <div class="col-sm">
       This image, taken from Coal Harbour and looking toward Deadman’s Island sometime between 1891 and 1901, shows settlements along the bank of the island. These were establishments that had to be destroyed, and their residents forced to relocate, in order to achieve the impression of an unsettled, primeval land. Images such as this one provide evidence for the fact that the area known today as Stanley Park was the site of a thriving populace before it was deliberately displaced in order to appear as though it had never been settled.<br>
-Jean Barman, in her book Stanley Park’s Secret shares quotes from indigenous individuals who lived on these lands before they were forced to relocate. In one case, a man named August Jack shares his experience of his house literally being chopped down while he was inside. The house was located on the site of a future road that would wrap around the perimeter of Stanley Park, and would therefore have been not unlike the houses pictured here at the edge of Deadman’s Island.<br>
-<b>“We was inside this house when the surveyors come along, and they chop the corner of our house when we was eating inside.” </b>
     </div>
-  </div><br><br>
+  </div>
+Jean Barman, in her book Stanley Park’s Secret shares quotes from indigenous individuals who lived on these lands before they were forced to relocate. In one case, a man named August Jack shares his experience of his house literally being chopped down while he was inside. The house was located on the site of a future road that would wrap around the perimeter of Stanley Park, and would therefore have been not unlike the houses pictured here at the edge of Deadman’s Island.<br>
+<b>“We was inside this house when the surveyors come along, and they chop the corner of our house when we was eating inside.” </b><br><br>
 
 <div class="container">
   <div class="row">
@@ -67,9 +67,9 @@ Jean Barman, in her book Stanley Park’s Secret shares quotes from indigenous i
     </div>
     <div class="col-sm">
       This postcard is notable not only for the way it showcases the large buildings and paved roads of Vancouver’s newly-developed downtown area, as well as the parade which is apparently intended to show off the city, but also for the signage visible. One banner reads “A Hundred Thousand Welcomes,” in an example of settlers enthusiastically welcoming strangers to lands that they had stolen from the only peoples who were rightfully positioned to be offering mass welcomes.
-Another slightly more puzzling sign in the background reads “Just Watch Vancouver Smoke.” This could be an indication of the fact that, at the time, industrialization was seen as an mark of societal progress, and the negative impacts of things like smokestacks on the environment were not yet being widely considered – at least not by settlers.
     </div>
-  </div><br><br>
+  </div>
+Another slightly more puzzling sign in the background reads “Just Watch Vancouver Smoke.” This could be an indication of the fact that, at the time, industrialization was seen as an mark of societal progress, and the negative impacts of things like smokestacks on the environment were not yet being widely considered – at least not by settlers.<br><br>
   
 <div class="container">
   <div class="row">
@@ -81,7 +81,7 @@ Another slightly more puzzling sign in the background reads “Just Watch Vancou
     </div>
   </div><br>
   These triumphant aerial shots portray the sprawling, newly erected buildings of Vancouver’s downtown hub. Not everyone was permitted to share in the perceived progress of the young city, however. By the time Vancouver was developing as a city, indigenous peoples had already faced a long history of settler-colonialists and the Canadian government ignoring their land rights. “Colonial governments in Canada initially practiced a policy of extinguishment, which meant that Aboriginal peoples’ rights would be surrendered or legislated away, often in exchange for treaty rights…. Over time, however, many Aboriginal people found that the Canadian state continued to subjugate them and infringe upon the very rights they thought would be respected…. For example, the government added specific pieces of discriminatory legislation in the Indian Act that made it illegal for Aboriginal people to organize politically or to hire legal counsel to further land claims.”  In this way, indigenous peoples were forced to watch their traditional and ancestral homelands, such as those pictured in the images above, give way to settlements that they were forcibly excluded from, while any powers they had to seek redress were also stripped away. “The government amended the Indian Act in 1927 making it illegal for us to hire lawyers and hold meetings to pursue land claims. Despite this injustice, First Nations worked together to form the Native Brotherhood of British Columbia and other political organizations to assert our Aboriginal rights.” <br><br>
-Jordan Stranger-Ross discusses the idea that there has been a historical “opposition assumed between the civilization cities are imagined to represent, and the imagined savageness of Indigenous people…. There is an idea that the two can’t coexist.”  For this reason, when settlers designated lands for First Nations reserves, those lands were often not centrally located near developing urban hubs. “If you look at where reserves have been placed in this country, they’re largely on the outskirts,” says Ginger Gosnell-Myers. “That’s by design ... we’re looking at a deliberate history of exclusion.” 
+Jordan Stranger-Ross discusses the idea that there has been a historical “opposition assumed between the civilization cities are imagined to represent, and the imagined savageness of Indigenous people…. There is an idea that the two can’t coexist.”  For this reason, when settlers designated lands for First Nations reserves, those lands were often not centrally located near developing urban hubs. “If you look at where reserves have been placed in this country, they’re largely on the outskirts,” says Ginger Gosnell-Myers. “That’s by design ... we’re looking at a deliberate history of exclusion.” <br><br>
   
 <div class="container">
   <div class="row">
@@ -96,9 +96,10 @@ Jordan Stranger-Ross discusses the idea that there has been a historical “oppo
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      This image portrays a group of settler men laying cement for sidewalks in the rapidly developing urban hub now known as Vancouver. Once Stanley Park was designated as the city’s main park, it seems to have become less important to ensure that the rest of Vancouver remain natural and authentic, and as such, construction and urbanization exploded in the rest of the city. This image clearly shows us what kinds of people were in charge of building and designing the new city – and by extension, which kinds of people were not included – and puts one in mind of what the city might have been like if the indigenous peoples to whom the land belonged and was sacred had been allowed to have a say in the creation of the new city. The image, and the fact that someone made sure to photographically document the laying of cement, gives us an insight into what settlers of the time identified as markers of societal progress.
+      This image portrays a group of settler men laying cement for sidewalks in the rapidly developing urban hub now known as Vancouver. Once Stanley Park was designated as the city’s main park, it seems to have become less important to ensure that the rest of Vancouver remain natural and authentic, and as such, construction and urbanization exploded in the rest of the city. 
     </div>
     <div class="col-sm">
       {% include feature/item-figure.html objectid="langmann020" width="75" %}
     </div>
-  </div><br><br>
+  </div>
+  This image clearly shows us what kinds of people were in charge of building and designing the new city – and by extension, which kinds of people were not included – and puts one in mind of what the city might have been like if the indigenous peoples to whom the land belonged and was sacred had been allowed to have a say in the creation of the new city. The image, and the fact that someone made sure to photographically document the laying of cement, gives us an insight into what settlers of the time identified as markers of societal progress.<br><br>
