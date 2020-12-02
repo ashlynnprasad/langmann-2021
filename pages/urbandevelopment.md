@@ -16,6 +16,7 @@ permalink: /urbandevelopment.html
 
 <p style="text-indent: 25px;">This section features images that point to this colonial fairy tale, showing us how settlers chose to view their relationships to the lands that they had stolen, as well as showcasing snapshots of various locales in the city, and the confidence and speed with which settlers developed those areas into their idea of what a modern metropolis should be.<br><br>
 
+<p align="center">
 <div class="container">
   <div class="row">
     <div class="col-sm">
@@ -26,6 +27,7 @@ permalink: /urbandevelopment.html
     </div>
   </div>
 </div>
+</p>
 
 <div class="container">
   <div class="row">
