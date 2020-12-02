@@ -30,7 +30,7 @@ permalink: /urbandevelopment.html
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      {% include feature/card.html header="The forest primeval" text="The handwritten caption on this photograph of a tall row of trees, reading “This is the forest primeval,” provides further evidence for the way in which settlers chose to view the lands they had stolen, and Stanley Park in particular." width="75" centered=true %} 
+      The handwritten caption on this photograph of a tall row of trees, reading “This is the forest primeval,” provides further evidence for the way in which settlers chose to view the lands they had stolen, and Stanley Park in particular.
     </div>
     <div class="col-sm">
       {% include feature/item-figure.html objectid="langmann034" width="50" %}
