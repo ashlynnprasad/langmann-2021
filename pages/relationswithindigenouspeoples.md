@@ -78,7 +78,7 @@ The focus remained on grooming Stanley Park to become a decoration to the city, 
     </div>
   </div>
 </div>
-This image portrays an Indian residential school in Chilliwack, with the innocuous and euphemistic handwritten caption, “Coqualeetza Industrial School.” The residential school system is widely considered to be one of the greatest crimes perpetrated against indigenous peoples by the Canadian government, and indigenous families today are still grappling with the generational trauma that these institutions caused. More information can be found through the Indian Residential School History and Dialogue Centre, which aims to address this history from a Survivor-centred approach.<br><br>
+This image portrays an Indian residential school in Chilliwack, with the innocuous and euphemistic handwritten caption, “Coqualeetza Industrial School.” The residential school system is widely considered to be one of the greatest crimes perpetrated against indigenous peoples by the Canadian government, and indigenous families today are still grappling with the generational trauma that these institutions caused. More information can be found through the Indian Residential School History and Dialogue Centre, which aims to address this history from a Survivor-centred approach.<br><br><br>
 
 <div class="container">
   <div class="row">
