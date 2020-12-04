@@ -48,7 +48,7 @@ permalink: /urbandevelopment.html
     </div>
   </div>
 <p style="text-indent: 25px;">Jean Barman, in her book Stanley Park’s Secret shares quotes from indigenous individuals who lived on these lands before they were forced to relocate. In one case, a man named August Jack shares his experience of his house literally being chopped down while he was inside. The house was located on the site of a future road that would wrap around the perimeter of Stanley Park, and would therefore have been not unlike the houses pictured here at the edge of Deadman’s Island.<br>
-<b>“We was inside this house when the surveyors come along, and they chop the corner of our house when we was eating inside.” </b><br><br><br>
+<p style="margin-left:10%; margin-right:10%;">“We was inside this house when the surveyors come along, and they chop the corner of our house when we was eating inside.” </p><br><br><br>
 
 <div class="container">
   <div class="row">
