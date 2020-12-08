@@ -102,3 +102,9 @@ The use of indigenous peoples and imagery as “mascots” is an affront that co
     </div>
   </div>
 </div><br><br>
+
+<div class="col-md-12">
+
+    {% include index/data-download.html %}
+
+</div>
