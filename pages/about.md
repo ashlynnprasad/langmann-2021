@@ -41,9 +41,9 @@ This exhibition was created in the autumn of 2020 using as a reference point the
 
 <!--(Each included file has several options, which are documented in the files themselves. I've given the content widths of 25% and 50% to save space, but you can feature the entire image or document.) 
 
-<!--- Image --> `{% raw %}{% include feature/item-figure.html objectid="demo_001" width="25" %}{% endraw %}`
+<!--- Image `{% raw %}{% include feature/item-figure.html objectid="demo_001" width="25" %}{% endraw %}`-->
 
-<!--{% include feature/item-figure.html objectid="demo_001" width="25" %}
+<!--{% include feature/item-figure.html objectid="demo_001" width="25" %}-->
 
 <!--- PDF -- > `{% raw %}{% include feature/item-pdf-embed.html objectid="demo_002"  width="25" %}{% endraw %}`
 
