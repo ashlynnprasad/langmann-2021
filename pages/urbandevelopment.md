@@ -105,3 +105,10 @@ permalink: /urbandevelopment.html
     </div>
   </div>
   <p style="text-indent: 25px;">This image clearly shows us what kinds of people were in charge of building and designing the new city – and by extension, which kinds of people were not included – and puts one in mind of what the city might have been like if the indigenous peoples to whom the land belonged and was sacred had been allowed to have a say in the creation of the new city. The image, and the fact that someone made sure to photographically document the laying of cement, gives us an insight into what settlers of the time identified as markers of societal progress.<br><br>
+    
+    
+  <div class="col-md-12">
+
+    {% include index/data-download.html %}
+
+  </div>
