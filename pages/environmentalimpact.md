@@ -25,11 +25,8 @@ Cole Harris explains more broadly the outlook that many indigenous peoples held 
     <div class="col-sm">
       {% include feature/item-figure.html objectid="langmann010" width="100" %}
     </div>
-    <div class="col-sm">
-      {% include feature/item-figure.html objectid="langmann008" width="100" %}
-    </div>
-  </div>
 </div>
+{% include feature/item-figure.html objectid="langmann008" width="100" %}
 
 <p style="text-indent: 25px;">One important consideration is the fact that not only was mass logging taking place in British Columbia at that time, but the fact that these photographs depicting sprawling landscapes of felled trees exist perhaps indicates public demand for evidence of such activities. Photographers wanted to document the process by which forests were cut down in the service of creating a city. One can imagine how average settlers at that time might have enjoyed seeing evidence of the “modernization” of the land that they had overtaken.<br>
 <p style="text-indent: 25px;">While the prevailing attitude of colonial-settlers was one which enabled them to justify a colonial takeover of indigenous lands, as well as mass logging, mining, and other activities to rob the land of precious resources, not everyone was entirely comfortable buying into the fairy tale that these activities were natural and inevitable steps forward in the progress of humankind’s domination over nature. Colonel Moody said of the land at New Westminster, it was “magnificent beyond description…. I declare without the least sentimentality, I grieve and mourn the ruthless destruction of these most glorious trees. What a grand old park this whole hill would make.” <br><br>
