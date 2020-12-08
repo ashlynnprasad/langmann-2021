@@ -99,3 +99,9 @@ Cole Harris explains more broadly the outlook that many indigenous peoples held 
 <big>Modern Impacts</big>
 
 <p style="text-indent: 25px;">The issue of settlers not appropriately considering indigenous rights to land and water is one that continues to be relevant today. During the curation of this exhibition, individuals from the Mikmaq nation were being harassed by settlers on the east coast of Canada for trying to exercise their fishing rights. Unlike many similar events throughout Canadian history, this battle ended in success for the Mikmaq, wherein several communities were able to come together to purchase a huge stake in the Clearwater fishing company, thereby giving legal heft to their right to fish. <br><br>
+  
+  <div class="col-md-12">
+
+    {% include index/data-download.html %}
+
+  </div>
