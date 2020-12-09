@@ -21,3 +21,7 @@ Rare Books and Special Collections, which houses the Uno Langmann Family Collect
 This exhibition was created in the autumn of 2020 using as a reference point the Indigenous Peoples: Language Guidelines Version 2.0 created by the University of British Columbia in 2018.  We have used the guidelines outlined in this document to attempt to describe indigenous peoples, lands, and languages as accurately and respectfully as we can, while realizing that best practices for terminology are subject to change as time passes, and that this exhibition may itself be a relic of its time – complete with out-of-date, incorrect terminology – in the future.
 
 ## Acknowledgements
+
+Many thanks go to the Uno Langmann Family for donating the collection of photographs from which this exhibition was born.<br>
+This exhibition would not have been possible without the efforts of Eka Grguric, Digital Scholarship Librarian at UBC, who provided near-constant troubleshooting and guidance during the process of building the website.<br>
+Thanks to Krisztina Laszlo for managing the project and providing editing suggestions and curation guidance throughout.
