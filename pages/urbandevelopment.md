@@ -18,10 +18,10 @@ permalink: /urbandevelopment.html
 
 <div class="container">
   <div class="row">
-    <div class="col-sm-4">
+    <div class="col-sm-5">
       {% include feature/item-figure.html objectid="langmann019" width="100" %}
     </div>
-    <div class="col-sm-8">
+    <div class="col-sm-7">
       Perhaps the best example of the colonial-settler attitude towards progress and urban development, this illustration for the Golden Jubilee shows two drawings of the Vancouver skyline, one before skyscrapers and buildings were erected, and one after. The paragraph gets at the fairy tale that colonial settlers had to tell themselves in order to justify to themselves the violent takeover of indigenous lands. They had to first believe that Vancouver had been completely pure and unsettled before they had taken over, ignoring the society that had existed there before and continued to exist after their arrival; and they had to secondly believe that urbanization and industrialization were positive steps towards progress, in order to believe that they had created and saved rather than destroyed and harmed.
     </div>
   </div>
@@ -33,7 +33,7 @@ permalink: /urbandevelopment.html
      <br><br><br> The handwritten caption on this photograph of a tall row of trees, reading “This is the forest primeval,” provides further evidence for the way in which settlers chose to view the lands they had stolen, and Stanley Park in particular.
     </div>
     <div class="col-sm">
-      {% include feature/item-figure.html objectid="langmann034" width="50" %}
+      {% include feature/item-figure.html objectid="langmann034" width="75" %}
     </div>
   </div>
 </div>
@@ -44,7 +44,7 @@ permalink: /urbandevelopment.html
       {% include feature/item-figure.html objectid="langmann035" width="100" %}
     </div>
     <div class="col-sm-5">
-      This image, taken from Coal Harbour and looking toward Deadman’s Island sometime between 1891 and 1901, shows settlements along the bank of the island. These were establishments that had to be destroyed, and their residents forced to relocate, in order to achieve the impression of an unsettled, primeval land. Images such as this one provide evidence for the fact that the area known today as Stanley Park was the site of a thriving populace before it was deliberately displaced in order to appear as though it had never been settled.<br>
+      <br><br><br>This image, taken from Coal Harbour and looking toward Deadman’s Island sometime between 1891 and 1901, shows settlements along the bank of the island. These were establishments that had to be destroyed, and their residents forced to relocate, in order to achieve the impression of an unsettled, primeval land. Images such as this one provide evidence for the fact that the area known today as Stanley Park was the site of a thriving populace before it was deliberately displaced in order to appear as though it had never been settled.<br>
     </div>
   </div>
 <p style="text-indent: 25px;">Jean Barman, in her book Stanley Park’s Secret shares quotes from indigenous individuals who lived on these lands before they were forced to relocate. In one case, a man named August Jack shares his experience of his house literally being chopped down while he was inside. The house was located on the site of a future road that would wrap around the perimeter of Stanley Park, and would therefore have been not unlike the houses pictured here at the edge of Deadman’s Island.<br>
@@ -53,7 +53,7 @@ permalink: /urbandevelopment.html
 <div class="container">
   <div class="row justify-content-md-center">
     <div class="col-sm-5">
-      <br><br><br>This image shows English Bay at around the time when the city was making moves to develop the road around Stanley Park. In the image, buildings can be seen at the edge of the shore, which would have all been demolished in order to create the vision of Stanley Park that the city wanted.
+      <br><br><br><br>This image shows English Bay at around the time when the city was making moves to develop the road around Stanley Park. In the image, buildings can be seen at the edge of the shore, which would have all been demolished in order to create the vision of Stanley Park that the city wanted.
     </div>
     <div class="col-sm-7">
       {% include feature/item-figure.html objectid="langmann036" width="100" %}
