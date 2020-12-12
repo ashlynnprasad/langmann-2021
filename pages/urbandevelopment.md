@@ -33,7 +33,7 @@ permalink: /urbandevelopment.html
      <br><br><br> The handwritten caption on this photograph of a tall row of trees, reading “This is the forest primeval,” provides further evidence for the way in which settlers chose to view the lands they had stolen, and Stanley Park in particular.
     </div>
     <div class="col-sm-8">
-      {% include feature/item-figure.html objectid="langmann034" width="50" %}
+      {% include feature/item-figure.html objectid="langmann034" width="25" %}
     </div>
   </div>
 </div>
@@ -68,7 +68,7 @@ permalink: /urbandevelopment.html
     <div class="col-sm-4">
       This postcard is notable not only for the way it showcases the large buildings and paved roads of Vancouver’s newly-developed downtown area, as well as the parade which is apparently intended to show off the city, but also for the signage visible. One banner reads “A Hundred Thousand Welcomes,” in an example of settlers enthusiastically welcoming strangers to lands that they had stolen from the only peoples who were rightfully positioned to be offering mass welcomes.
     </div>
-  </div>
+  </div><br>
 <p style="text-indent: 25px;">Another slightly more puzzling sign in the background reads “Just Watch Vancouver Smoke.” This could be an indication of the fact that, at the time, industrialization was seen as an mark of societal progress, and the negative impacts of things like smokestacks on the environment were not yet being widely considered – at least not by settlers.<br><br><br>
   
 <div class="container">
