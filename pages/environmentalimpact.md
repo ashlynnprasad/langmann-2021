@@ -61,10 +61,10 @@ Cole Harris explains more broadly the outlook that many indigenous peoples held 
 
 <div class="container">
   <div class="row">
-    <div class="col-sm-9">
+    <div class="col-sm-8">
       {% include feature/item-figure.html objectid="langmann004" width="75" %}
     </div>
-    <div class="col-sm-3">
+    <div class="col-sm-4">
       Similarly to photographs portraying steamboats, this photograph of a paper mill in Ocean Falls would have provided settlers with evidence of the ways in which the recently-acquired lands of B.C. were being put to use in cultivating industries such as papermaking, which would help vault B.C. into the modern world. At the time, environmental concerns were not being widely considered among the settler community, and an image such as this would have been an object more of pride than of concern. <br><br>
     </div>
   </div>
