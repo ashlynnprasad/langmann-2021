@@ -34,7 +34,7 @@ Cole Harris explains more broadly the outlook that many indigenous peoples held 
 <div class="container">
   <div class="row">
     <div class="col-sm-8">
-      {% include feature/item-figure.html objectid="langmann009" width="75" %}
+      {% include feature/item-figure.html objectid="langmann009" width="100" %}
     </div>
     <div class="col-sm-4">
       This image portrays a cedar being felled in North Vancouver in 1896. According to the caption on the postcard, this tree was the largest recorded tree in British Columbia at that time, with a diameter of twenty-two feet. The image is a postcard, which means that the photograph was specifically designed to be sent abroad, conveying a certain triumphant attitude with which settlers showed friends and relatives how settler society was “taming” the lands in and around Vancouver.
@@ -62,7 +62,7 @@ Cole Harris explains more broadly the outlook that many indigenous peoples held 
 <div class="container">
   <div class="row">
     <div class="col-sm-8">
-      {% include feature/item-figure.html objectid="langmann004" width="75" %}
+      {% include feature/item-figure.html objectid="langmann004" width="100" %}
     </div>
     <div class="col-sm-4">
       Similarly to photographs portraying steamboats, this photograph of a paper mill in Ocean Falls would have provided settlers with evidence of the ways in which the recently-acquired lands of B.C. were being put to use in cultivating industries such as papermaking, which would help vault B.C. into the modern world. At the time, environmental concerns were not being widely considered among the settler community, and an image such as this would have been an object more of pride than of concern. <br><br>
