@@ -33,7 +33,7 @@ permalink: /urbandevelopment.html
      <br><br><br> The handwritten caption on this photograph of a tall row of trees, reading “This is the forest primeval,” provides further evidence for the way in which settlers chose to view the lands they had stolen, and Stanley Park in particular.
     </div>
     <div class="col-sm-5">
-      {% include feature/item-figure.html objectid="langmann034" width="50" %}
+      {% include feature/item-figure.html objectid="langmann034" width="75" %}
     </div>
   </div>
 </div>
@@ -52,10 +52,10 @@ permalink: /urbandevelopment.html
 
 <div class="container">
   <div class="row">
-    <div class="col-sm-5">
+    <div class="col-sm-4">
       This image shows English Bay at around the time when the city was making moves to develop the road around Stanley Park. In the image, buildings can be seen at the edge of the shore, which would have all been demolished in order to create the vision of Stanley Park that the city wanted.
     </div>
-    <div class="col-sm-7">
+    <div class="col-sm-8">
       {% include feature/item-figure.html objectid="langmann036" width="75" %}
     </div>
   </div><br><br>
@@ -63,7 +63,7 @@ permalink: /urbandevelopment.html
 <div class="container">
   <div class="row">
     <div class="col-sm-8">
-      {% include feature/item-figure.html objectid="langmann022" width="75" %}
+      {% include feature/item-figure.html objectid="langmann022" width="100" %}
     </div>
     <div class="col-sm-4">
       This postcard is notable not only for the way it showcases the large buildings and paved roads of Vancouver’s newly-developed downtown area, as well as the parade which is apparently intended to show off the city, but also for the signage visible. One banner reads “A Hundred Thousand Welcomes,” in an example of settlers enthusiastically welcoming strangers to lands that they had stolen from the only peoples who were rightfully positioned to be offering mass welcomes.
