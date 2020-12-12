@@ -14,10 +14,10 @@ permalink: /relationswithindigenouspeoples.html
 
 <div class="container">
   <div class="row">
-    <div class="col-sm">
+    <div class="col-sm-8">
       {% include feature/item-figure.html objectid="langmann025" width="75" %}
     </div>
-    <div class="col-sm">
+    <div class="col-sm-4">
       Another example of the ways in which settler-colonial preferences for the visual appeal of the park overrode entire histories of indigenous customs and land rights was the re-placement of Lumberman’s Arch. John Mackie explains how the arch was resituated from its original home downtown to Stanley Park, “on the site of an old native village that whites called Whoi Whoi,” or Xwayxway, and which had been home to Squamish, Musqueam and Tsleil-Waututh First Nations.  Not only was it their home, but “when the first road was built around Stanley Park, a construction crew unearthed near Whoi Whoi a large deposit of broken and crushed clam shells, as well as skulls and other body parts.... Rather than exciting any interest, the shells were used to surface the road.” 
     </div>
   </div>
@@ -26,10 +26,10 @@ permalink: /relationswithindigenouspeoples.html
 
 <div class="container">
   <div class="row">
-    <div class="col-sm">
+    <div class="col-sm-4">
       Photographs such as this offer us an insight into what Stanley Park might have been like before it was taken under control by settlers. It also offers us a better understanding of the ways in which Stanley Park was intentionally styled in order to appear untouched, while simultaneously and systematically removing certain naturally-occurring aspects of its environment, such as the existence of wild buffalo on the land. The removal of the buffalo is particularly poignant because many indigenous peoples “consider the buffalo as their sacred animal that is closely connected to the Creator.” 
     </div>
-    <div class="col-sm">
+    <div class="col-sm-8">
       {% include feature/item-figure.html objectid="langmann026" width="75" %}
     </div>
   </div>
@@ -37,10 +37,10 @@ permalink: /relationswithindigenouspeoples.html
 
 <div class="container">
   <div class="row">
-    <div class="col-sm">
+    <div class="col-sm-8">
       {% include feature/item-figure.html objectid="langmann027" width="75" %}
     </div>
-    <div class="col-sm">
+    <div class="col-sm-4">
       This image shows us another relic of the many past lives of Stanley Park, from a zoo which once existed there. As Donaldson says, “Not only were plant species regularly added and replaced in the Stanley Park of the early 20th century; so too were members of the peninsula’s animal population” such as “animals kept in the park zoo (including several deer and a bear notable for its repeated escapes).”  The existence of such an attraction acts as yet another example of the ways in which the settlers of that time wished to craft a particular image of Stanley Park: full of nature, but only in ways that felt palatable and safe to settlers.
     </div>
   </div>
@@ -48,10 +48,10 @@ permalink: /relationswithindigenouspeoples.html
 
 <div class="container">
   <div class="row">
-    <div class="col-sm">
+    <div class="col-sm-4">
       This image is a further example of the ways in which settlers disrespected indigenous customs and traditions. When seen through a more critical lens, this image reads as evidence of the ways in which settlers not only took the land for their own, but then also proceeded to take advantage of natural resources in harmful and toxic ways. The handwritten captions on the photograph – “The cougar hunt” and “The cougar dead just where she fell” – speak to the enjoyment and pride that was taken in hunting for sport, rather than focusing on being more responsible, respectful custodians of the land.
     </div>
-    <div class="col-sm">
+    <div class="col-sm-8">
       {% include feature/item-figure.html objectid="langmann030" width="75" %}
     </div>
   </div>
@@ -59,10 +59,10 @@ permalink: /relationswithindigenouspeoples.html
 
 <div class="container">
   <div class="row">
-    <div class="col-sm">
+    <div class="col-sm-8">
       {% include feature/item-figure.html objectid="langmann015" width="75" %}
     </div>
-    <div class="col-sm">
+    <div class="col-sm-4">
       This image is most notable for its illustration of George Vancouver, one of the first colonizers of the area that now bears his name. In the image, George Vancouver is seen in larger-than-life form, physically standing on the lands now known as Stanley Park. Vancouver’s arms are slightly raised and his feet positioned in a way that arguably conveys power and ownership. Whether intentionally or not, his raised arms somewhat mimic the “Salish tradition of welcoming visitors,” which also includes raised arms. 
     </div>
   </div>
@@ -70,10 +70,10 @@ permalink: /relationswithindigenouspeoples.html
 
 <div class="container">
   <div class="row">
-    <div class="col-sm">
+    <div class="col-sm-4">
       “When British Columbia entered Confederation in 1871, Aboriginal people were placed under federal jurisdiction. By 1876, the Indian Act legislated our daily lives. In an attempt to assimilate Aboriginal people to Christian Canadian society, the government sent our children to Indian residential schools. Despite these destructive policies, our culture and society persisted.” <br>
     </div>
-    <div class="col-sm">
+    <div class="col-sm-8">
       {% include feature/item-figure.html objectid="langmann024" width="75" %}
     </div>
   </div>
@@ -94,10 +94,10 @@ The use of indigenous peoples and imagery as “mascots” is an affront that co
 
 <div class="container">
   <div class="row">
-    <div class="col-sm">
+    <div class="col-sm-4">
       This image portrays a play about the crucifixion of Jesus Christ performed by indigenous folks in front of an audience of white settlers. The context of the image, such as how and why this event came to pass, is unknown, but there is something striking about the image when one considers that Christianity was often forcibly foisted upon indigenous peoples and children in particular in order to both separate them from their cultural traditions and to offer another pathway by which settlers could justify colonization to themselves.
     </div>
-    <div class="col-sm">
+    <div class="col-sm-8">
       {% include feature/item-figure.html objectid="langmann023" width="75" %} 
     </div>
   </div>
