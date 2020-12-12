@@ -62,7 +62,7 @@ Cole Harris explains more broadly the outlook that many indigenous peoples held 
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      {% include feature/item-figure.html objectid="langmann004" width="75" %}
+      {% include feature/item-figure.html objectid="langmann004" width="100" %}
     </div>
     <div class="col-sm">
       Similarly to photographs portraying steamboats, this photograph of a paper mill in Ocean Falls would have provided settlers with evidence of the ways in which the recently-acquired lands of B.C. were being put to use in cultivating industries such as papermaking, which would help vault B.C. into the modern world. At the time, environmental concerns were not being widely considered among the settler community, and an image such as this would have been an object more of pride than of concern. <br><br>
@@ -76,7 +76,7 @@ Cole Harris explains more broadly the outlook that many indigenous peoples held 
       This image portrays an aerial view of factories and other buildings in downtown Vancouver. In the distance, fumes from an array of smokestacks can be seen wafting into the air and blurring the view of the mountains at the horizon. The entire sky seems hazy, so that one cannot quite tell how much of the haze is caused by cloud and how much by pollution.
     </div>
     <div class="col-sm">
-      {% include feature/item-figure.html objectid="langmann005" width="75" %}
+      {% include feature/item-figure.html objectid="langmann005" width="100" %}
     </div>
   </div>
 </div>
@@ -85,7 +85,7 @@ Cole Harris explains more broadly the outlook that many indigenous peoples held 
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      {% include feature/item-figure.html objectid="langmann031" width="75" %}
+      {% include feature/item-figure.html objectid="langmann031" width="100" %}
     </div>
     <div class="col-sm">
       This image depicts a wide open area in which hundreds of sacks of coal have been stacked. Similar to other photographs in this exhibition which display a wide shot of an open area full of, for example, dozens of felled trees, this image similarly uses a wide shot to show viewers the sheer scope of the operation at hand. At the time, when industrialization was the goal, such an image might have seemed like evidence of progress. Today, it may be difficult to look at the image without thinking about the negative impact that colonization had on the natural environment.<br><br>
