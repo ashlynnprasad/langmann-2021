@@ -33,10 +33,10 @@ Cole Harris explains more broadly the outlook that many indigenous peoples held 
 
 <div class="container">
   <div class="row">
-    <div class="col-sm">
+    <div class="col-sm-8">
       {% include feature/item-figure.html objectid="langmann009" width="75" %}
     </div>
-    <div class="col-sm">
+    <div class="col-sm-4">
       This image portrays a cedar being felled in North Vancouver in 1896. According to the caption on the postcard, this tree was the largest recorded tree in British Columbia at that time, with a diameter of twenty-two feet. The image is a postcard, which means that the photograph was specifically designed to be sent abroad, conveying a certain triumphant attitude with which settlers showed friends and relatives how settler society was “taming” the lands in and around Vancouver.
     </div>
   </div>
@@ -72,10 +72,10 @@ Cole Harris explains more broadly the outlook that many indigenous peoples held 
 
 <div class="container">
   <div class="row">
-    <div class="col-sm">
+    <div class="col-sm-4">
       This image portrays an aerial view of factories and other buildings in downtown Vancouver. In the distance, fumes from an array of smokestacks can be seen wafting into the air and blurring the view of the mountains at the horizon. The entire sky seems hazy, so that one cannot quite tell how much of the haze is caused by cloud and how much by pollution.
     </div>
-    <div class="col-sm">
+    <div class="col-sm-8">
       {% include feature/item-figure.html objectid="langmann005" width="100" %}
     </div>
   </div>
@@ -84,10 +84,10 @@ Cole Harris explains more broadly the outlook that many indigenous peoples held 
 
 <div class="container">
   <div class="row">
-    <div class="col-sm">
+    <div class="col-sm-8">
       {% include feature/item-figure.html objectid="langmann031" width="100" %}
     </div>
-    <div class="col-sm">
+    <div class="col-sm-4">
       This image depicts a wide open area in which hundreds of sacks of coal have been stacked. Similar to other photographs in this exhibition which display a wide shot of an open area full of, for example, dozens of felled trees, this image similarly uses a wide shot to show viewers the sheer scope of the operation at hand. At the time, when industrialization was the goal, such an image might have seemed like evidence of progress. Today, it may be difficult to look at the image without thinking about the negative impact that colonization had on the natural environment.<br><br>
     </div>
   </div>
