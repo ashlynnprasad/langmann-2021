@@ -29,10 +29,10 @@ permalink: /urbandevelopment.html
 
 <div class="container">
   <div class="row">
-    <div class="col-sm">
+    <div class="col-sm-4">
      <br><br><br> The handwritten caption on this photograph of a tall row of trees, reading “This is the forest primeval,” provides further evidence for the way in which settlers chose to view the lands they had stolen, and Stanley Park in particular.
     </div>
-    <div class="col-sm">
+    <div class="col-sm-8">
       {% include feature/item-figure.html objectid="langmann034" width="50" %}
     </div>
   </div>
@@ -40,10 +40,10 @@ permalink: /urbandevelopment.html
 
 <div class="container">
   <div class="row">
-    <div class="col-sm">
+    <div class="col-sm-8">
       {% include feature/item-figure.html objectid="langmann035" width="75" %}
     </div>
-    <div class="col-sm">
+    <div class="col-sm-4">
       This image, taken from Coal Harbour and looking toward Deadman’s Island sometime between 1891 and 1901, shows settlements along the bank of the island. These were establishments that had to be destroyed, and their residents forced to relocate, in order to achieve the impression of an unsettled, primeval land. Images such as this one provide evidence for the fact that the area known today as Stanley Park was the site of a thriving populace before it was deliberately displaced in order to appear as though it had never been settled.<br>
     </div>
   </div>
@@ -52,20 +52,20 @@ permalink: /urbandevelopment.html
 
 <div class="container">
   <div class="row">
-    <div class="col-sm">
+    <div class="col-sm-4">
       This image shows English Bay at around the time when the city was making moves to develop the road around Stanley Park. In the image, buildings can be seen at the edge of the shore, which would have all been demolished in order to create the vision of Stanley Park that the city wanted.
     </div>
-    <div class="col-sm">
+    <div class="col-sm-8">
       {% include feature/item-figure.html objectid="langmann036" width="75" %}
     </div>
   </div><br><br>
   
 <div class="container">
   <div class="row">
-    <div class="col-sm">
+    <div class="col-sm-8">
       {% include feature/item-figure.html objectid="langmann022" width="75" %}
     </div>
-    <div class="col-sm">
+    <div class="col-sm-4">
       This postcard is notable not only for the way it showcases the large buildings and paved roads of Vancouver’s newly-developed downtown area, as well as the parade which is apparently intended to show off the city, but also for the signage visible. One banner reads “A Hundred Thousand Welcomes,” in an example of settlers enthusiastically welcoming strangers to lands that they had stolen from the only peoples who were rightfully positioned to be offering mass welcomes.
     </div>
   </div>
@@ -87,20 +87,20 @@ permalink: /urbandevelopment.html
   
 <div class="container">
   <div class="row">
-    <div class="col-sm">
+    <div class="col-sm-8">
       {% include feature/item-figure.html objectid="langmann018" width="100" %}
     </div>
-    <div class="col-sm">
+    <div class="col-sm-4">
       Areas that had once been important and sacred places to indigenous peoples, including even burial grounds, were taken over and transformed into sites of leisure and social gathering for colonial settlers. This image portrays a busy day at Second Beach in Stanley Park, where settlers in suits and dresses walk, gather, and sun- and ocean-bathe. The tall trees of Stanley Park can be seen in the background.
     </div>
   </div><br><br>
 
 <div class="container">
   <div class="row">
-    <div class="col-sm">
+    <div class="col-sm-4">
       This image portrays a group of settler men laying cement for sidewalks in the rapidly developing urban hub now known as Vancouver. Once Stanley Park was designated as the city’s main park, it seems to have become less important to ensure that the rest of Vancouver remain natural and authentic, and as such, construction and urbanization exploded in the rest of the city. 
     </div>
-    <div class="col-sm">
+    <div class="col-sm-8">
       {% include feature/item-figure.html objectid="langmann020" width="100" %}
     </div>
   </div>
