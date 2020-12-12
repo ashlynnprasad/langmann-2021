@@ -14,10 +14,10 @@ permalink: /relationswithindigenouspeoples.html
 
 <div class="container">
   <div class="row">
-    <div class="col-sm">
+    <div class="col-sm-7">
       {% include feature/item-figure.html objectid="langmann025" width="100" %}
     </div>
-    <div class="col-sm">
+    <div class="col-sm-5">
       Another example of the ways in which settler-colonial preferences for the visual appeal of the park overrode entire histories of indigenous customs and land rights was the re-placement of Lumberman’s Arch. John Mackie explains how the arch was resituated from its original home downtown to Stanley Park, “on the site of an old native village that whites called Whoi Whoi,” or Xwayxway, and which had been home to Squamish, Musqueam and Tsleil-Waututh First Nations.  Not only was it their home, but “when the first road was built around Stanley Park, a construction crew unearthed near Whoi Whoi a large deposit of broken and crushed clam shells, as well as skulls and other body parts.... Rather than exciting any interest, the shells were used to surface the road.” 
     </div>
   </div>
@@ -37,10 +37,10 @@ permalink: /relationswithindigenouspeoples.html
 
 <div class="container">
   <div class="row">
-    <div class="col-sm-7">
-      {% include feature/item-figure.html objectid="langmann027" width="75" %}
+    <div class="col-sm">
+      {% include feature/item-figure.html objectid="langmann027" width="100" %}
     </div>
-    <div class="col-sm-5">
+    <div class="col-sm">
       This image shows us another relic of the many past lives of Stanley Park, from a zoo which once existed there. As Donaldson says, “Not only were plant species regularly added and replaced in the Stanley Park of the early 20th century; so too were members of the peninsula’s animal population” such as “animals kept in the park zoo (including several deer and a bear notable for its repeated escapes).”  The existence of such an attraction acts as yet another example of the ways in which the settlers of that time wished to craft a particular image of Stanley Park: full of nature, but only in ways that felt palatable and safe to settlers.
     </div>
   </div>
@@ -48,11 +48,11 @@ permalink: /relationswithindigenouspeoples.html
 
 <div class="container">
   <div class="row">
-    <div class="col-sm-5">
+    <div class="col-sm">
       This image is a further example of the ways in which settlers disrespected indigenous customs and traditions. When seen through a more critical lens, this image reads as evidence of the ways in which settlers not only took the land for their own, but then also proceeded to take advantage of natural resources in harmful and toxic ways. The handwritten captions on the photograph – “The cougar hunt” and “The cougar dead just where she fell” – speak to the enjoyment and pride that was taken in hunting for sport, rather than focusing on being more responsible, respectful custodians of the land.
     </div>
-    <div class="col-sm-7">
-      {% include feature/item-figure.html objectid="langmann030" width="75" %}
+    <div class="col-sm">
+      {% include feature/item-figure.html objectid="langmann030" width="100" %}
     </div>
   </div>
 </div><br><br>
