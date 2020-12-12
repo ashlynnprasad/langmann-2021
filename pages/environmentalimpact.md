@@ -72,10 +72,10 @@ Cole Harris explains more broadly the outlook that many indigenous peoples held 
 
 <div class="container">
   <div class="row">
-    <div class="col-sm-4">
+    <div class="col-sm-5">
       <br><br><br>This image portrays an aerial view of factories and other buildings in downtown Vancouver. In the distance, fumes from an array of smokestacks can be seen wafting into the air and blurring the view of the mountains at the horizon. The entire sky seems hazy, so that one cannot quite tell how much of the haze is caused by cloud and how much by pollution.
     </div>
-    <div class="col-sm-8">
+    <div class="col-sm-7">
       {% include feature/item-figure.html objectid="langmann005" width="100" %}
     </div>
   </div>
