@@ -51,9 +51,9 @@ permalink: /urbandevelopment.html
 <p style="margin-left:10%; margin-right:10%;">“We was inside this house when the surveyors come along, and they chop the corner of our house when we was eating inside.” </p><br><br><br>
 
 <div class="container">
-  <div class="row">
+  <div class="row justify-content-md-center">
     <div class="col-sm-5">
-      This image shows English Bay at around the time when the city was making moves to develop the road around Stanley Park. In the image, buildings can be seen at the edge of the shore, which would have all been demolished in order to create the vision of Stanley Park that the city wanted.
+      <br><br><br>This image shows English Bay at around the time when the city was making moves to develop the road around Stanley Park. In the image, buildings can be seen at the edge of the shore, which would have all been demolished in order to create the vision of Stanley Park that the city wanted.
     </div>
     <div class="col-sm-7">
       {% include feature/item-figure.html objectid="langmann036" width="100" %}
