@@ -88,7 +88,7 @@ permalink: /urbandevelopment.html
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      {% include feature/item-figure.html objectid="langmann018" width="75" %}
+      {% include feature/item-figure.html objectid="langmann018" width="100" %}
     </div>
     <div class="col-sm">
       Areas that had once been important and sacred places to indigenous peoples, including even burial grounds, were taken over and transformed into sites of leisure and social gathering for colonial settlers. This image portrays a busy day at Second Beach in Stanley Park, where settlers in suits and dresses walk, gather, and sun- and ocean-bathe. The tall trees of Stanley Park can be seen in the background.
@@ -101,7 +101,7 @@ permalink: /urbandevelopment.html
       This image portrays a group of settler men laying cement for sidewalks in the rapidly developing urban hub now known as Vancouver. Once Stanley Park was designated as the city’s main park, it seems to have become less important to ensure that the rest of Vancouver remain natural and authentic, and as such, construction and urbanization exploded in the rest of the city. 
     </div>
     <div class="col-sm">
-      {% include feature/item-figure.html objectid="langmann020" width="75" %}
+      {% include feature/item-figure.html objectid="langmann020" width="100" %}
     </div>
   </div>
   <p style="text-indent: 25px;">This image clearly shows us what kinds of people were in charge of building and designing the new city – and by extension, which kinds of people were not included – and puts one in mind of what the city might have been like if the indigenous peoples to whom the land belonged and was sacred had been allowed to have a say in the creation of the new city. The image, and the fact that someone made sure to photographically document the laying of cement, gives us an insight into what settlers of the time identified as markers of societal progress.<br><br>
