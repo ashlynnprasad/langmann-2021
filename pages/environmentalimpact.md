@@ -40,7 +40,7 @@ Cole Harris explains more broadly the outlook that many indigenous peoples held 
       This image portrays a cedar being felled in North Vancouver in 1896. According to the caption on the postcard, this tree was the largest recorded tree in British Columbia at that time, with a diameter of twenty-two feet. The image is a postcard, which means that the photograph was specifically designed to be sent abroad, conveying a certain triumphant attitude with which settlers showed friends and relatives how settler society was “taming” the lands in and around Vancouver.
     </div>
   </div>
-</div>
+</div><br>
 <p style="text-indent: 25px;">Just as this image stands as evidence of colonial-settler disrespect for the land, it also represents disrespect for indigenous peoples, as the cedar tree in particular “plays an integral role in the spiritual beliefs and ceremonial life of coastal First Nations…. The deep respect for cedar is a rich tradition that spans thousands of years and continues to be culturally, spiritually, and economically important.”  The choice to not only fell such a tree but also photograph the event for the purposes of circulation therefore indicates an ignorance of indigenous cultures at best, and at worst a complete disregard and apathy for what those cultures considered sacred.<br><br>
 
 <div class="container">
