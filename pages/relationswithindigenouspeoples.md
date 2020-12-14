@@ -77,14 +77,14 @@ permalink: /relationswithindigenouspeoples.html
   <div class="row">
     <div class="col-sm-4">
       “When British Columbia entered Confederation in 1871, Aboriginal people were placed under federal jurisdiction. By 1876, the Indian Act legislated our daily lives. In an attempt to assimilate Aboriginal people to Christian Canadian society, the government sent our children to Indian residential schools. Despite these destructive policies, our culture and society persisted.” <br>
+      <small>Image description: Large building in the background with a fence in the foreground. Handwritten caption on the photograph reads: Coqualeetza Industrial School, Chilliwack B.C.</small>
     </div>
     <div class="col-sm-8">
       {% include feature/item-figure.html objectid="langmann024" width="100" %}
     </div>
   </div>
 </div>
-<p style="text-indent: 25px;">This image portrays an Indian residential school in Chilliwack, with the innocuous and euphemistic handwritten caption, “Coqualeetza Industrial School.” The residential school system is widely considered to be one of the greatest crimes perpetrated against indigenous peoples by the Canadian government, and indigenous families today are still grappling with the generational trauma that these institutions caused. More information can be found through the Indian Residential School History and Dialogue Centre, which aims to address this history from a Survivor-centred approach.<br>
-  <small>Image description: Large building in the background with a fence in the foreground. Handwritten caption on the photograph reads: Coqualeetza Industrial School, Chilliwack B.C.</small><br><br>
+<p style="text-indent: 25px;">This image portrays an Indian residential school in Chilliwack, with the innocuous and euphemistic handwritten caption, “Coqualeetza Industrial School.” The residential school system is widely considered to be one of the greatest crimes perpetrated against indigenous peoples by the Canadian government, and indigenous families today are still grappling with the generational trauma that these institutions caused. More information can be found through the Indian Residential School History and Dialogue Centre, which aims to address this history from a Survivor-centred approach.<br><br><br>
 
 <div class="container">
   <div class="row">
