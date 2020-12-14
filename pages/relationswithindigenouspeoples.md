@@ -16,14 +16,14 @@ permalink: /relationswithindigenouspeoples.html
   <div class="row">
     <div class="col-sm-7">
       {% include feature/item-figure.html objectid="langmann025" width="100" %}<br>
-      <small>Image description: Large wooden arch with ocean in the background. Handwritten caption on photograph reads Lumberman's Arch (10), Stanley Park, Vancouver, B.C.</small><br>
+      <small>Image description: Large wooden arch with ocean in the background. Handwritten caption on photograph reads Lumberman's Arch (10), Stanley Park, Vancouver, B.C.</small>
     </div>
     <div class="col-sm-5">
-      <br>Another example of the ways in which settler-colonial preferences for the visual appeal of the park overrode entire histories of indigenous customs and land rights was the re-placement of Lumberman’s Arch. John Mackie explains how the arch was resituated from its original home downtown to Stanley Park, “on the site of an old native village that whites called Whoi Whoi,” or Xwayxway, and which had been home to Squamish, Musqueam and Tsleil-Waututh First Nations.  Not only was it their home, but “when the first road was built around Stanley Park, a construction crew unearthed near Whoi Whoi a large deposit of broken and crushed clam shells, as well as skulls and other body parts.... Rather than exciting any interest, the shells were used to surface the road.” 
+      Another example of the ways in which settler-colonial preferences for the visual appeal of the park overrode entire histories of indigenous customs and land rights was the re-placement of Lumberman’s Arch. John Mackie explains how the arch was resituated from its original home downtown to Stanley Park, “on the site of an old native village that whites called Whoi Whoi,” or Xwayxway, and which had been home to Squamish, Musqueam and Tsleil-Waututh First Nations.  Not only was it their home, but “when the first road was built around Stanley Park, a construction crew unearthed near Whoi Whoi a large deposit of broken and crushed clam shells, as well as skulls and other body parts.... Rather than exciting any interest, the shells were used to surface the road.” 
     </div>
   </div>
 </div>
-<p style="text-indent: 25px;">The focus remained on grooming Stanley Park to become a decoration to the city, where once it had been the site of a thriving indigenous population. A newspaper article at the time of the relocation of Lumberman’s Arch celebrated it as a “permanent advertisement of our lumber industries, a memento of the Royal visit and, artistically placed, a real ornament and appropriate addition to our beautiful park.”<br><br>
+<br><p style="text-indent: 25px;">The focus remained on grooming Stanley Park to become a decoration to the city, where once it had been the site of a thriving indigenous population. A newspaper article at the time of the relocation of Lumberman’s Arch celebrated it as a “permanent advertisement of our lumber industries, a memento of the Royal visit and, artistically placed, a real ornament and appropriate addition to our beautiful park.”<br><br>
 
 <div class="container">
   <div class="row">
@@ -36,7 +36,7 @@ permalink: /relationswithindigenouspeoples.html
   </div>
 </div>
 
-<small>Image description: Two buffalo standing in an open space, with a tree, tree stump, and building in the background. Handwritten caption on photograph reads: Buffalos, Stanley Park, Vancouver.</small><br><br>
+<center><small>Image description: Two buffalo standing in an open space, with a tree, tree stump, and building in the background. Handwritten caption on photograph reads: Buffalos, Stanley Park, Vancouver.</small></center><br><br>
 
 <div class="container">
   <div class="row">
@@ -44,12 +44,12 @@ permalink: /relationswithindigenouspeoples.html
       {% include feature/item-figure.html objectid="langmann027" width="100" %}
     </div>
     <div class="col-sm">
-      <br>This image shows us another relic of the many past lives of Stanley Park, from a zoo which once existed there. As Donaldson says, “Not only were plant species regularly added and replaced in the Stanley Park of the early 20th century; so too were members of the peninsula’s animal population” such as “animals kept in the park zoo (including several deer and a bear notable for its repeated escapes).”  The existence of such an attraction acts as yet another example of the ways in which the settlers of that time wished to craft a particular image of Stanley Park: full of nature, but only in ways that felt palatable and safe to settlers.
+      This image shows us another relic of the many past lives of Stanley Park, from a zoo which once existed there. As Donaldson says, “Not only were plant species regularly added and replaced in the Stanley Park of the early 20th century; so too were members of the peninsula’s animal population” such as “animals kept in the park zoo (including several deer and a bear notable for its repeated escapes).”  The existence of such an attraction acts as yet another example of the ways in which the settlers of that time wished to craft a particular image of Stanley Park: full of nature, but only in ways that felt palatable and safe to settlers.
     </div>
   </div>
 </div>
 
-<small>Image description: Two bears in a cage play around a large tree stump. In the background is a third bear in another cage.</small><br><br>
+<center><small>Image description: Two bears in a cage play around a large tree stump. In the background is a third bear in another cage.</small></center><br><br>
 
 <div class="container">
   <div class="row">
@@ -62,7 +62,7 @@ permalink: /relationswithindigenouspeoples.html
   </div>
 </div>
 
-<small>Image description: A cougar lays dead on the forest floor, with dogs and hunters squatting behind it.</small><br><br>
+<center><small>Image description: A cougar lays dead on the forest floor, with dogs and hunters squatting behind it.</small></center><br><br>
 
 <div class="container">
   <div class="row">
@@ -70,11 +70,12 @@ permalink: /relationswithindigenouspeoples.html
       {% include feature/item-figure.html objectid="langmann015" width="100" %}
     </div>
     <div class="col-sm-5">
-      This image is most notable for its illustration of George Vancouver, one of the first colonizers of the area that now bears his name. In the image, George Vancouver is seen in larger-than-life form, physically standing on the lands now known as Stanley Park. Vancouver’s arms are slightly raised and his feet positioned in a way that arguably conveys power and ownership. Whether intentionally or not, his raised arms somewhat mimic the “Salish tradition of welcoming visitors,” which also includes raised arms.<br><br>
-      <small> Image description: An aerial view of downtown Vancouver, looking north. An illustration of George Vancouver stands on Stanley Park with legs apart and arms slightly raised. Handwritten caption on the photograph reads: George Vancouver Welcomes You to Vancouver.</small>
+     <br>This image is most notable for its illustration of George Vancouver, one of the first colonizers of the area that now bears his name. In the image, George Vancouver is seen in larger-than-life form, physically standing on the lands now known as Stanley Park. Vancouver’s arms are slightly raised and his feet positioned in a way that arguably conveys power and ownership. Whether intentionally or not, his raised arms somewhat mimic the “Salish tradition of welcoming visitors,” which also includes raised arms.
     </div>
   </div>
 </div><br><br>
+
+<center><small>Image description: An aerial view of downtown Vancouver, looking north. An illustration of George Vancouver stands on Stanley Park with legs apart and arms slightly raised. Handwritten caption on the photograph reads: George Vancouver Welcomes You to Vancouver.</small></center><br><br>
 
 <div class="container">
   <div class="row">
@@ -113,7 +114,7 @@ The use of indigenous peoples and imagery as “mascots” is an affront that co
   </div>
 </div>
 
-<small>Image description: A group of indigenous individuals standing on a stage in the background acting out the crucifixion of Jesus Christ, with an audience of white settlers with their backs to the camera in the foreground.</small><br><br>
+<center><small>Image description: A group of indigenous individuals standing on a stage in the background acting out the crucifixion of Jesus Christ, with an audience of white settlers with their backs to the camera in the foreground.</small></center><br><br>
 
 <div class="col-md-12">
 
