@@ -15,7 +15,8 @@ permalink: /relationswithindigenouspeoples.html
 <div class="container">
   <div class="row">
     <div class="col-sm-7">
-      {% include feature/item-figure.html objectid="langmann025" width="100" %}
+      {% include feature/item-figure.html objectid="langmann025" width="100" %}<br>
+      <small>Image description: Large wooden arch with ocean in the background. Handwritten caption on photograph reads Lumberman's Arch (10), Stanley Park, Vancouver, B.C.</small>
     </div>
     <div class="col-sm-5">
       Another example of the ways in which settler-colonial preferences for the visual appeal of the park overrode entire histories of indigenous customs and land rights was the re-placement of Lumberman’s Arch. John Mackie explains how the arch was resituated from its original home downtown to Stanley Park, “on the site of an old native village that whites called Whoi Whoi,” or Xwayxway, and which had been home to Squamish, Musqueam and Tsleil-Waututh First Nations.  Not only was it their home, but “when the first road was built around Stanley Park, a construction crew unearthed near Whoi Whoi a large deposit of broken and crushed clam shells, as well as skulls and other body parts.... Rather than exciting any interest, the shells were used to surface the road.” 
