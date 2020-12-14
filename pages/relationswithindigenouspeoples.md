@@ -40,10 +40,11 @@ permalink: /relationswithindigenouspeoples.html
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      {% include feature/item-figure.html objectid="langmann027" width="100" %}
+      {% include feature/item-figure.html objectid="langmann027" width="100" %}<br>
+      <small>Image description: Two bears in a cage play around a large tree stump. In the background is a third bear in another cage.</small>
     </div>
     <div class="col-sm">
-      This image shows us another relic of the many past lives of Stanley Park, from a zoo which once existed there. As Donaldson says, “Not only were plant species regularly added and replaced in the Stanley Park of the early 20th century; so too were members of the peninsula’s animal population” such as “animals kept in the park zoo (including several deer and a bear notable for its repeated escapes).”  The existence of such an attraction acts as yet another example of the ways in which the settlers of that time wished to craft a particular image of Stanley Park: full of nature, but only in ways that felt palatable and safe to settlers.
+      <br>This image shows us another relic of the many past lives of Stanley Park, from a zoo which once existed there. As Donaldson says, “Not only were plant species regularly added and replaced in the Stanley Park of the early 20th century; so too were members of the peninsula’s animal population” such as “animals kept in the park zoo (including several deer and a bear notable for its repeated escapes).”  The existence of such an attraction acts as yet another example of the ways in which the settlers of that time wished to craft a particular image of Stanley Park: full of nature, but only in ways that felt palatable and safe to settlers.
     </div>
   </div>
 </div><br><br>
@@ -54,7 +55,8 @@ permalink: /relationswithindigenouspeoples.html
       This image is a further example of the ways in which settlers disrespected indigenous customs and traditions. When seen through a more critical lens, this image reads as evidence of the ways in which settlers not only took the land for their own, but then also proceeded to take advantage of natural resources in harmful and toxic ways. The handwritten captions on the photograph – “The cougar hunt” and “The cougar dead just where she fell” – speak to the enjoyment and pride that was taken in hunting for sport, rather than focusing on being more responsible, respectful custodians of the land.
     </div>
     <div class="col-sm">
-      {% include feature/item-figure.html objectid="langmann030" width="100" %}
+      {% include feature/item-figure.html objectid="langmann030" width="100" %}<br>
+      <small>Image description: A cougar lays dead on the forest floor, with dogs and hunters squatting behind it.</small>
     </div>
   </div>
 </div><br><br>
@@ -65,7 +67,8 @@ permalink: /relationswithindigenouspeoples.html
       {% include feature/item-figure.html objectid="langmann015" width="100" %}
     </div>
     <div class="col-sm-5">
-      This image is most notable for its illustration of George Vancouver, one of the first colonizers of the area that now bears his name. In the image, George Vancouver is seen in larger-than-life form, physically standing on the lands now known as Stanley Park. Vancouver’s arms are slightly raised and his feet positioned in a way that arguably conveys power and ownership. Whether intentionally or not, his raised arms somewhat mimic the “Salish tradition of welcoming visitors,” which also includes raised arms. 
+      This image is most notable for its illustration of George Vancouver, one of the first colonizers of the area that now bears his name. In the image, George Vancouver is seen in larger-than-life form, physically standing on the lands now known as Stanley Park. Vancouver’s arms are slightly raised and his feet positioned in a way that arguably conveys power and ownership. Whether intentionally or not, his raised arms somewhat mimic the “Salish tradition of welcoming visitors,” which also includes raised arms.<br>
+      <small> Image description: An aerial view of downtown Vancouver, looking north. An illustration of George Vancouver stands on Stanley Park with legs apart and arms slightly raised. Handwritten caption on the photograph reads: George Vancouver Welcomes You to Vancouver.</small>
     </div>
   </div>
 </div><br><br>
@@ -80,7 +83,8 @@ permalink: /relationswithindigenouspeoples.html
     </div>
   </div>
 </div>
-<p style="text-indent: 25px;">This image portrays an Indian residential school in Chilliwack, with the innocuous and euphemistic handwritten caption, “Coqualeetza Industrial School.” The residential school system is widely considered to be one of the greatest crimes perpetrated against indigenous peoples by the Canadian government, and indigenous families today are still grappling with the generational trauma that these institutions caused. More information can be found through the Indian Residential School History and Dialogue Centre, which aims to address this history from a Survivor-centred approach.<br><br><br>
+<p style="text-indent: 25px;">This image portrays an Indian residential school in Chilliwack, with the innocuous and euphemistic handwritten caption, “Coqualeetza Industrial School.” The residential school system is widely considered to be one of the greatest crimes perpetrated against indigenous peoples by the Canadian government, and indigenous families today are still grappling with the generational trauma that these institutions caused. More information can be found through the Indian Residential School History and Dialogue Centre, which aims to address this history from a Survivor-centred approach.<br>
+  <small>Image description: Large building in the background with a fence in the foreground. Handwritten caption on the photograph reads: Coqualeetza Industrial School, Chilliwack B.C.</small><br><br>
 
 <div class="container">
   <div class="row">
@@ -90,6 +94,7 @@ permalink: /relationswithindigenouspeoples.html
     <div class="col-sm">
       This image portrays a white settler child who has been dressed up in traditional indigenous clothing as a “mascot” for the Vancouver Golden Jubilee celebration. The image is particularly poignant when set up in conversation with the previous image of a residential school, since indigenous children in residential schools were frequently punished and abused for attempting to wear the traditional clothes or speak the traditional languages of their peoples. It is also worth noticing that the occasion for which this settler child was dressed up in indigenous clothing was an anniversary of the creation of the city of Vancouver, which of course was only possible because of settler subjugation of indigenous peoples.<br>
 The use of indigenous peoples and imagery as “mascots” is an affront that continues to be perpetrated – and fought against by indigenous peoples across North America – today. 
+      <small>Image description: Portrait of the mascot for the Vancouver Golden Jubilee, Beverly Pierce Kendall, dressed in First Nations ceremonial dress including a chief's feather headress.</small>
     </div>
   </div>
 </div><br><br>
@@ -97,7 +102,8 @@ The use of indigenous peoples and imagery as “mascots” is an affront that co
 <div class="container">
   <div class="row">
     <div class="col-sm-4">
-      This image portrays a play about the crucifixion of Jesus Christ performed by indigenous folks in front of an audience of white settlers. The context of the image, such as how and why this event came to pass, is unknown, but there is something striking about the image when one considers that Christianity was often forcibly foisted upon indigenous peoples and children in particular in order to both separate them from their cultural traditions and to offer another pathway by which settlers could justify colonization to themselves.
+      This image portrays a play about the crucifixion of Jesus Christ performed by indigenous folks in front of an audience of white settlers. The context of the image, such as how and why this event came to pass, is unknown, but there is something striking about the image when one considers that Christianity was often forcibly foisted upon indigenous peoples and children in particular in order to both separate them from their cultural traditions and to offer another pathway by which settlers could justify colonization to themselves.<br>
+      <small>Image description: A group of indigenous individuals standing on a stage in the background acting out the crucifixion of Jesus Christ, with an audience of white settlers with their backs to the camera in the foreground.</small>
     </div>
     <div class="col-sm-8">
       {% include feature/item-figure.html objectid="langmann023" width="100" %} 
