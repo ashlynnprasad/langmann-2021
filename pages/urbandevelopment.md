@@ -112,3 +112,15 @@ permalink: /urbandevelopment.html
     {% include index/data-download.html %}
 
   </div>
+
+<small> 1. Donaldson, Jesse. “An Unnatural History of Stanley Park.” Tyee (Vancouver, BC), Sept. 27, 2013. https://thetyee.ca/Life/2013/09/27/Unnatural-History-of-Stanley-Park/<br>
+  2. Jean Barman, Stanley Park’s Secret: The Forgotten Families of Whoi Whoi, Kanaka Ranch and Brockton Point (Madeira Park, BC: Harbour Publishing, 2005), 90.<br>
+  3. Ibid, 45.<br>
+  4. Jean Barman, Stanley Park’s Secret: The Forgotten Families of Whoi Whoi, Kanaka Ranch and Brockton Point (Madeira Park, BC: Harbour Publishing, 2005), 92.<br.
+  5. Erin Hanson, “Aboriginal Rights,” Indigenous Foundations, accessed November 13, 2020, https://indigenousfoundations.arts.ubc.ca/aboriginal_rights/.<br>
+  6. “Historic Timeline,” Museum of Anthropology Musqueam Teaching Kit, accessed December 14, 2020, http://www2.moa.ubc.ca/musqueamteachingkit/history.php.<br>
+  7. Matthew Halliday, “The bold new plan for an Indigenous-led development in Vancouver,” The Guardian, January 3, 2020, https://www.theguardian.com/cities/2020/jan/03/the-bold-new-plan-for-an-indigenous-led-development-in-vancouver.<br.
+  8. Ibid.<br>
+  9. Chuck Davis, “Vancouver, British Columbia,” accessed December 14, 2020, https://www.britannica.com/place/Vancouver.<br></small>
+
+
