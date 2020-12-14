@@ -31,7 +31,7 @@ Cole Harris explains more broadly the outlook that many indigenous peoples held 
   <center><small> Image descriptions:<br>
   Top-left: A snowy field filled with hundreds of logs lying on their side in the foreground. In the background, a logging mill can be seen, among other buildings.<br>
   Top-right: View of piles of cut logs in the forest. A man can be seen standing on top of a small pile in the bottom right.<br>
-  Bottom: View of logs coming down the river. In the background, logged areas on the bank of the river can be seen, with other trees still standing in the far background.</small></center><br><br>
+  Bottom: View of logs coming down the river. In the background, logged areas on the bank of the river can be seen, with other trees still standing in the far background.</small></center><br>
 
 <p style="text-indent: 25px;">One important consideration is the fact that not only was mass logging taking place in British Columbia at that time, but the fact that these photographs depicting sprawling landscapes of felled trees exist perhaps indicates public demand for evidence of such activities. Photographers wanted to document the process by which forests were cut down in the service of creating a city. One can imagine how average settlers at that time might have enjoyed seeing evidence of the “modernization” of the land that they had overtaken.<br>
 <p style="text-indent: 25px;">While the prevailing attitude of colonial-settlers was one which enabled them to justify a colonial takeover of indigenous lands, as well as mass logging, mining, and other activities to rob the land of precious resources, not everyone was entirely comfortable buying into the fairy tale that these activities were natural and inevitable steps forward in the progress of humankind’s domination over nature. Colonel Moody said of the land at New Westminster, it was “magnificent beyond description…. I declare without the least sentimentality, I grieve and mourn the ruthless destruction of these most glorious trees. What a grand old park this whole hill would make.” <br><br>
@@ -86,7 +86,7 @@ Cole Harris explains more broadly the outlook that many indigenous peoples held 
 <div class="container">
   <div class="row">
     <div class="col-sm-5">
-      <br><br><br>This image portrays an aerial view of factories and other buildings in downtown Vancouver. In the distance, fumes from an array of smokestacks can be seen wafting into the air and blurring the view of the mountains at the horizon. The entire sky seems hazy, so that one cannot quite tell how much of the haze is caused by cloud and how much by pollution.<br><br>
+      <br>This image portrays an aerial view of factories and other buildings in downtown Vancouver. In the distance, fumes from an array of smokestacks can be seen wafting into the air and blurring the view of the mountains at the horizon. The entire sky seems hazy, so that one cannot quite tell how much of the haze is caused by cloud and how much by pollution.<br><br>
       <small>Image description: Aeriel view of factories and other buildings in downtown Vancouver.</small>
     </div>
     <div class="col-sm-7">
