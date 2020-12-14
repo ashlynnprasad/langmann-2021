@@ -46,7 +46,7 @@ permalink: /urbandevelopment.html
       {% include feature/item-figure.html objectid="langmann035" width="100" %}
     </div>
     <div class="col-sm-5">
-      <br>This image, taken from Coal Harbour and looking toward Deadman’s Island sometime between 1891 and 1901, shows settlements along the bank of the island. These were establishments that had to be destroyed, and their residents forced to relocate, in order to achieve the impression of an unsettled, primeval land. Images such as this one provide evidence for the fact that the area known today as Stanley Park was the site of a thriving populace before it was deliberately displaced in order to appear as though it had never been settled.<br><br>
+      <br>This image, taken from Coal Harbour and looking toward Deadman’s Island sometime between 1891 and 1901, shows settlements along the bank of the island. These were establishments that had to be destroyed, and their residents forced to relocate, in order to achieve the impression of an unsettled, primeval land. Images such as this one provide evidence for the fact that the area known today as Stanley Park was the site of a thriving populace before it was deliberately displaced in order to appear as though it had never been settled.<br>
       <small>Image description: View toward settlements on Deadman's Island from Coal Harbour.</small>
     </div>
   </div>
