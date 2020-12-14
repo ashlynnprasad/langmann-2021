@@ -32,7 +32,7 @@ permalink: /relationswithindigenouspeoples.html
     </div>
     <div class="col-sm-7">
       {% include feature/item-figure.html objectid="langmann026" width="100" %}<br>
-      <small>Image description: Two buffalo standing in an open space, with a tree, tree stump, and building in the background. Handwritten caption on photograph reads: Buffalos, Stanley Park, Vancouver.
+      <small>Image description: Two buffalo standing in an open space, with a tree, tree stump, and building in the background. Handwritten caption on photograph reads: Buffalos, Stanley Park, Vancouver.</small>
     </div>
   </div>
 </div><br><br>
