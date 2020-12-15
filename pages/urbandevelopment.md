@@ -94,7 +94,7 @@ permalink: /urbandevelopment.html
 <p style="text-indent: 25px;">Jordan Stranger-Ross discusses the idea that there has been a historical “opposition assumed between the civilization cities are imagined to represent, and the imagined savageness of Indigenous people…. There is an idea that the two can’t coexist.”  For this reason, when settlers designated lands for First Nations reserves, those lands were often not centrally located near developing urban hubs. “If you look at where reserves have been placed in this country, they’re largely on the outskirts,” says Ginger Gosnell-Myers. “That’s by design ... we’re looking at a deliberate history of exclusion.” <br><br>
   
   {% include feature/item-figure.html objectid="langmann038" width="75" %}<br>
-  <center>This image, from Cole Harris' <i>The Resettlement of British Columbia</i>, shows sales and pre-emptions of land in the Lower Mainland before Confederation. Tiny blocks labeled "I.R." for "Indian Reserve" show how indigenous peoples were pushed to the margins of the city.</center>
+  <center>This image, from Cole Harris' <i>The Resettlement of British Columbia</i>, shows sales and pre-emptions of land in the Lower Mainland before Confederation. Tiny blocks labeled "I.R." for "Indian Reserve" show how indigenous peoples were pushed to the margins of the city.</center><br><br>
   
 <div class="container">
   <div class="row">
