@@ -45,7 +45,7 @@ Cole Harris explains more broadly the outlook that many indigenous peoples held 
       This image portrays a cedar being felled in North Vancouver in 1896. According to the caption on the postcard, this tree was the largest recorded tree in British Columbia at that time, with a diameter of twenty-two feet. The image is a postcard, which means that the photograph was specifically designed to be sent abroad, conveying a certain triumphant attitude with which settlers showed friends and relatives how settler society was “taming” the lands in and around Vancouver.
     </div>
   </div>
-</div><br>
+</div>
 <center><small>Image description: A man's head peeping out beneath the preliminary cut in a large cedar about to be felled.</small></center><br><br>
 <p style="text-indent: 25px;">Just as this image stands as evidence of colonial-settler disrespect for the land, it also represents disrespect for indigenous peoples, as the cedar tree in particular “plays an integral role in the spiritual beliefs and ceremonial life of coastal First Nations…. The deep respect for cedar is a rich tradition that spans thousands of years and continues to be culturally, spiritually, and economically important.”  The choice to not only fell such a tree but also photograph the event for the purposes of circulation therefore indicates an ignorance of indigenous cultures at best, and at worst a complete disregard and apathy for what those cultures considered sacred.<br><br>
 
@@ -76,7 +76,7 @@ Cole Harris explains more broadly the outlook that many indigenous peoples held 
       {% include feature/item-figure.html objectid="langmann004" width="100" %}
     </div>
     <div class="col-sm-4">
-      Similarly to photographs portraying steamboats, this photograph of a paper mill in Ocean Falls would have provided settlers with evidence of the ways in which the recently-acquired lands of B.C. were being put to use in cultivating industries such as papermaking, which would help vault B.C. into the modern world. At the time, environmental concerns were not being widely considered among the settler community, and an image such as this would have been an object more of pride than of concern. <br><br>
+      Similarly to photographs portraying steamboats, this photograph of a paper mill in Ocean Falls would have provided settlers with evidence of the ways in which the recently-acquired lands of B.C. were being put to use in cultivating industries such as papermaking, which would help vault B.C. into the modern world. At the time, environmental concerns were not being widely considered among the settler community, and an image such as this would have been an object more of pride than of concern.
     </div>
   </div>
 </div>
@@ -102,7 +102,7 @@ Cole Harris explains more broadly the outlook that many indigenous peoples held 
       {% include feature/item-figure.html objectid="langmann031" width="100" %}
     </div>
     <div class="col-sm-4">
-      This image depicts a wide open area in which hundreds of sacks of coal have been stacked. Similar to other photographs in this exhibition which display a wide shot of an open area full of, for example, dozens of felled trees, this image similarly uses a wide shot to show viewers the sheer scope of the operation at hand. At the time, when industrialization was the goal, such an image might have seemed like evidence of progress. Today, it may be difficult to look at the image without thinking about the negative impact that colonization had on the natural environment.<br><br>
+      This image depicts a wide open area in which hundreds of sacks of coal have been stacked. Similar to other photographs in this exhibition which display a wide shot of an open area full of, for example, dozens of felled trees, this image similarly uses a wide shot to show viewers the sheer scope of the operation at hand. At the time, when industrialization was the goal, such an image might have seemed like evidence of progress. Today, it may be difficult to look at the image without thinking about the negative impact that colonization had on the natural environment.
     </div>
   </div>
 </div>
