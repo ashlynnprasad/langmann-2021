@@ -51,7 +51,7 @@ permalink: /urbandevelopment.html
     </div>
   </div>
 <p style="text-indent: 25px;">Jean Barman, in her book Stanley Park’s Secret shares quotes from indigenous individuals who lived on these lands before they were forced to relocate. In one case, a man named August Jack shares his experience of his house literally being chopped down while he was inside. The house was located on the site of a future road that would wrap around the perimeter of Stanley Park, and would therefore have been not unlike the houses pictured here at the edge of Deadman’s Island.<br>
-<p style="margin-left:10%; margin-right:10%;">“We was inside this house when the surveyors come along, and they chop the corner of our house when we was eating inside.” </p><br><br><br>
+<p style="margin-left:10%; margin-right:10%;">“We was inside this house when the surveyors come along, and they chop the corner of our house when we was eating inside.” </p><br><br>
 
 <div class="container">
   <div class="row justify-content-md-center">
@@ -74,7 +74,7 @@ permalink: /urbandevelopment.html
     </div>
   </div>
   <center><small>Image description: View of a parade going down Granville St. Banners across the street read, "A hundred thousand welcomes" and "Just watch Vancouver's smoke."</small></center><br>
-<p style="text-indent: 25px;">Another slightly more puzzling sign in the background reads “Just Watch Vancouver's Smoke.” This could be an indication of the fact that, at the time, industrialization was seen as an mark of societal progress, and the negative impacts of things like smokestacks on the environment were not yet being widely considered – at least not by settlers.<br><br><br>
+<p style="text-indent: 25px;">Another slightly more puzzling sign in the background reads “Just Watch Vancouver's Smoke.” This could be an indication of the fact that, at the time, industrialization was seen as an mark of societal progress, and the negative impacts of things like smokestacks on the environment were not yet being widely considered – at least not by settlers.<br><br>
   
 <div class="container">
   <div class="row">
@@ -87,7 +87,7 @@ permalink: /urbandevelopment.html
   </div>
   <center><small>Image descriptions:<br>
     Left: View of buildings being constructed in downtown Vancouver.<br>
-    Right: Aerial view of Vancouver, B.C.</small></center>
+    Right: Aerial view of Vancouver, B.C.</small></center><br>
  <p style="text-indent: 25px;">These triumphant aerial shots portray the sprawling, newly erected buildings of Vancouver’s downtown hub. Not everyone was permitted to share in the perceived progress of the young city, however. By the time Vancouver was developing as a city, indigenous peoples had already faced a long history of settler-colonialists and the Canadian government ignoring their land rights.<br>
   <p style="margin-left:10%; margin-right:10%;">“Colonial governments in Canada initially practiced a policy of extinguishment, which meant that Aboriginal peoples’ rights would be surrendered or legislated away, often in exchange for treaty rights…. Over time, however, many Aboriginal people found that the Canadian state continued to subjugate them and infringe upon the very rights they thought would be respected…. For example, the government added specific pieces of discriminatory legislation in the Indian Act that made it illegal for Aboriginal people to organize politically or to hire legal counsel to further land claims.”</p><br>
   <p style="text-indent: 25px;">In this way, indigenous peoples were forced to watch their traditional and ancestral homelands, such as those pictured in the images above, give way to settlements that they were forcibly excluded from, while any powers they had to seek redress were also stripped away. “The government amended the Indian Act in 1927 making it illegal for us to hire lawyers and hold meetings to pursue land claims. Despite this injustice, First Nations worked together to form the Native Brotherhood of British Columbia and other political organizations to assert our Aboriginal rights.” <br><br>
