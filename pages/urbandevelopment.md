@@ -93,7 +93,7 @@ permalink: /urbandevelopment.html
   <p style="text-indent: 25px;">In this way, indigenous peoples were forced to watch their traditional and ancestral homelands, such as those pictured in the images above, give way to settlements that they were forcibly excluded from, while any powers they had to seek redress were also stripped away. “The government amended the Indian Act in 1927 making it illegal for us to hire lawyers and hold meetings to pursue land claims. Despite this injustice, First Nations worked together to form the Native Brotherhood of British Columbia and other political organizations to assert our Aboriginal rights.” <br><br>
 <p style="text-indent: 25px;">Jordan Stranger-Ross discusses the idea that there has been a historical “opposition assumed between the civilization cities are imagined to represent, and the imagined savageness of Indigenous people…. There is an idea that the two can’t coexist.”  For this reason, when settlers designated lands for First Nations reserves, those lands were often not centrally located near developing urban hubs. “If you look at where reserves have been placed in this country, they’re largely on the outskirts,” says Ginger Gosnell-Myers. “That’s by design ... we’re looking at a deliberate history of exclusion.” <br><br>
   
-  {% include feature/item-figure.html objectid="langmann038" width="25" %}<br>
+  {% include feature/item-figure.html objectid="langmann038" width="75" %}<br>
   <center>This image, from Cole Harris' <i>The Resettlement of British Columbia</i>, shows sales and pre-emptions of land in the Lower Mainland before Confederation. Tiny blocks labeled "I.R." for "Indian Reserve" show how indigenous peoples were pushed to the margins of the city.</center>
   
 <div class="container">
