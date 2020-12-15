@@ -73,7 +73,7 @@ permalink: /relationswithindigenouspeoples.html
      <br>This image is most notable for its illustration of George Vancouver, one of the first colonizers of the area that now bears his name. In the image, George Vancouver is seen in larger-than-life form, physically standing on the lands now known as Stanley Park. Vancouver’s arms are slightly raised and his feet positioned in a way that arguably conveys power and ownership. Whether intentionally or not, his raised arms somewhat mimic the “Salish tradition of welcoming visitors,” which also includes raised arms.
     </div>
   </div>
-</div><br><br>
+</div>
 
 <center><small>Image description: An aerial view of downtown Vancouver, looking north. An illustration of George Vancouver stands on Stanley Park with legs apart and arms slightly raised. Handwritten caption on the photograph reads: George Vancouver Welcomes You to Vancouver.</small></center><br><br>
 
