@@ -120,7 +120,7 @@ permalink: /environmentalimpact.html
 
   </div>
 
-<small> 1. Max Liboiron, “Pollution is Colonialism,” Discard Studies, September 1, 2017, https://discardstudies.com/2017/09/01/pollution-is-colonialism/.<br>
+<small> 1. Max Liboiron, “Pollution is Colonialism,” Discard Studies, September 1, 2017, <a>https://discardstudies.com/2017/09/01/pollution-is-colonialism/</a>.<br>
   2.“Musqueam: giving information about our teachings,” Musqueam First Nation and Museum of Anthropology, accessed November 12, 2020, https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwio3bT0kP7sAhUQs54KHTBGDdsQFjAAegQIAhAC&url=https%3A%2F%2Fmoa.ubc.ca%2Fwp-content%2Fuploads%2F2018%2F02%2FTeachers-Resource-ENGLISH-March30_sm.pdf&usg=AOvVaw0eiIusSMK0hdy1P06SiolY <br>
   3.“First Nation Relationship to the Land,” Indigenous Corporate Training, Inc., May 7, 2015, https://www.ictinc.ca/blog/first-nation-relationship-to-the-land.<br>
   4. Cole Harris, The Resettlement of British Columbia: Essays on Colonialism and Geographical Change (Vancouver, BC: UBC Press, 1997), 82.<br>
