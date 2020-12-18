@@ -44,7 +44,7 @@ permalink: /relationswithindigenouspeoples.html
       {% include feature/item-figure.html objectid="langmann027" width="100" %}
     </div>
     <div class="col-sm">
-      This image shows us another relic of the many past lives of Stanley Park, from a zoo which once existed there. As Donaldson says, “Not only were plant species regularly added and replaced in the Stanley Park of the early 20th century; so too were members of the peninsula’s animal population” such as “animals kept in the park zoo (including several deer and a bear notable for its repeated escapes).”  The existence of such an attraction acts as yet another example of the ways in which the settlers of that time wished to craft a particular image of Stanley Park: full of nature, but only in ways that felt palatable and safe to settlers.
+      This image shows us another relic of the many past lives of Stanley Park, from a zoo which once existed there. As Jesse Donaldson of <a href="https://thetyee.ca/Life/2013/09/27/Unnatural-History-of-Stanley-Park/"><i>The Tyee</i></a> says, “Not only were plant species regularly added and replaced in the Stanley Park of the early 20th century; so too were members of the peninsula’s animal population” such as “animals kept in the park zoo (including several deer and a bear notable for its repeated escapes).”  The existence of such an attraction acts as yet another example of the ways in which the settlers of that time wished to craft a particular image of Stanley Park: full of nature, but only in ways that felt palatable and safe to settlers.
     </div>
   </div>
 </div>
@@ -89,7 +89,7 @@ permalink: /relationswithindigenouspeoples.html
     </div>
   </div>
 </div>
-<p style="text-indent: 25px;">This image portrays an Indian residential school in Chilliwack, with the innocuous and euphemistic handwritten caption, “Coqualeetza Industrial School.” The residential school system is widely considered to be one of the greatest crimes perpetrated against indigenous peoples by the Canadian government, and indigenous families today are still grappling with the generational trauma that these institutions caused. More information can be found through the Indian Residential School History and Dialogue Centre, which aims to address this history from a Survivor-centred approach.<br><br><br>
+<p style="text-indent: 25px;">This image portrays an Indian residential school in Chilliwack, with the innocuous and euphemistic handwritten caption, “Coqualeetza Industrial School.” The residential school system is widely considered to be one of the greatest crimes perpetrated against indigenous peoples by the Canadian government, and indigenous families today are still grappling with the generational trauma that these institutions caused. More information can be found through the <a href="https://irshdc.ubc.ca/about/what-we-do/">Indian Residential School History and Dialogue Centre</a>, which aims to address this history from a Survivor-centred approach.<br><br><br>
 
 <div class="container">
   <div class="row">
