@@ -80,6 +80,7 @@ permalink: /relationswithindigenouspeoples.html
 <div class="container">
   <div class="row">
     <div class="col-sm-4">
+      An unnamed source in the Museum of Anthropology’s <a href="http://www2.moa.ubc.ca/musqueamteachingkit/history.php">Musqueam Teaching Kit</a> shares the impact that the residential school system had on indigenous peoples:<br>
       “When British Columbia entered Confederation in 1871, Aboriginal people were placed under federal jurisdiction. By 1876, the Indian Act legislated our daily lives. In an attempt to assimilate Aboriginal people to Christian Canadian society, the government sent our children to Indian residential schools. Despite these destructive policies, our culture and society persisted.” <br><br>
       <small>Image description: Large building in the background with a fence in the foreground. Handwritten caption on the photograph reads: Coqualeetza Industrial School, Chilliwack B.C.</small>
     </div>
