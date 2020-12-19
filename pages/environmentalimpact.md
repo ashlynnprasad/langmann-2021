@@ -42,7 +42,7 @@ permalink: /environmentalimpact.html
       {% include feature/item-figure.html objectid="langmann009" width="100" %}
     </div>
     <div class="col-sm-4">
-      This postcard portrays the process of felling a cedar in North Vancouver in 1896. According to the caption, this tree was the largest recorded in British Columbia at that time, with a diameter of twenty-two feet. The image is a postcard, specifically designed to be sent abroad, conveying a certain triumphant attitude with which settlers showed friends and relatives how settler society was “taming” the lands in and around Vancouver.
+      <br>This postcard portrays the process of felling a cedar in North Vancouver in 1896. According to the caption, this tree was the largest recorded in British Columbia at that time, with a diameter of twenty-two feet. The image is a postcard, specifically designed to be sent abroad, conveying a certain triumphant attitude with which settlers showed friends and relatives how settler society was “taming” the lands in and around Vancouver.
     </div>
   </div>
 </div>
@@ -76,7 +76,7 @@ permalink: /environmentalimpact.html
       {% include feature/item-figure.html objectid="langmann004" width="100" %}
     </div>
     <div class="col-sm-4">
-      Similarly, this photograph of a paper mill in Ocean Falls would have provided settlers with evidence of the way acquired lands in the Province were cultivated for industries such as papermaking, which would help vault B.C. into the modern world. At the time, environmental concerns were not being widely considered among the settler community, and an image such as this would have been an object more of pride than of concern.
+      <br>Similarly, this photograph of a paper mill in Ocean Falls would have provided settlers with evidence of the way acquired lands in the Province were cultivated for industries such as papermaking, which would help vault B.C. into the modern world. At the time, environmental concerns were not being widely considered among the settler community, and an image such as this would have been an object more of pride than of concern.
     </div>
   </div>
 </div>
@@ -102,7 +102,7 @@ permalink: /environmentalimpact.html
       {% include feature/item-figure.html objectid="langmann031" width="100" %}
     </div>
     <div class="col-sm-4">
-      This image shows the scope of a mining operation in Ladysmith, B.C. The photographer has used a wide-angle shot to give viewers an impression of how much coal the mine has produced. This photographic tactic is similar to one that photographers employed to depict mass deforestation in several of the images above.
+      <br><br>This image shows the scope of a mining operation in Ladysmith, B.C. The photographer has used a wide-angle shot to give viewers an impression of how much coal the mine has produced. This photographic tactic is similar to one that photographers employed to depict mass deforestation in several of the images above.
     </div>
   </div>
 </div>
