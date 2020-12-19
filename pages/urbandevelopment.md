@@ -9,12 +9,12 @@ permalink: /urbandevelopment.html
 
 ## Urban Development
 
-<p style="text-indent: 25px;">An important piece of the context surrounding the photographs in this section is the fact that the prevailing mindset around the turn of the twentieth century saw urban development and the suppression of wilderness as progress, something to be desired and aimed for. As Jesse Donaldson explains in his article, “An Unnatural History of Stanley Park,” the prevailing philosophy of the time “considered the wilderness something to be tamed and cultured, an ‘improved’ version of nature manicured by human intervention.”  This “improvement” of nature was another part of the colonial fairy tale as described by Paige Raibmon; in order to justify their presence on indigenous lands, settlers had to convince themselves that they were helping to bring about a necessary and inevitable improvement.<br><br>
+<p style="text-indent: 25px;">An important piece of the context surrounding the photographs in this section is the way in which settlers around the turn of the twentieth century viewed urban development and control of nature. As local Tyee journalist Jesse Donaldson explains in his article, <a href="https://thetyee.ca/Life/2013/09/27/Unnatural-History-of-Stanley-Park/">An Unnatural History of Stanley Park</a>, the prevailing philosophy of the time “considered the wilderness something to be tamed and cultured, an ‘improved’ version of nature manicured by human intervention.”<sup>1</sup> This “improvement” of nature was another part of the colonial fairy tale, as characterized by Paige Raibmon an associate professor of history at the University of British Columbia. Settlers had to tell themselves, and internalize, this narrative to justify their takeover of indigenous lands. They had to first believe the lands that became Vancouver were completely pure and unsettled before they took over, ignoring the societies that existed before and continued to exist after their arrival. Second, they had to believe urbanization and industrialization were positive steps towards progress, in order to view themselves as saviors rather than destroyers.<br><br>
 
-<p style="text-indent: 25px;">The fairy tale went one step further. Settlers wanted to see themselves as controlling and improving an untamed wilderness, and they wanted a wilderness near to the city, an urban park that would “transform the image of Vancouver to be more than just another boomtown.”  The area now known as Stanley Park became the chosen space to create this wilderness. However, some mental gymnastics were required to set Stanley Park up in the public imagination as an untamed wilderness. The reality was that, far from being the “primeval forest” that settlers imagined it to be, the area had long been the site of a thriving populace of indigenous peoples.<br>
-<p style="margin-left:10%; margin-right:10%;">“The Aboriginal presence on the peninsula was considerable on the eve of the imposition of Stanley Park in 1887. Whatever may have been the land’s official status, Aboriginal people still considered it their own. For some, including August Jack and his family, it was a place of residence. For others, it served economic and spiritual purposes [including as a burial ground].”</p><br>
+<p style="text-indent: 25px;">The fairy tale went one step further. Settlers wanted to create an example near the city of their control over nature, an urban park that would “transform the image of Vancouver to be more than just another boomtown.”<sup>2</sup> The area now known as Stanley Park became the chosen space to create this fantasy. However, some mental gymnastics were required to transform Stanley Park in the public imagination into an uncultivated landscape. The reality was that, far from being the “primeval forest” that settlers imagined it to be, the area had long been the site of a thriving populace of indigenous peoples.<br>
+<p style="margin-left:10%; margin-right:10%;">“The Aboriginal presence on the peninsula was considerable on the eve of the imposition of Stanley Park in 1887. Whatever may have been the land’s official status, Aboriginal people still considered it their own. For some… it was a place of residence. For others, it served economic and spiritual purposes [including as a burial ground].”<sup>3</sup></p><br>
 
-<p style="text-indent: 25px;">This section features images that point to this colonial fairy tale, showing us how settlers chose to view their relationships to the lands that they had stolen, as well as showcasing snapshots of various locales in the city, and the confidence and speed with which settlers developed those areas into their idea of what a modern metropolis should be.<br><br>
+<p style="text-indent: 25px;">This section of the exhibit features images that act as evidence of this colonial fairy tale, and depict how settlers chose to view their relationships to the lands they had taken over. It also showcases snapshots of the city, and the confidence and speed with which settlers developed the area into their idea of what a modern metropolis should be.<br><br>
 
 <div class="container">
   <div class="row">
@@ -22,7 +22,7 @@ permalink: /urbandevelopment.html
       {% include feature/item-figure.html objectid="langmann019" width="100" %}
     </div>
     <div class="col-sm-7">
-      Perhaps the best example of the colonial-settler attitude towards progress and urban development, this illustration for the Golden Jubilee shows two drawings of the Vancouver skyline, one before skyscrapers and buildings were erected, and one after. The paragraph gets at the fairy tale that colonial settlers had to tell themselves in order to justify to themselves the violent takeover of indigenous lands. They had to first believe that Vancouver had been completely pure and unsettled before they had taken over, ignoring the society that had existed there before and continued to exist after their arrival; and they had to secondly believe that urbanization and industrialization were positive steps towards progress, in order to believe that they had created and saved rather than destroyed and harmed.<br><br>
+      Perhaps the best example of the colonial-settler attitude towards progress and urban development, this illustration for the Golden Jubilee features two versions of the Vancouver skyline, one before skyscrapers and buildings were erected, and one after. The juxtaposition of the two skylines, in addition to the adjectives used in the text, provide an example of settler values at that time.<br><br>
       <small>Image description: An illustration depicting two versions of the Vancouver skyline, one from 1886 and one from 1936, with a short statement lauding urban development.</small>
     </div>
   </div>
@@ -31,7 +31,7 @@ permalink: /urbandevelopment.html
 <div class="container">
   <div class="row">
     <div class="col-sm">
-     <br><br><br> The handwritten caption on this photograph of a tall row of trees, reading “This is the forest primeval,” provides further evidence for the way in which settlers chose to view the lands they had stolen, and Stanley Park in particular.<br><br>
+     <br><br><br>The handwritten caption on this photograph of a tall row of trees, reading “This is the forest primeval,” provides further evidence of the cognitive dissonance their actions required when it came to Stanley Park in particular.<br><br>
       <small>Image description: View of path through forest of Stanley Park. Written on photograph: 112. Handwritten caption reads: This is the forest primeval, Stanley Park, B.C.</small>
     </div>
     <div class="col-sm">
@@ -42,27 +42,20 @@ permalink: /urbandevelopment.html
 
 <div class="container">
   <div class="row">
-    <div class="col-sm-7">
+    <div class="col-sm">
       {% include feature/item-figure.html objectid="langmann035" width="100" %}
     </div>
-    <div class="col-sm-5">
-      <br>This image, taken from Coal Harbour and looking toward Deadman’s Island sometime between 1891 and 1901, shows settlements along the bank of the island. These were establishments that had to be destroyed, and their residents forced to relocate, in order to achieve the impression of an unsettled, primeval land. Images such as this one provide evidence for the fact that the area known today as Stanley Park was the site of a thriving populace before it was deliberately displaced in order to appear as though it had never been settled.<br><br>
-      <small>Image description: View toward settlements on Deadman's Island from Coal Harbour.</small>
+    <div class="col-sm">
+      {% include feature/item-figure.html objectid="langmann036" width="100" %}      
     </div>
   </div>
-<p style="text-indent: 25px;">Jean Barman, in her book Stanley Park’s Secret shares quotes from indigenous individuals who lived on these lands before they were forced to relocate. In one case, a man named August Jack shares his experience of his house literally being chopped down while he was inside. The house was located on the site of a future road that would wrap around the perimeter of Stanley Park, and would therefore have been not unlike the houses pictured here at the edge of Deadman’s Island.<br>
-<p style="margin-left:10%; margin-right:10%;">“We was inside this house when the surveyors come along, and they chop the corner of our house when we was eating inside.” </p><br><br>
 
-<div class="container">
-  <div class="row justify-content-md-center">
-    <div class="col-sm-5">
-      <br><br><br>This image shows English Bay at around the time when the city was making moves to develop the road around Stanley Park. In the image, buildings can be seen at the edge of the shore, which would have all been demolished in order to create the vision of Stanley Park that the city wanted.<br><br>
-      <small>Image description: A view of driftwood on the beach, with buildings in the background and the tall trees of Stanley Park in the far background.</small>
-    </div>
-    <div class="col-sm-7">
-      {% include feature/item-figure.html objectid="langmann036" width="100" %}
-    </div>
-  </div><br><br>
+<center><small>Image descriptions:<br>
+  Left: View toward settlements on Deadman's Island from Coal Harbour.<br>
+  Right: A view of driftwood on the beach, with buildings in the background and the tall trees of Stanley Park in the far background.</small></center>
+<p style="text-indent: 25px;">This image to the left, taken from Coal Harbour and looking toward Deadman’s Island sometime between 1891 and 1901, shows settlements along the shore of the island. The image to the right shows similar establishments on the other side of the park, at English Bay. When this area was transformed into Stanley Park, habitations such as these were destroyed and their residents forced to relocate.</p><br><br>
+<p style="text-indent: 25px;">The historian Jean Barman, in her book Stanley Park’s Secret shares quotes from indigenous individuals who lived on these lands before their forced relocation. In one case, a man named August Jack shares his experience of his house literally being demolished while he was inside. The house was located on the site of a future road that would wrap around the perimeter of Stanley Park, and would have been similar to the houses pictured here.<br>
+<p style="margin-left:10%; margin-right:10%;">“We was inside this house when the surveyors come along, and they chop the corner of our house when we was eating inside.”<sup>4</sup></p><br><br>
   
 <div class="container">
   <div class="row">
@@ -70,11 +63,11 @@ permalink: /urbandevelopment.html
       {% include feature/item-figure.html objectid="langmann022" width="100" %}
     </div>
     <div class="col-sm-4">
-      This postcard is notable not only for the way it showcases the large buildings and paved roads of Vancouver’s newly-developed downtown area, as well as the parade which is apparently intended to show off the city, but also for the signage visible. One banner reads “A Hundred Thousand Welcomes,” in an example of settlers enthusiastically welcoming strangers to lands that they had stolen from the only peoples who were rightfully positioned to be offering mass welcomes.
+      This postcard is notable not only for the way it showcases the large buildings and paved roads of Vancouver’s newly-developed downtown area, as well as the parade which is apparently intended to show off the city, but also for the signage visible. One banner reads “A Hundred Thousand Welcomes,” in an example of settlers enthusiastically welcoming strangers to lands that were not rightfully theirs. In British Columbia, most of the land never came under the jurisdiction of treaties and remains unceded to this day.
     </div>
   </div>
   <center><small>Image description: View of a parade going down Granville St. Banners across the street read, "A hundred thousand welcomes" and "Just watch Vancouver's smoke."</small></center><br>
-<p style="text-indent: 25px;">Another slightly more puzzling sign in the background reads “Just Watch Vancouver's Smoke.” This could be an indication of the fact that, at the time, industrialization was seen as an mark of societal progress, and the negative impacts of things like smokestacks on the environment were not yet being widely considered – at least not by settlers.<br><br>
+<p style="text-indent: 25px;">Another slightly more puzzling sign in the background reads “Just Watch Vancouver’s Smoke.” This could be an indication of the way in which industrialization was revered, and environmental impact was not yet the subject of widespread concern – at least not by settlers.<br><br>
   
 <div class="container">
   <div class="row">
@@ -88,10 +81,10 @@ permalink: /urbandevelopment.html
   <center><small>Image descriptions:<br>
     Left: View of buildings being constructed in downtown Vancouver.<br>
     Right: Aerial view of Vancouver, B.C.</small></center><br>
- <p style="text-indent: 25px;">These triumphant aerial shots portray the sprawling, newly erected buildings of Vancouver’s downtown hub. Not everyone was permitted to share in the perceived progress of the young city, however. By the time Vancouver was developing as a city, indigenous peoples had already faced a long history of settler-colonialists and the Canadian government ignoring their land rights.<br>
-  <p style="margin-left:10%; margin-right:10%;">“Colonial governments in Canada initially practiced a policy of extinguishment, which meant that Aboriginal peoples’ rights would be surrendered or legislated away, often in exchange for treaty rights…. Over time, however, many Aboriginal people found that the Canadian state continued to subjugate them and infringe upon the very rights they thought would be respected…. For example, the government added specific pieces of discriminatory legislation in the Indian Act that made it illegal for Aboriginal people to organize politically or to hire legal counsel to further land claims.”</p><br>
-  <p style="text-indent: 25px;">In this way, indigenous peoples were forced to watch their traditional and ancestral homelands, such as those pictured in the images above, give way to settlements that they were forcibly excluded from, while any powers they had to seek redress were also stripped away. “The government amended the Indian Act in 1927 making it illegal for us to hire lawyers and hold meetings to pursue land claims. Despite this injustice, First Nations worked together to form the Native Brotherhood of British Columbia and other political organizations to assert our Aboriginal rights.” <br><br>
-<p style="text-indent: 25px;">Jordan Stranger-Ross discusses the idea that there has been a historical “opposition assumed between the civilization cities are imagined to represent, and the imagined savageness of Indigenous people…. There is an idea that the two can’t coexist.”  For this reason, when settlers designated lands for First Nations reserves, those lands were often not centrally located near developing urban hubs. “If you look at where reserves have been placed in this country, they’re largely on the outskirts,” says Ginger Gosnell-Myers. “That’s by design ... we’re looking at a deliberate history of exclusion.” <br><br>
+ <p style="text-indent: 25px;">These triumphant aerial shots portray the sprawling, newly erected buildings of Vancouver’s downtown hub. However, not everyone was permitted to share in the perceived progress of the young city. By the time Vancouver was developing as a major city, indigenous peoples had already faced a long history of marginalization. Erin Hanson, in <a href=https://indigenousfoundations.arts.ubc.ca/aboriginal_rights/>Aboriginal Rights</a>, notes:<br>
+  <p style="margin-left:10%; margin-right:10%;">“Colonial governments in Canada initially practiced a policy of extinguishment, which meant that Aboriginal peoples’ rights would be surrendered or legislated away, often in exchange for treaty rights…. Over time, however, many Aboriginal people found that the Canadian state continued to subjugate them and infringe upon the very rights they thought would be respected…. For example, the government added specific pieces of discriminatory legislation in the Indian Act that made it illegal for Aboriginal people to organize politically or to hire legal counsel to further land claims.”<sup>5</sup> </p><br>
+  <p style="text-indent: 25px;">In this way, indigenous peoples were forced to watch their traditional and ancestral homelands give way to settlements they were forcibly excluded from, such as those pictured above, while any power they had to seek redress were also stripped away. As noted by an unnamed source quoted in the Museum of Anthropology’s <a href=http://www2.moa.ubc.ca/musqueamteachingkit/history.php>Musqueam Teaching Kit</a>, “The government amended the Indian Act in 1927 making it illegal for us to hire lawyers and hold meetings to pursue land claims. Despite this injustice, First Nations worked together to form the Native Brotherhood of British Columbia and other political organizations to assert our Aboriginal rights.”<sup>6</sup><br><br>
+<p style="text-indent: 25px;">Jordan Stanger-Ross, associate professor of history at the University of Victoria and director of the Landscapes of Injustice research project, discusses the idea that there has been a historical “opposition assumed between the civilization cities are imagined to represent, and the imagined savageness of Indigenous people…. There is an idea that the two can’t coexist.”<sup>7</sup> For this reason, when settlers designated lands for First Nations reserves, those lands were often not centrally located near developing urban hubs. “If you look at where reserves have been placed in this country, they’re largely on the outskirts,” says Ginger Gosnell-Myers of the Nisga’a and Kwakwak'awakw Nations, and Indigenous Relations Manager at the City of Vancouver. “That’s by design... we’re looking at a deliberate history of exclusion.”<sup>8</sup><br><br>
   
   {% include feature/item-figure.html objectid="langmann038" width="75" %}<br>
   <center>This image, from Cole Harris' <i>The Resettlement of British Columbia</i>, shows sales and pre-emptions of land in the Lower Mainland before Confederation. Tiny blocks labeled "I.R." for "Indian Reserve" show how indigenous peoples were pushed to the margins of the city.</center><br><br>
@@ -111,14 +104,24 @@ permalink: /urbandevelopment.html
 <div class="container">
   <div class="row">
     <div class="col-sm-4">
-      This image portrays a group of settler men laying cement for sidewalks in the rapidly developing urban hub now known as Vancouver. Once Stanley Park was designated as the city’s main park, it seems to have become less important to ensure that the rest of Vancouver remain natural and authentic, and as such, construction and urbanization exploded in the rest of the city. 
+      This image portrays a group of settler men laying cement for sidewalks in the rapidly developing urban hub now known as the Greater Vancouver Regional District. Few European settlers occupied the area until the 1850s, when New Westminster (now a suburb of Vancouver) was established. The area saw a further population increase in the 1860s when a gold rush attracted settlers to the Cariboo Mountains. Vancouver was not incorporated as a city until 1886.<sup>9</sup> 
     </div>
     <div class="col-sm-8">
       {% include feature/item-figure.html objectid="langmann020" width="100" %}
     </div>
   </div>
   <center><small>Image description: Image of labourers working on putting in cement sidewalks between Richards and Seymour Streets. The project was contracted by G.W. Ledingham.</small></center><br><br>
-  <p style="text-indent: 25px;">This image clearly shows us what kinds of people were in charge of building and designing the new city – and by extension, which kinds of people were not included – and puts one in mind of what the city might have been like if the indigenous peoples to whom the land belonged and was sacred had been allowed to have a say in the creation of the new city. The image, and the fact that someone made sure to photographically document the laying of cement, gives us an insight into what settlers of the time identified as markers of societal progress.<br><br>
+  <p style="text-indent: 25px;">This image demonstrates that the rapid development of the new city was largely carried out by settlers of European descent. The image, and the fact that someone made sure to photographically document the laying of cement, also gives us a sense of the pride that settlers took in their new city.<br><br>
+    
+ <div class="container">
+  <div class="row">
+    <div class="col-sm-8">
+      {% include feature/item-figure.html objectid="langmann028" width="100" %}
+    </div>
+    <div class="col-sm-4">
+      This postcard depicts the entrance to Stanley Park after construction had been completed. The image shows a carefully pruned lawn with flower boxes and sparse trees in the foreground, with the “wild” expanse of tall trees in the background. Individuals in suits and dresses – presumably settlers – can be seen walking along the promenade and stopping to chat with one another, while their cars stay parked to the left. 
+    </div>
+  </div>
     
     
   <div class="col-md-12">
