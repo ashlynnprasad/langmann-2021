@@ -27,4 +27,9 @@ Both the curator of this exhibition, Ashlynn Prasad, and the project manager, Kr
 
 Many thanks go to the Uno Langmann Family for donating the collection of photographs from which this exhibition was born.<br>
 This exhibition would not have been possible without the efforts of Eka Grguric, Digital Scholarship Librarian at UBC, who provided near-constant troubleshooting and guidance during the process of building the website.<br>
-Thanks to Krisztina Laszlo for managing the project and providing editing suggestions and curation guidance throughout.
+Thanks to Krisztina Laszlo for managing the project and providing editing suggestions and curation guidance throughout.<br><br><br>
+
+
+<small> 1. “Map,” Native Land, accessed November 10, 2020, <a href="https://native-land.ca/">https://native-land.ca/</aa>.<br>
+  2. “History,” City of Burnaby, accessed November 10, 2020, <a href="https://www.burnaby.ca/About-Burnaby/About/History.html?PageMode=Print">https://www.burnaby.ca/About-Burnaby/About/History.html?PageMode=Print</a>.<br>
+  3. “Indigenous Peoples : Language Guidelines, Version 2.0,” The University of British Columbia, 2018, <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjE68vGqfnsAhULgp4KHXWgCl0QFjAAegQIBBAC&url=https%3A%2F%2Fassets.brand.ubc.ca%2Fdownloads%2Fubc_indigenous_peoples_language_guide.pdf&usg=AOvVaw0v2e6zxNVHH_qqmx9amCXQ">https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjE68vGqfnsAhULgp4KHXWgCl0QFjAAegQIBBAC&url=https%3A%2F%2Fassets.brand.ubc.ca%2Fdownloads%2Fubc_indigenous_peoples_language_guide.pdf&usg=AOvVaw0v2e6zxNVHH_qqmx9amCXQ</a>.
