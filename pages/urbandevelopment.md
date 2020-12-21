@@ -22,7 +22,7 @@ permalink: /urbandevelopment.html
       {% include feature/item-figure.html objectid="langmann019" width="100" %}
     </div>
     <div class="col-sm-7">
-      Perhaps the best example of the colonial-settler attitude towards progress and urban development, this illustration for the Golden Jubilee features two versions of the Vancouver skyline, one before skyscrapers and buildings were erected, and one after. The juxtaposition of the two skylines, in addition to the adjectives used in the text, provide an example of settler values at that time.<br><br>
+      <br><br><br>Perhaps the best example of the colonial-settler attitude towards progress and urban development, this illustration for the Golden Jubilee features two versions of the Vancouver skyline, one before skyscrapers and buildings were erected, and one after. The juxtaposition of the two skylines, in addition to the adjectives used in the text, provide an example of settler values at that time.<br><br>
       <small>Image description: An illustration depicting two versions of the Vancouver skyline, one from 1886 and one from 1936, with a short statement lauding urban development.</small>
     </div>
   </div>
@@ -53,7 +53,7 @@ permalink: /urbandevelopment.html
 <center><small>Image descriptions:<br>
   Left: View toward settlements on Deadman's Island from Coal Harbour.<br>
   Right: A view of driftwood on the beach, with buildings in the background and the tall trees of Stanley Park in the far background.</small></center><br>
-<p style="text-indent: 25px;">This image to the left, taken from Coal Harbour and looking toward Deadman’s Island sometime between 1891 and 1901, shows settlements along the shore of the island. The image to the right shows similar establishments on the other side of the park, at English Bay. When this area was transformed into Stanley Park, habitations such as these were destroyed and their residents forced to relocate.</p><br>
+<p style="text-indent: 25px;">This image to the left, taken from Coal Harbour and looking toward Deadman’s Island sometime between 1891 and 1901, shows settlements along the shore of the island. The image to the right shows similar establishments on the other side of the park, at English Bay. When this area was transformed into Stanley Park, habitations such as these were destroyed and their residents forced to relocate.</p>
 <p style="text-indent: 25px;">The historian Jean Barman, in her book Stanley Park’s Secret shares quotes from indigenous individuals who lived on these lands before their forced relocation. In one case, a man named August Jack shares his experience of his house literally being demolished while he was inside. The house was located on the site of a future road that would wrap around the perimeter of Stanley Park, and would have been similar to the houses pictured here.<br>
 <p style="margin-left:10%; margin-right:10%;">“We was inside this house when the surveyors come along, and they chop the corner of our house when we was eating inside.”<sup>4</sup></p><br><br>
   
