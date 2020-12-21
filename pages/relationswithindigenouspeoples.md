@@ -75,7 +75,7 @@ permalink: /relationswithindigenouspeoples.html
     </div>
   </div>
 </div>
-<small>Image description: Large building in the background with a fence in the foreground. Handwritten caption on the photograph reads: Coqualeetza Industrial School, Chilliwack B.C.</small>
+<center><small>Image description: Large building in the background with a fence in the foreground. Handwritten caption on the photograph reads: Coqualeetza Industrial School, Chilliwack B.C.</small></center>
 <p style="text-indent: 25px;">This image portrays an Indian residential school in Chilliwack, with the innocuous and euphemistic handwritten caption, “Coqualeetza Industrial School.” The residential school system is widely considered to be one of the greatest crimes perpetrated against indigenous peoples by the Canadian government, and indigenous families today are still grappling with the generational trauma that these institutions caused. More information can be found through the <a href="https://irshdc.ubc.ca/about/what-we-do/">Indian Residential School History and Dialogue Centre</a>, which aims to address this history from a Survivor-centred approach.<br><br><br>
 
 <div class="container">
