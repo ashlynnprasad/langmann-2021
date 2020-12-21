@@ -53,10 +53,10 @@ permalink: /relationswithindigenouspeoples.html
 
 <div class="container">
   <div class="row">
-    <div class="col-sm-7">
+    <div class="col-sm-5">
       <br>This image is most notable for its illustration of George Vancouver, one of the first colonizers of the area that now bears his name. In the image, George Vancouver is seen in larger-than-life form, physically standing on the lands now known as Stanley Park. Vancouver’s arms are slightly raised and his feet positioned in a way that arguably conveys power and ownership. Whether intentionally or not, his raised arms somewhat mimic the “Salish tradition of welcoming visitors,” which also includes raised arms.
     </div>
-    <div class="col-sm-5">
+    <div class="col-sm-7">
      {% include feature/item-figure.html objectid="langmann015" width="100" %}
     </div>
   </div>
@@ -66,10 +66,10 @@ permalink: /relationswithindigenouspeoples.html
 
 <div class="container">
   <div class="row">
-    <div class="col-sm-4">
+    <div class="col-sm-8">
       {% include feature/item-figure.html objectid="langmann024" width="100" %}
     </div>
-    <div class="col-sm-8">
+    <div class="col-sm-4">
       An unnamed source in the Museum of Anthropology’s <a href="http://www2.moa.ubc.ca/musqueamteachingkit/history.php">Musqueam Teaching Kit</a> shares the impact that the residential school system had on indigenous peoples:<br>
       “When British Columbia entered Confederation in 1871, Aboriginal people were placed under federal jurisdiction. By 1876, the Indian Act legislated our daily lives. In an attempt to assimilate Aboriginal people to Christian Canadian society, the government sent our children to Indian residential schools. Despite these destructive policies, our culture and society persisted.” <br><br>
     </div>
@@ -93,10 +93,10 @@ The use of indigenous peoples and imagery as “mascots” is an affront that co
 
 <div class="container">
   <div class="row">
-    <div class="col-sm-4">
+    <div class="col-sm-8">
       {% include feature/item-figure.html objectid="langmann023" width="100" %}
     </div>
-    <div class="col-sm-8">
+    <div class="col-sm-4">
       <br>This image portrays a play about the crucifixion of Jesus Christ performed by indigenous folks in front of an audience of white settlers. The context of the image, such as how and why this event came to pass, is unknown, but there is something striking about the image when one considers that Christianity was often forcibly foisted upon indigenous peoples and children in particular in order to both separate them from their cultural traditions and to offer another pathway by which settlers could justify colonization to themselves.<br>
     </div>
   </div>
