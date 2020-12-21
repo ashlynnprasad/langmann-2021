@@ -25,17 +25,6 @@ permalink: /relationswithindigenouspeoples.html
 </div>
 <br><p style="text-indent: 25px;">The focus remained on grooming Stanley Park to become a decoration to the city, where once it had been the site of a thriving indigenous population. A newspaper article at the time of the relocation of Lumberman’s Arch celebrated it as a “permanent advertisement of our lumber industries, a memento of the Royal visit and, artistically placed, a real ornament and appropriate addition to our beautiful park.”<br><br>
 
-<div class="container">
-  <div class="row">
-    <div class="col-sm-5">
-      Photographs such as this offer us an insight into what Stanley Park might have been like before it was taken under control by settlers. It also offers us a better understanding of the ways in which Stanley Park was intentionally styled in order to appear untouched, while simultaneously and systematically removing certain naturally-occurring aspects of its environment, such as the existence of wild buffalo on the land. The removal of the buffalo is particularly poignant because many indigenous peoples “consider the buffalo as their sacred animal that is closely connected to the Creator.” 
-    </div>
-    <div class="col-sm-7">
-      {% include feature/item-figure.html objectid="langmann026" width="100" %}
-    </div>
-  </div>
-</div>
-
 <center><small>Image description: Two buffalo standing in an open space, with a tree, tree stump, and building in the background. Handwritten caption on photograph reads: Buffalos, Stanley Park, Vancouver.</small></center><br><br>
 
 <div class="container">
