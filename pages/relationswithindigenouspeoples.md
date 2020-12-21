@@ -25,8 +25,6 @@ permalink: /relationswithindigenouspeoples.html
 </div>
 <br><p style="text-indent: 25px;">The focus remained on grooming Stanley Park to become a decoration to the city, where once it had been the site of a thriving indigenous population. A newspaper article at the time of the relocation of Lumberman’s Arch celebrated it as a “permanent advertisement of our lumber industries, a memento of the Royal visit and, artistically placed, a real ornament and appropriate addition to our beautiful park.”<br><br>
 
-<center><small>Image description: Two buffalo standing in an open space, with a tree, tree stump, and building in the background. Handwritten caption on photograph reads: Buffalos, Stanley Park, Vancouver.</small></center><br><br>
-
 <div class="container">
   <div class="row">
     <div class="col-sm">
