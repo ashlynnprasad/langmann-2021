@@ -25,16 +25,16 @@ This section also contains an image of an animal that has been killed for sport.
     </div>
   </div>
 </div>
-<small>Image description: Large wooden arch with ocean in the background. Handwritten caption on photograph reads Lumberman's Arch (10), Stanley Park, Vancouver, B.C.<br>
-      Source: Uno Langmann Family Collection of B.C. Photographs. <a href="https://dx.doi.org/10.14288/1.0360837">UL_1624_02_0127</a>. Rare Books and Special Collections.</small>
-<br><p style="text-indent: 25px;">The focus remained on grooming Stanley Park to become a decoration to the city, rather than on the area’s indigenous population. A newspaper article written at the time of the relocation of Lumberman’s Arch celebrated it as a “permanent advertisement of our lumber industries, a memento of the Royal visit and, artistically placed, a real ornament and appropriate addition to our beautiful park.”</p><sup>3</sup><br>
-<p style="text-indent: 25px;">Other locations around what is now known as Metro Vancouver that had once been the sites of thriving indigenous communities were subjected to similar desecration by settlers. A three-site exhibition at the <a href=“http://musqueam.zenutech.com/c%CC%93%C9%99sna%CA%94%C9%99m-city-city-exhibition”>Musqueam Cultural Education Resource Centre</a>, <a href=“https://moa.ubc.ca/exhibition/c%CC%93%C9%99sna%CA%94%C9%99m-the-city-before-the-city/”>UBC's Museum of Anthropology</a>, and the <a href=“https://museumofvancouver.ca/csnam-the-city-before-the-city”>Museum of Vancouver</a> in 2015 helped tell the story of c̓əsnaʔəm, a robust village and burial site at the edge of the Fraser River where Musqueam people lived, worked, and raised their families for 5000 years. Jordan Wilson, a co-curator of the exhibition and member of the Musqueam nation, describes how, “as late as the 1960s, it was common practice for Vancouver families to come and dig for artifacts, without understanding the significance of the location or making the connection to the Musqueam community.”</p><sup>4</sup>
+<center><small>Image description: Large wooden arch with ocean in the background. Handwritten caption on photograph reads Lumberman's Arch (10), Stanley Park, Vancouver, B.C.<br>
+      Source: Uno Langmann Family Collection of B.C. Photographs. <a href="https://dx.doi.org/10.14288/1.0360837">UL_1624_02_0127</a>. Rare Books and Special Collections.</small></center>
+<br><p style="text-indent: 25px;">The focus remained on grooming Stanley Park to become a decoration to the city, rather than on the area’s indigenous population. A newspaper article written at the time of the relocation of Lumberman’s Arch celebrated it as a “permanent advertisement of our lumber industries, a memento of the Royal visit and, artistically placed, a real ornament and appropriate addition to our beautiful park.”<sup>3</sup></p><br>
+<p style="text-indent: 25px;">Other locations around what is now known as Metro Vancouver that had once been the sites of thriving indigenous communities were subjected to similar desecration by settlers. A three-site exhibition at the <a href=“http://musqueam.zenutech.com/c%CC%93%C9%99sna%CA%94%C9%99m-city-city-exhibition”>Musqueam Cultural Education Resource Centre</a>, <a href=“https://moa.ubc.ca/exhibition/c%CC%93%C9%99sna%CA%94%C9%99m-the-city-before-the-city/”>UBC's Museum of Anthropology</a>, and the <a href=“https://museumofvancouver.ca/csnam-the-city-before-the-city”>Museum of Vancouver</a> in 2015 helped tell the story of c̓əsnaʔəm, a robust village and burial site at the edge of the Fraser River where Musqueam people lived, worked, and raised their families for 5000 years. Jordan Wilson, a co-curator of the exhibition and member of the Musqueam nation, describes how, “as late as the 1960s, it was common practice for Vancouver families to come and dig for artifacts, without understanding the significance of the location or making the connection to the Musqueam community.”<sup>4</sup></p>
 <br><br>
 
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      This image shows us another relic of the many past lives of Stanley Park, from a zoo which existed there from 1888 to 1996.<sup> </sup> As Jesse Donaldson of <a href="https://thetyee.ca/Life/2013/09/27/Unnatural-History-of-Stanley-Park/"><i>The Tyee </i></a> says, “Not only were plant species regularly added and replaced in the Stanley Park of the early 20th century; so too were members of the peninsula’s animal population” such as “animals kept in the park zoo (including several deer and a bear notable for its repeated escapes).”<sup> </sup> Stanley Park remained full of nature, but only in ways that felt palatable and safe to Vancouver’s settler residents.
+      <br>This image shows us another relic of the many past lives of Stanley Park, from a zoo which existed there from 1888 to 1996.<sup> </sup> As Jesse Donaldson of <a href="https://thetyee.ca/Life/2013/09/27/Unnatural-History-of-Stanley-Park/"><i>The Tyee </i></a> says, “Not only were plant species regularly added and replaced in the Stanley Park of the early 20th century; so too were members of the peninsula’s animal population” such as “animals kept in the park zoo (including several deer and a bear notable for its repeated escapes).”<sup> </sup> Stanley Park remained full of nature, but only in ways that felt palatable and safe to Vancouver’s settler residents.
     </div>
     <div class="col-sm">
       {% include feature/item-figure.html objectid="langmann027" width="100" %}
@@ -47,19 +47,19 @@ This section also contains an image of an animal that has been killed for sport.
 
 <div class="container">
   <div class="row">
-    <div class="col-sm-5">
+    <div class="col-sm">
       {% include feature/item-figure.html objectid="langmann030" width="100" %}
     </div>
-    <div class="col-sm-7">
+    <div class="col-sm">
       This image is a further example of the lack of understanding that settlers had for indigenous customs and traditions, and how they took advantage of natural resources in harmful and toxic ways. The handwritten captions on the photograph – “The cougar hunt” and “The cougar dead just where she fell” – indicate an enjoyment and pride in hunting for sport, rather than hunting for food and sustenance and practicing a more respectful and holistic relationship with the land.<br>
 <a href="https://www.ictinc.ca/blog/what-is-the-relationship-between-indigenous-peoples-and-animals">Indigenous Corporate Training, Inc.</a> provides more context for the relationship that many indigenous peoples had with the natural world, and how at odds it would have been with the attitude represented in this image:<br>
-“Indigenous Peoples were careful and respectful of the natural lifecycles of the animals they shared the Earth with - they made efforts to not over-fish, over-hunt or over-harvest. They hunted, fished and collected what was needed to sustain their families, tribes, or clans. Every part of the animal was used, and in many cultures there were accompanying celebrations and rituals of appreciation.”<sup>7</sup>
     </div>
   </div>
 </div>
 
 <center><small>Image description: A cougar lays dead on the forest floor, with dogs and hunters squatting behind it.<br>
-  Source: Uno Langmann Family Collection of B.C. Photographs. <a href="https://dx.doi.org/10.14288/1.0369153">UL_1649_0003</a>. Rare Books and Special Collections.</small></center><br><br>
+  Source: Uno Langmann Family Collection of B.C. Photographs. <a href="https://dx.doi.org/10.14288/1.0369153">UL_1649_0003</a>. Rare Books and Special Collections.</small></center><br>
+  “Indigenous Peoples were careful and respectful of the natural lifecycles of the animals they shared the Earth with - they made efforts to not over-fish, over-hunt or over-harvest. They hunted, fished and collected what was needed to sustain their families, tribes, or clans. Every part of the animal was used, and in many cultures there were accompanying celebrations and rituals of appreciation.”<sup>7</sup><br><br>
 
 <div class="container">
   <div class="row">
@@ -90,12 +90,12 @@ This section also contains an image of an animal that has been killed for sport.
 <center><small>Image description: Large building in the background with a fence in the foreground. Handwritten caption on the photograph reads: Coqualeetza Industrial School, Chilliwack B.C.<br>
   Source: Uno Langmann Family Collection of B.C. Photographs. <a href="https://dx.doi.org/10.14288/1.0361315">UL_1624_03_0177</a>. Rare Books and Special Collections.</small></center><br>
 <p style="text-indent: 25px;">This image portrays an Indian residential school in Chilliwack, with the innocuous and euphemistic handwritten caption, “Coqualeetza Industrial School.” The residential school system is widely considered to be one of the greatest crimes perpetrated against indigenous peoples by the Canadian government. In an effort to separate indigenous children from their families, cultures, and traditions, the children who were sent to these institutions were “taught that their cultures were inferior and that they themselves were worthless. They suffered all manner of abuse: physical, emotional, sexual, psychological, and spiritual.”<sup>10</sup> There were a total of at least twenty-two residential schools in British Columbia alone, which did not close until 1984, and more than 150,000 children across Canada were forced to attend. Survivors of the residential school system and their families are still grappling today with the inter-generational trauma that these institutions caused.</p><br>
-<p style="text-indent: 25px;">More information can be found through the <a href="https://irshdc.ubc.ca/about/what-we-do/">Indian Residential School History and Dialogue Centre</a>, which aims to address this history from a Survivor-centred approach.</p><sup>11</sup><br><br><br>
+<p style="text-indent: 25px;">More information can be found through the <a href="https://irshdc.ubc.ca/about/what-we-do/">Indian Residential School History and Dialogue Centre</a>, which aims to address this history from a Survivor-centred approach.<sup>11</sup></p><br><br><br>
 
 <div class="container">
   <div class="row">
     <div class="col-sm">
-       This image portrays a white settler child who has been dressed up in traditional indigenous clothing as a “mascot” for the Vancouver Golden Jubilee celebration. Not only does the image represent ignorance with the very act of cultural appropriation, it also betrays an ignorance of the diversity of indigenous peoples. The feather headdress and style of beading found on this outfit were not typically used by indigenous peoples of the Northwest Coast; the outfit is therefore a trope or generalization of what white settlers thought of as indigenous clothing. Similar inaccuracies were rampant among photographs taken of indigenous individuals by settlers across North America at the time, including but not limited to the misidentification of nations, tribes, or individuals, or the use of stage props such as bows and arrows, tomahawks, and buckskins.<sup>12</sup><br>
+       This image portrays a white settler child who has been dressed up in traditional indigenous clothing as a “mascot” for the Vancouver Golden Jubilee celebration. Not only does the image represent ignorance with the very act of cultural appropriation, it also betrays an ignorance of the diversity of indigenous peoples. The feather headdress and style of beading found on this outfit were not typically used by indigenous peoples of the Northwest Coast; the outfit is therefore a trope or generalization of what white settlers thought of as indigenous clothing. Similar inaccuracies were rampant among photographs taken of indigenous individuals by settlers across North America at the time, including but not limited to the misidentification of nations, tribes, or individuals, or the use of stage props such as bows and arrows, tomahawks, and buckskins.<sup>12</sup><br><br>
 
    <small>Image description: Portrait of the mascot for the Vancouver Golden Jubilee, Beverly Pierce Kendall, dressed in First Nations ceremonial dress including a chief's feather headress.<br>
       Source: Uno Langmann Family Collection of B.C. Photographs. <a href="https://dx.doi.org/10.14288/1.0360946">UL_1624_02_0240</a>. Rare Books and Special Collections.</small>
@@ -105,7 +105,7 @@ This section also contains an image of an animal that has been killed for sport.
     </div>
   </div>
 </div>
-Furthermore, the image is particularly poignant when considered in conversation with the previous image of a residential school, since indigenous children in residential schools were frequently punished and abused for attempting to maintain the traditions of their people, including language and clothing. 
+<br>Furthermore, the image is particularly poignant when considered in conversation with the previous image of a residential school, since indigenous children in residential schools were frequently punished and abused for attempting to maintain the traditions of their people, including language and clothing. 
 The use of indigenous peoples and imagery as “mascots” is an affront that continues to be perpetrated – and fought against by indigenous peoples across North America – today. Examples of cultural appropriation, wherein settlers steal aspects of minority clothing, cultural expressions and symbols, ways of knowing, and more, also remain prevalent to this day.<br><br>
 
 <div class="container">
@@ -114,11 +114,12 @@ The use of indigenous peoples and imagery as “mascots” is an affront that co
       {% include feature/item-figure.html objectid="langmann023" width="100" %}
     </div>
     <div class="col-sm-5">
-      This image portrays a play about the crucifixion of Jesus Christ performed by indigenous individuals in front of an audience of white settlers. Christianity was often forcibly imposed on indigenous peoples, particularly children, in order to separate them from their traditional spiritual practices. This was part of the goal of the residential school system, as well as legislation such as the Indian Act of 1880, which banned potlatch ceremonies. <a href= "https://webcache.googleusercontent.com/search?q=cache:1H8pzdD8UuwJ:https://www.ictinc.ca/the-potlatch-ban-abolishment-of-first-nations-ceremonies+&cd=3&hl=en&ct=clnk&gl=ca&client=firefox-b-e">Indigenous Corporate Training, Inc.</a> describes the logic behind such legislation thusly: “If the potlatch, the cornerstone of the culture of coastal First Nations, could be eradicated, then the government and the missionaries would be free to swoop in and fill the cultural void with Christianity.”<sup>13</sup> Today, two-thirds of indigenous people in Canada identify as Christian.<sup>14</sup> In some cases, hybridized spiritual practices have emerged, with elements of both Christianity and traditional indigenous spirituality.<sup>15</sup><br>
+      <br><br>This image portrays a play about the crucifixion of Jesus Christ performed by indigenous individuals in front of an audience of white settlers. Christianity was often forcibly imposed on indigenous peoples, particularly children, in order to separate them from their traditional spiritual practices. This was part of the goal of the residential school system, as well as legislation such as the Indian Act of 1880, which banned potlatch ceremonies. <a href= "https://webcache.googleusercontent.com/search?q=cache:1H8pzdD8UuwJ:https://www.ictinc.ca/the-potlatch-ban-abolishment-of-first-nations-ceremonies+&cd=3&hl=en&ct=clnk&gl=ca&client=firefox-b-e">Indigenous Corporate Training, Inc.</a> describes the logic behind such legislation thusly:<br><br>
     </div>
   </div>
 </div>
 
+“If the potlatch, the cornerstone of the culture of coastal First Nations, could be eradicated, then the government and the missionaries would be free to swoop in and fill the cultural void with Christianity.”<sup>13</sup> Today, two-thirds of indigenous people in Canada identify as Christian.<sup>14</sup> In some cases, hybridized spiritual practices have emerged, with elements of both Christianity and traditional indigenous spirituality.<sup>15</sup><br>
 <center><small>Image description: A group of indigenous individuals standing on a stage in the background acting out the crucifixion of Jesus Christ, with an audience of white settlers with their backs to the camera in the foreground.<br>
   Source: Uno Langmann Family Collection of B.C. Photographs. <a href="https://dx.doi.org/10.14288/1.0361456">UL_1624_03_0246</a>. Rare Books and Special Collections.</small></center><br>
   
