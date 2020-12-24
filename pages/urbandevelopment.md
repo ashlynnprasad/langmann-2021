@@ -146,7 +146,7 @@ permalink: /urbandevelopment.html
   3. Ibid, 45.<br>
   4. Jean Barman, Stanley Park’s Secret: The Forgotten Families of Whoi Whoi, Kanaka Ranch and Brockton Point (Madeira Park, BC: Harbour Publishing, 2005), 92.<br>
   5. Erin Hanson, “Aboriginal Rights,” Indigenous Foundations, accessed November 13, 2020, <a href="https://indigenousfoundations.arts.ubc.ca/aboriginal_rights/">https://indigenousfoundations.arts.ubc.ca/aboriginal_rights/</a>.<br>
-  6. “Historic Timeline,” Museum of Anthropology Musqueam Teaching Kit, accessed December 14, 2020, <a href="ttp://www2.moa.ubc.ca/musqueamteachingkit/history.php">http://www2.moa.ubc.ca/musqueamteachingkit/history.php</a>.<br>
+  6. “Historic Timeline,” Museum of Anthropology Musqueam Teaching Kit, accessed December 14, 2020, <a href="http://www2.moa.ubc.ca/musqueamteachingkit/history.php">http://www2.moa.ubc.ca/musqueamteachingkit/history.php</a>.<br>
   7. Matthew Halliday, “The bold new plan for an Indigenous-led development in Vancouver,” The Guardian, January 3, 2020, <a href="https://www.theguardian.com/cities/2020/jan/03/the-bold-new-plan-for-an-indigenous-led-development-in-vancouver">https://www.theguardian.com/cities/2020/jan/03/the-bold-new-plan-for-an-indigenous-led-development-in-vancouver</a>.<br>
   8. Ibid.<br>
   9. Chuck Davis, “Vancouver, British Columbia,” accessed December 14, 2020, <a href="https://www.britannica.com/place/Vancouver">https://www.britannica.com/place/Vancouver</a>.<br></small>
