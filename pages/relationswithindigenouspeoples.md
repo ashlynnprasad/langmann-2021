@@ -118,7 +118,7 @@ The use of indigenous peoples and imagery as “mascots” is an affront that co
   </div>
 </div>
 
-“If the potlatch, the cornerstone of the culture of coastal First Nations, could be eradicated, then the government and the missionaries would be free to swoop in and fill the cultural void with Christianity.”<sup>13</sup> Today, two-thirds of indigenous people in Canada identify as Christian.<sup>14</sup> In some cases, hybridized spiritual practices have emerged, with elements of both Christianity and traditional indigenous spirituality.<sup>15</sup><br>
+<p style="margin-left:10%; margin-right:10%;">“If the potlatch, the cornerstone of the culture of coastal First Nations, could be eradicated, then the government and the missionaries would be free to swoop in and fill the cultural void with Christianity.”<sup>13</sup> Today, two-thirds of indigenous people in Canada identify as Christian.<sup>14</sup> In some cases, hybridized spiritual practices have emerged, with elements of both Christianity and traditional indigenous spirituality.<sup>15</sup></p><br>
 <center><small>Image description: A group of indigenous individuals standing on a stage in the background acting out the crucifixion of Jesus Christ, with an audience of white settlers with their backs to the camera in the foreground.<br>
   Source: Uno Langmann Family Collection of B.C. Photographs. <a href="https://dx.doi.org/10.14288/1.0361456">UL_1624_03_0246</a>. Rare Books and Special Collections.</small></center><br>
   
