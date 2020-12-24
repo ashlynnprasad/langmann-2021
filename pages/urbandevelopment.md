@@ -107,7 +107,7 @@ permalink: /urbandevelopment.html
   </div>
   
   <center><small>Image description: View of crowds gathering at Second Beach in Stanley Park.<br>
-  Source: Uno Langmann Family Collection of B.C. Photographs. <a href="https://dx.doi.org/10.14288/1.0053444">UL_1015_0012</a>. Rare Books and Special Collections.</small></center><br><br>
+  Source: Uno Langmann Family Collection of B.C. Photographs. <a href="doi:http://dx.doi.org/10.14288/1.0371561">UL_1639_0015</a>. Rare Books and Special Collections.</small></center><br><br>
 
 <div class="container">
   <div class="row">
