@@ -30,8 +30,11 @@ permalink: /environmentalimpact.html
   
   <center><small> Image descriptions:<br>
   Top-left: A snowy field filled with hundreds of logs lying on their side in the foreground. In the background, a logging mill can be seen, among other buildings.<br>
+  Source: Uno Langmann Family Collection of B.C. Photographs. <a href="https://dx.doi.org/10.14288/1.0371388">UL_1639_0012_02</a>. Rare Books and Special Collections.<br>
   Top-right: View of piles of cut logs in the forest. A man can be seen standing on top of a small pile in the bottom right.<br>
-  Bottom: View of logs coming down the river. In the background, logged areas on the bank of the river can be seen, with other trees still standing in the far background.</small></center><br>
+  Source: Uno Langmann Family Collection of B.C. Photographs. <a href="https://dx.doi.org/10.14288/1.0371285">UL_1639_0012_03</a>. Rare Books and Special Collections.<br>
+  Bottom: View of logs coming down the river. In the background, logged areas on the bank of the river can be seen, with other trees still standing in the far background.<br>
+  Source: Uno Langmann Family Collection of B.C. Photographs. <a href="https://dx.doi.org/10.14288/1.0371393">UL_1639_0035</a>. Rare Books and Special Collections.</small></center><br>
 
 <p style="text-indent: 25px;">Not only was mass logging taking place in British Columbia, but the existence of photographs such as these indicates that there may have been public demand for evidence of such activities. Photographers wanted to document the process of deforestation in the service of creating a city, or for the creation of an economic infrastructure based on resource extraction and exploitation. One can imagine how average settlers might have enjoyed seeing evidence of the “modernization” of the land they had overtaken.<br>
 <p style="text-indent: 25px;">While the prevailing attitude of settlers was one that enabled them to justify a colonial takeover of indigenous lands, as well as mass logging, mining, and other activities to rob the land of precious resources, not everyone was entirely comfortable accepting this narrative. Colonel Moody, the first Lieutenant-Governor of British Columbia, declared of the land at New Westminster: it was “magnificent beyond description…. I declare without the least sentimentality, I grieve and mourn the ruthless destruction of these most glorious trees. What a grand old park this whole hill would make.”<sup>4</sup><br><br>
@@ -46,7 +49,8 @@ permalink: /environmentalimpact.html
     </div>
   </div>
 </div>
-<center><small>Image description: A man's head peeping out beneath the preliminary cut in a large cedar about to be felled.</small></center><br><br>
+<center><small>Image description: A man's head peeping out beneath the preliminary cut in a large cedar about to be felled.<br>
+  Source: Uno Langmann Family Collection of B.C. Photographs. <a href="https://dx.doi.org/10.14288/1.0361731">UL_1633_0034</a>. Rare Books and Special Collections.</small></center><br><br>
 <p style="text-indent: 25px;">Just as this image stands as evidence of colonial-settler disrespect for the land, it also represents a casual disregard for indigenous peoples, as the cedar tree in particular “plays an integral role in the spiritual beliefs and ceremonial life of coastal First Nations,” as explained by <a href="https://indigenousfoundations.arts.ubc.ca/cedar/">UBC’s Indigenous Foundations</a> resource. “The deep respect for cedar is a rich tradition that spans thousands of years and continues to be culturally, spiritually, and economically important.”<sup>5</sup><br><br>
 
 <div class="container">
@@ -65,8 +69,11 @@ permalink: /environmentalimpact.html
 
 <center><small>Image descriptions:<br>
   Top-left: View of the Princess Charlotte steamer ship leaving Vancouver for Victoria.<br>
+  Source: Uno Langmann Family Collection of B.C. Photographs. <a href="https://dx.doi.org/10.14288/1.0361230">UL_1624_03_0092</a>. Rare Books and Special Collections.<br>
   Top-right: View of the St. George, North Vancouver ferry No. 2. Written on photograph: No. 47.<br>
-  Bottom: View of a steamer leaving Nanaimo, spewing smoke. The town can be seen in the background.</small></center><br><br>
+  Source: Uno Langmann Family Collection of B.C. Photographs. <a href="https://dx.doi.org/10.14288/1.0360878">UL_1624_02_0307</a>. Rare Books and Special Collections.<br>
+  Bottom: View of a steamer leaving Nanaimo, spewing smoke. The town can be seen in the background.<br>
+  Source: Uno Langmann Family Collection of B.C. Photographs. <a href="https://dx.doi.org/10.14288/1.0361872">UL_1638_0013</a>. Rare Books and Special Collections.</small></center><br><br>
 
 <p style="text-indent: 25px;">These images portray the types of boats that settlers introduced into the area. The first image is a larger ship that would undertake trips of longer duration to more distant locations, and the latter two photographs depict, respectively, the North Vancouver ferry (now known as the Seabus) and the ferry that travelled between Vancouver and Nanaimo. Both ships would have made their journeys at least once a day. All three images demonstrate how much air and water pollution each vessel produced in the single instant it took to capture the photographs. From this, we can imagine how much pollution would have resulted from daily passages of each ship. Far from addressing environmental concerns, as contemporary viewers might be more likely to do, each image seems to praise the ships as evidence of the modernization of Vancouver society.<br><br>
 
@@ -81,13 +88,15 @@ permalink: /environmentalimpact.html
   </div>
 </div>
 
-<center><small>Image description: View of a pulp and paper mill at the edge of a body of water. Smoke can be seen rising from the mill's smokestacks.</small></center><br><br>
+<center><small>Image description: View of a pulp and paper mill at the edge of a body of water. Smoke can be seen rising from the mill's smokestacks.<br>
+  Source: Uno Langmann Family Collection of B.C. Photographs. <a href="https://dx.doi.org/10.14288/1.0371385">UL_1635_0026</a>. Rare Books and Special Collections.</small></center><br><br>
 
 <div class="container">
   <div class="row">
     <div class="col-sm-5">
       <br>This image portrays an aerial view of factories and other buildings in downtown Vancouver. In the distance, fumes from an array of smokestacks are seen wafting into the air and blurring the view of the mountains at the horizon. The entire sky seems hazy, so that one cannot quite tell how much of the haze is cloud and how much pollution.<br><br>
-      <small>Image description: Aeriel view of factories and other buildings in downtown Vancouver.</small>
+      <small>Image description: Aeriel view of factories and other buildings in downtown Vancouver.<br>
+      Source: Uno Langmann Family Collection of B.C. Photographs. <a href="https://dx.doi.org/10.14288/1.0361425">UL_1624_03_0338</a>. Rare Books and Special Collections.</small>
     </div>
     <div class="col-sm-7">
       {% include feature/item-figure.html objectid="langmann005" width="100" %}
@@ -107,7 +116,8 @@ permalink: /environmentalimpact.html
   </div>
 </div>
 
-<center><small>Image description: View of coal shipping operation and dock. Photographer's mark is initials JR with a number in a diamond shape.</small></center><br><br>
+<center><small>Image description: View of coal shipping operation and dock. Photographer's mark is initials JR with a number in a diamond shape.<br>
+  Source: Uno Langmann Family Collection of B.C. Photographs. <a href="https://dx.doi.org/10.14288/1.0363126">UL_1656_0004</a>. Rare Books and Special Collections.</small></center><br><br>
 
 <big>Modern Impacts</big>
 
