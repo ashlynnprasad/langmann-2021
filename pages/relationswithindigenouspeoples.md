@@ -16,7 +16,8 @@ permalink: /relationswithindigenouspeoples.html
   <div class="row">
     <div class="col-sm-7">
       {% include feature/item-figure.html objectid="langmann025" width="100" %}<br>
-      <small>Image description: Large wooden arch with ocean in the background. Handwritten caption on photograph reads Lumberman's Arch (10), Stanley Park, Vancouver, B.C.</small>
+      <small>Image description: Large wooden arch with ocean in the background. Handwritten caption on photograph reads Lumberman's Arch (10), Stanley Park, Vancouver, B.C.<br>
+      Source: Uno Langmann Family Collection of B.C. Photographs. <a href="https://dx.doi.org/10.14288/1.0360837">UL_1624_02_0127</a>. Rare Books and Special Collections.</small>
     </div>
     <div class="col-sm-5">
       Another example of the ways in which settler-colonial preferences for the visual appeal of the park overrode entire histories of indigenous customs and land rights was the re-placement of Lumberman’s Arch. John Mackie explains how the arch was resituated from its original home downtown to Stanley Park, “on the site of an old native village that whites called Whoi Whoi,” or Xwayxway, and which had been home to Squamish, Musqueam and Tsleil-Waututh First Nations.  Not only was it their home, but “when the first road was built around Stanley Park, a construction crew unearthed near Whoi Whoi a large deposit of broken and crushed clam shells, as well as skulls and other body parts.... Rather than exciting any interest, the shells were used to surface the road.” 
@@ -36,7 +37,8 @@ permalink: /relationswithindigenouspeoples.html
   </div>
 </div>
 
-<center><small>Image description: Two bears in a cage play around a large tree stump. In the background is a third bear in another cage.</small></center><br><br>
+<center><small>Image description: Two bears in a cage play around a large tree stump. In the background is a third bear in another cage.<br>
+  Source: Uno Langmann Family Collection of B.C. Photographs. <a href="https://dx.doi.org/10.14288/1.0361573">UL_1624_02_0261</a>. Rare Books and Special Collections.</small></center><br><br>
 
 <div class="container">
   <div class="row">
@@ -49,7 +51,8 @@ permalink: /relationswithindigenouspeoples.html
   </div>
 </div>
 
-<center><small>Image description: A cougar lays dead on the forest floor, with dogs and hunters squatting behind it.</small></center><br><br>
+<center><small>Image description: A cougar lays dead on the forest floor, with dogs and hunters squatting behind it.<br>
+  Source: Uno Langmann Family Collection of B.C. Photographs. <a href="https://dx.doi.org/10.14288/1.0369153">UL_1649_0003</a>. Rare Books and Special Collections.</small></center><br><br>
 
 <div class="container">
   <div class="row">
@@ -62,7 +65,8 @@ permalink: /relationswithindigenouspeoples.html
   </div>
 </div>
 
-<center><small>Image description: An aerial view of downtown Vancouver, looking north. An illustration of George Vancouver stands on Stanley Park with legs apart and arms slightly raised. Handwritten caption on the photograph reads: George Vancouver Welcomes You to Vancouver.</small></center><br><br>
+<center><small>Image description: An aerial view of downtown Vancouver, looking north. An illustration of George Vancouver stands on Stanley Park with legs apart and arms slightly raised. Handwritten caption on the photograph reads: George Vancouver Welcomes You to Vancouver.<br>
+  Source: Uno Langmann Family Collection of B.C. Photographs. <a href="https://dx.doi.org/10.14288/1.0361039">UL_1624_02_0242</a>. Rare Books and Special Collections.</small></center><br><br>
 
 <div class="container">
   <div class="row">
@@ -75,7 +79,8 @@ permalink: /relationswithindigenouspeoples.html
     </div>
   </div>
 </div>
-<center><small>Image description: Large building in the background with a fence in the foreground. Handwritten caption on the photograph reads: Coqualeetza Industrial School, Chilliwack B.C.</small></center><br>
+<center><small>Image description: Large building in the background with a fence in the foreground. Handwritten caption on the photograph reads: Coqualeetza Industrial School, Chilliwack B.C.<br>
+  Source: Uno Langmann Family Collection of B.C. Photographs. <a href="https://dx.doi.org/10.14288/1.0361315">UL_1624_03_0177</a>. Rare Books and Special Collections.</small></center><br>
 <p style="text-indent: 25px;">This image portrays an Indian residential school in Chilliwack, with the innocuous and euphemistic handwritten caption, “Coqualeetza Industrial School.” The residential school system is widely considered to be one of the greatest crimes perpetrated against indigenous peoples by the Canadian government, and indigenous families today are still grappling with the generational trauma that these institutions caused. More information can be found through the <a href="https://irshdc.ubc.ca/about/what-we-do/">Indian Residential School History and Dialogue Centre</a>, which aims to address this history from a Survivor-centred approach.<br><br><br>
 
 <div class="container">
@@ -83,7 +88,8 @@ permalink: /relationswithindigenouspeoples.html
     <div class="col-sm">
        This image portrays a white settler child who has been dressed up in traditional indigenous clothing as a “mascot” for the Vancouver Golden Jubilee celebration. The image is particularly poignant when set up in conversation with the previous image of a residential school, since indigenous children in residential schools were frequently punished and abused for attempting to wear the traditional clothes or speak the traditional languages of their peoples. It is also worth noticing that the occasion for which this settler child was dressed up in indigenous clothing was an anniversary of the creation of the city of Vancouver, which of course was only possible because of settler subjugation of indigenous peoples.<br>
 The use of indigenous peoples and imagery as “mascots” is an affront that continues to be perpetrated – and fought against by indigenous peoples across North America – today.<br><br>
-      <small>Image description: Portrait of the mascot for the Vancouver Golden Jubilee, Beverly Pierce Kendall, dressed in First Nations ceremonial dress including a chief's feather headress.</small>
+      <small>Image description: Portrait of the mascot for the Vancouver Golden Jubilee, Beverly Pierce Kendall, dressed in First Nations ceremonial dress including a chief's feather headress.<br>
+      Source: Uno Langmann Family Collection of B.C. Photographs. <a href="https://dx.doi.org/10.14288/1.0360946">UL_1624_02_0240</a>. Rare Books and Special Collections.</small>
     </div>
     <div class="col-sm">
       {% include feature/item-figure.html objectid="langmann029" width="75" %}
@@ -102,7 +108,8 @@ The use of indigenous peoples and imagery as “mascots” is an affront that co
   </div>
 </div>
 
-<center><small>Image description: A group of indigenous individuals standing on a stage in the background acting out the crucifixion of Jesus Christ, with an audience of white settlers with their backs to the camera in the foreground.</small></center><br><br>
+<center><small>Image description: A group of indigenous individuals standing on a stage in the background acting out the crucifixion of Jesus Christ, with an audience of white settlers with their backs to the camera in the foreground.<br>
+  Source: Uno Langmann Family Collection of B.C. Photographs. <a href="https://dx.doi.org/10.14288/1.0361456">UL_1624_03_0246</a>. Rare Books and Special Collections.</small></center><br><br>
 
 <div class="col-md-12">
 
