@@ -33,7 +33,8 @@ permalink: /urbandevelopment.html
   <div class="row">
     <div class="col-sm">
      <br><br><br>The handwritten caption on this photograph of a tall row of trees, reading “This is the forest primeval,” provides further evidence of the cognitive dissonance their actions required when it came to Stanley Park in particular.<br><br>
-      <small>Image description: View of path through forest of Stanley Park. Written on photograph: 112. Handwritten caption reads: This is the forest primeval, Stanley Park, B.C.</small>
+      <small>Image description: View of path through forest of Stanley Park. Written on photograph: 112. Handwritten caption reads: This is the forest primeval, Stanley Park, B.C.<br>
+      Source: Uno Langmann Family Collection of B.C. Photographs. <a href="https://dx.doi.org/10.14288/1.0360957">UL_1624_02_0102</a>. Rare Books and Special Collections.</small>
     </div>
     <div class="col-sm">
       {% include feature/item-figure.html objectid="langmann034" width="75" %}
@@ -53,7 +54,9 @@ permalink: /urbandevelopment.html
 
 <center><small>Image descriptions:<br>
   Left: View toward settlements on Deadman's Island from Coal Harbour.<br>
-  Right: A view of driftwood on the beach, with buildings in the background and the tall trees of Stanley Park in the far background.</small></center><br>
+  Source: Uno Langmann Family Collection of B.C. Photographs. <a href="https://dx.doi.org/10.14288/1.0053444">UL_1015_0080</a>. Rare Books and Special Collections.<br>
+  Right: A view of driftwood on the beach, with buildings in the background and the tall trees of Stanley Park in the far background.<br>
+  Source: Uno Langmann Family Collection of B.C. Photographs. <a href="https://dx.doi.org/10.14288/1.0053444">UL_1015_0012</a>. Rare Books and Special Collections.</small></center><br>
 <p style="text-indent: 25px;">This image to the left, taken from Coal Harbour and looking toward Deadman’s Island sometime between 1891 and 1901, shows settlements along the shore of the island. The image to the right shows similar establishments on the other side of the park, at English Bay. When this area was transformed into Stanley Park, habitations such as these were destroyed and their residents forced to relocate.</p>
 <p style="text-indent: 25px;">The historian Jean Barman, in her book Stanley Park’s Secret shares quotes from indigenous individuals who lived on these lands before their forced relocation. In one case, a man named August Jack shares his experience of his house literally being demolished while he was inside. The house was located on the site of a future road that would wrap around the perimeter of Stanley Park, and would have been similar to the houses pictured here.<br>
 <p style="margin-left:10%; margin-right:10%;">“We was inside this house when the surveyors come along, and they chop the corner of our house when we was eating inside.”<sup>4</sup></p><br><br>
@@ -67,7 +70,8 @@ permalink: /urbandevelopment.html
       This postcard is notable not only for the way it showcases the large buildings and paved roads of Vancouver’s newly-developed downtown area, as well as the parade which is apparently intended to show off the city, but also for the signage visible. One banner reads “A Hundred Thousand Welcomes,” in an example of settlers enthusiastically welcoming strangers to lands that were not rightfully theirs. In British Columbia, most of the land never came under the jurisdiction of treaties and remains unceded to this day.
     </div>
   </div>
-  <center><small>Image description: View of a parade going down Granville St. Banners across the street read, "A hundred thousand welcomes" and "Just watch Vancouver's smoke."</small></center><br>
+  <center><small>Image description: View of a parade going down Granville St. Banners across the street read, "A hundred thousand welcomes" and "Just watch Vancouver's smoke."<br>
+    Source: Uno Langmann Family Collection of B.C. Photographs. <a href="https://dx.doi.org/10.14288/1.0362964">UL_1662_0001</a>. Rare Books and Special Collections.</small></center><br>
 <p style="text-indent: 25px;">Another slightly more puzzling sign in the background reads “Just Watch Vancouver’s Smoke.” This could be an indication of the way in which industrialization was revered, and environmental impact was not yet the subject of widespread concern – at least not by settlers.<br><br>
   
 <div class="container">
@@ -81,7 +85,9 @@ permalink: /urbandevelopment.html
   </div>
   <center><small>Image descriptions:<br>
     Left: View of buildings being constructed in downtown Vancouver.<br>
-    Right: Aerial view of Vancouver, B.C.</small></center><br>
+    Source: Uno Langmann Family Collection of B.C. Photographs. <a href="https://dx.doi.org/10.14288/1.0361299">UL_1624_03_0227</a>. Rare Books and Special Collections.<br>
+    Right: Aerial view of Vancouver, B.C.<br>
+    Source: Uno Langmann Family Collection of B.C. Photographs. <a href="https://dx.doi.org/10.14288/1.0361532">UL_1624_03_0228</a>. Rare Books and Special Collections.</small></center><br>
  <p style="text-indent: 25px;">These triumphant aerial shots portray the sprawling, newly erected buildings of Vancouver’s downtown hub. However, not everyone was permitted to share in the perceived progress of the young city. By the time Vancouver was developing as a major city, indigenous peoples had already faced a long history of marginalization. Erin Hanson, in <a href="https://indigenousfoundations.arts.ubc.ca/aboriginal_rights/">Aboriginal Rights</a>, notes:<br>
   <p style="margin-left:10%; margin-right:10%;">“Colonial governments in Canada initially practiced a policy of extinguishment, which meant that Aboriginal peoples’ rights would be surrendered or legislated away, often in exchange for treaty rights…. Over time, however, many Aboriginal people found that the Canadian state continued to subjugate them and infringe upon the very rights they thought would be respected…. For example, the government added specific pieces of discriminatory legislation in the Indian Act that made it illegal for Aboriginal people to organize politically or to hire legal counsel to further land claims.”<sup>5</sup> </p><br>
   <p style="text-indent: 25px;">In this way, indigenous peoples were forced to watch their traditional and ancestral homelands give way to settlements they were forcibly excluded from, such as those pictured above, while any power they had to seek redress were also stripped away. As noted by an unnamed source quoted in the Museum of Anthropology’s <a href="http://www2.moa.ubc.ca/musqueamteachingkit/history.php">Musqueam Teaching Kit</a>, “The government amended the Indian Act in 1927 making it illegal for us to hire lawyers and hold meetings to pursue land claims. Despite this injustice, First Nations worked together to form the Native Brotherhood of British Columbia and other political organizations to assert our Aboriginal rights.”<sup>6</sup><br><br>
@@ -100,7 +106,8 @@ permalink: /urbandevelopment.html
     </div>
   </div>
   
-  <center><small>Image description: View of crowds gathering at Second Beach in Stanley Park.</small></center><br><br>
+  <center><small>Image description: View of crowds gathering at Second Beach in Stanley Park.<br>
+  Source: Uno Langmann Family Collection of B.C. Photographs. <a href="https://dx.doi.org/10.14288/1.0053444">UL_1015_0012</a>. Rare Books and Special Collections.</small></center><br><br>
 
 <div class="container">
   <div class="row">
@@ -111,7 +118,8 @@ permalink: /urbandevelopment.html
       {% include feature/item-figure.html objectid="langmann020" width="100" %}
     </div>
   </div>
-  <center><small>Image description: Image of labourers working on putting in cement sidewalks between Richards and Seymour Streets. The project was contracted by G.W. Ledingham.</small></center><br><br>
+  <center><small>Image description: Image of labourers working on putting in cement sidewalks between Richards and Seymour Streets. The project was contracted by G.W. Ledingham.<br>
+    Source: Uno Langmann Family Collection of B.C. Photographs. <a href="https://dx.doi.org/10.14288/1.0361377">UL_1624_03_0313</a>. Rare Books and Special Collections.</small></center><br><br>
   <p style="text-indent: 25px;">This image demonstrates that the rapid development of the new city was largely carried out by settlers of European descent. The image, and the fact that someone made sure to photographically document the laying of cement, also gives us a sense of the pride that settlers took in their new city.<br><br>
     
  <div class="container">
@@ -124,6 +132,8 @@ permalink: /urbandevelopment.html
     </div>
   </div>
     
+   <center><small>Image description: View of cars and people walking into Stanley Park. Photograph pictured on postcard pre-dates the printing. Photograph dates between approximately 1920 and 1930.<br>
+    Source: Uno Langmann Family Collection of B.C. Photographs. <a href="https://dx.doi.org/10.14288/1.0371358">UL_1628_0026</a>. Rare Books and Special Collections.</small></center>
     
   <div class="col-md-12">
 
