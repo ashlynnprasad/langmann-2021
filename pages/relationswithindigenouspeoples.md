@@ -95,17 +95,16 @@ This section also contains an image of an animal that has been killed for sport.
 <div class="container">
   <div class="row">
     <div class="col-sm">
-       This image portrays a white settler child who has been dressed up in traditional indigenous clothing as a “mascot” for the Vancouver Golden Jubilee celebration. Not only does the image represent ignorance with the very act of cultural appropriation, it also betrays an ignorance of the diversity of indigenous peoples. The feather headdress and style of beading found on this outfit were not typically used by indigenous peoples of the Northwest Coast; the outfit is therefore a trope or generalization of what white settlers thought of as indigenous clothing. Similar inaccuracies were rampant among photographs taken of indigenous individuals by settlers across North America at the time, including but not limited to the misidentification of nations, tribes, or individuals, or the use of stage props such as bows and arrows, tomahawks, and buckskins.<sup>12</sup><br><br>
-
-   <small>Image description: Portrait of the mascot for the Vancouver Golden Jubilee, Beverly Pierce Kendall, dressed in First Nations ceremonial dress including a chief's feather headress.<br>
-      Source: Uno Langmann Family Collection of B.C. Photographs. <a href="https://dx.doi.org/10.14288/1.0360946">UL_1624_02_0240</a>. Rare Books and Special Collections.</small>
+       <br>This image portrays a white settler child who has been dressed up in traditional indigenous clothing as a “mascot” for the Vancouver Golden Jubilee celebration. Not only does the image represent ignorance with the very act of cultural appropriation, it also betrays an ignorance of the diversity of indigenous peoples. The feather headdress and style of beading found on this outfit were not typically used by indigenous peoples of the Northwest Coast; the outfit is therefore a trope or generalization of what white settlers thought of as indigenous clothing. Similar inaccuracies were rampant among photographs taken of indigenous individuals by settlers across North America at the time, including but not limited to the misidentification of nations, tribes, or individuals, or the use of stage props such as bows and arrows, tomahawks, and buckskins.<sup>12</sup><br><br>
     </div>
     <div class="col-sm">
       {% include feature/item-figure.html objectid="langmann029" width="75" %}
     </div>
   </div>
 </div>
-<br>Furthermore, the image is particularly poignant when considered in conversation with the previous image of a residential school, since indigenous children in residential schools were frequently punished and abused for attempting to maintain the traditions of their people, including language and clothing. 
+<center><small>Image description: Portrait of the mascot for the Vancouver Golden Jubilee, Beverly Pierce Kendall, dressed in First Nations ceremonial dress including a chief's feather headress.<br>
+      Source: Uno Langmann Family Collection of B.C. Photographs. <a href="https://dx.doi.org/10.14288/1.0360946">UL_1624_02_0240</a>. Rare Books and Special Collections.</small></center><br>
+      Furthermore, the image is particularly poignant when considered in conversation with the previous image of a residential school, since indigenous children in residential schools were frequently punished and abused for attempting to maintain the traditions of their people, including language and clothing. 
 The use of indigenous peoples and imagery as “mascots” is an affront that continues to be perpetrated – and fought against by indigenous peoples across North America – today. Examples of cultural appropriation, wherein settlers steal aspects of minority clothing, cultural expressions and symbols, ways of knowing, and more, also remain prevalent to this day.<br><br>
 
 <div class="container">
