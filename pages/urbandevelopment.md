@@ -23,7 +23,8 @@ permalink: /urbandevelopment.html
     </div>
     <div class="col-sm-7">
       <br><br><br>Perhaps the best example of the colonial-settler attitude towards progress and urban development, this illustration for the Golden Jubilee features two versions of the Vancouver skyline, one before skyscrapers and buildings were erected, and one after. The juxtaposition of the two skylines, in addition to the adjectives used in the text, provide an example of settler values at that time.<br><br>
-      <small>Image description: An illustration depicting two versions of the Vancouver skyline, one from 1886 and one from 1936, with a short statement lauding urban development.</small>
+      <small>Image description: An illustration depicting two versions of the Vancouver skyline, one from 1886 and one from 1936, with a short statement lauding urban development.<br>
+      Source: Uno Langmann Family Collection of B.C. Photographs. <a href="http://dx.doi.org/10.14288/1.0361077">UL_1624_02_0239</a>. Rare Books and Special Collections.</small>
     </div>
   </div>
 </div>
