@@ -111,16 +111,15 @@ The use of indigenous peoples and imagery as “mascots” is an affront that co
   <div class="row">
     <div class="col-sm-7">
       {% include feature/item-figure.html objectid="langmann023" width="100" %}
+      <center><small>Image description: A group of indigenous individuals standing on a stage in the background acting out the crucifixion of Jesus Christ, with an audience of white settlers with their backs to the camera in the foreground.<br>
+  Source: Uno Langmann Family Collection of B.C. Photographs. <a href="https://dx.doi.org/10.14288/1.0361456">UL_1624_03_0246</a>. Rare Books and Special Collections.</small></center>
     </div>
     <div class="col-sm-5">
-      <br><br>This image portrays a play about the crucifixion of Jesus Christ performed by indigenous individuals in front of an audience of white settlers. Christianity was often forcibly imposed on indigenous peoples, particularly children, in order to separate them from their traditional spiritual practices. This was part of the goal of the residential school system, as well as legislation such as the Indian Act of 1880, which banned potlatch ceremonies. <a href= "https://webcache.googleusercontent.com/search?q=cache:1H8pzdD8UuwJ:https://www.ictinc.ca/the-potlatch-ban-abolishment-of-first-nations-ceremonies+&cd=3&hl=en&ct=clnk&gl=ca&client=firefox-b-e">Indigenous Corporate Training, Inc.</a> describes the logic behind such legislation thusly:<br><br>
+      <br><br>This image portrays a play about the crucifixion of Jesus Christ performed by indigenous individuals in front of an audience of white settlers. Christianity was often forcibly imposed on indigenous peoples, particularly children, in order to separate them from their traditional spiritual practices. This was part of the goal of the residential school system, as well as legislation such as the Indian Act of 1880, which banned potlatch ceremonies. <a href= "https://webcache.googleusercontent.com/search?q=cache:1H8pzdD8UuwJ:https://www.ictinc.ca/the-potlatch-ban-abolishment-of-first-nations-ceremonies+&cd=3&hl=en&ct=clnk&gl=ca&client=firefox-b-e">Indigenous Corporate Training, Inc.</a> describes the logic behind such legislation thusly:<br>
+      “If the potlatch, the cornerstone of the culture of coastal First Nations, could be eradicated, then the government and the missionaries would be free to swoop in and fill the cultural void with Christianity.”<sup>13</sup> Today, two-thirds of indigenous people in Canada identify as Christian.<sup>14</sup> In some cases, hybridized spiritual practices have emerged, with elements of both Christianity and traditional indigenous spirituality.<sup>15</sup><br>
     </div>
   </div>
 </div>
-
-<p style="margin-left:10%; margin-right:10%;">“If the potlatch, the cornerstone of the culture of coastal First Nations, could be eradicated, then the government and the missionaries would be free to swoop in and fill the cultural void with Christianity.”<sup>13</sup> Today, two-thirds of indigenous people in Canada identify as Christian.<sup>14</sup> In some cases, hybridized spiritual practices have emerged, with elements of both Christianity and traditional indigenous spirituality.<sup>15</sup></p><br>
-<center><small>Image description: A group of indigenous individuals standing on a stage in the background acting out the crucifixion of Jesus Christ, with an audience of white settlers with their backs to the camera in the foreground.<br>
-  Source: Uno Langmann Family Collection of B.C. Photographs. <a href="https://dx.doi.org/10.14288/1.0361456">UL_1624_03_0246</a>. Rare Books and Special Collections.</small></center><br>
   
   The Christianization of indigenous peoples also offered another pathway by which settlers could justify colonization to themselves. By believing that they had been given a mandate by god to convert and assimilate indigenous peoples, settlers provided a moral pretext to crimes that they might otherwise have found difficult or impossible to excuse.<br><br>
 
