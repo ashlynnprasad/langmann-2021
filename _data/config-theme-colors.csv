@@ -1,11 +1,10 @@
 color_class,color
 primary,
-secondary,
+secondary,#66bbff
 success,
 info,
 warning,
 danger,
 light,
 dark,
-newblue, #66bbff
-newgrey, #25383c
+newgrey,#25383c
