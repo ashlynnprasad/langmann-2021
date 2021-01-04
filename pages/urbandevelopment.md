@@ -94,7 +94,8 @@ permalink: /urbandevelopment.html
 <p style="text-indent: 25px;">Jordan Stanger-Ross, associate professor of history at the University of Victoria and director of the Landscapes of Injustice research project, discusses the idea that there has been a historical “opposition assumed between the civilization cities are imagined to represent, and the imagined savageness of Indigenous people…. There is an idea that the two can’t coexist.”<sup>7</sup> For this reason, when settlers designated lands for First Nations reserves, those lands were often not centrally located near developing urban hubs. “If you look at where reserves have been placed in this country, they’re largely on the outskirts,” says Ginger Gosnell-Myers of the Nisga’a and Kwakwak'awakw Nations, and Indigenous Relations Manager at the City of Vancouver. “That’s by design... we’re looking at a deliberate history of exclusion.”<sup>8</sup><br><br>
   
   {% include feature/item-figure.html objectid="langmann039" width="75" %}<br>
-  <center>This image, from Cole Harris' <i>The Resettlement of British Columbia</i>, shows sales and pre-emptions of land in the Lower Mainland before Confederation. Tiny blocks labeled "I.R." for "Indian Reserve" show how indigenous peoples were pushed to the margins of the city.</center><br><br>
+  <center>This image, created by Eric Leinberger for Cole Harris' book, <i>The Resettlement of British Columbia</i>, shows sales and pre-emptions of land in the Lower Mainland before Confederation. Tiny blocks labeled "I.R." for "Indian Reserve" show how indigenous peoples were pushed to the margins of the city.<br>
+  <small>Permission for use of this image in this exhibition was granted by Eric Leinberger.</small></center><br><br>
   
 <div class="container">
   <div class="row">
