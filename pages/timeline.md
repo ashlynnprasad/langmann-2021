@@ -6,3 +6,5 @@ permalink: /timeline.html
 ---
 
 ## Collection Timeline
+
+Please note that the dates listed on this page have been approximated in order to fit the parameters of the website. For more accurate dates, viewers should visit each image's page on UBC's Open Collections website.
