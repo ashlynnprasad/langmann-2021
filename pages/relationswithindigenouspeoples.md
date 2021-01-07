@@ -78,8 +78,8 @@ This section also contains an image of an animal that has been killed for sport.
 <center><small>Image description: An aerial view of downtown Vancouver, looking north. An illustration of George Vancouver stands on Stanley Park with legs apart and arms slightly raised. Handwritten caption on the photograph reads: George Vancouver Welcomes You to Vancouver.<br>
   Source: Uno Langmann Family Collection of B.C. Photographs. <a href="https://dx.doi.org/10.14288/1.0361039">UL_1624_02_0242</a>. Rare Books and Special Collections.</small></center><br><br>
   
-  {% include feature/item-figure.html objectid="langmann040" width="100" %}<br>
-  <small><center>Photograph by Vickie Jensen. Image ID: a020837. Courtesy of UBC Museum of Anthropology.</center></small>
+  {% include feature/item-figure.html objectid="langmann040" width="50" %}<br>
+  <small><center>Photograph by Vickie Jensen. Image ID: a020837. Courtesy of UBC Museum of Anthropology.</center></small><br><br>
 
 <div class="container">
   <div class="row">
