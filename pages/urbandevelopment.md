@@ -151,6 +151,6 @@ permalink: /urbandevelopment.html
   7. “Historic Timeline,” Museum of Anthropology Musqueam Teaching Kit, accessed December 14, 2020, <a href="http://www2.moa.ubc.ca/musqueamteachingkit/history.php">http://www2.moa.ubc.ca/musqueamteachingkit/history.php</a>.<br>
   8. Matthew Halliday, “The bold new plan for an Indigenous-led development in Vancouver,” The Guardian, January 3, 2020, <a href="https://www.theguardian.com/cities/2020/jan/03/the-bold-new-plan-for-an-indigenous-led-development-in-vancouver">https://www.theguardian.com/cities/2020/jan/03/the-bold-new-plan-for-an-indigenous-led-development-in-vancouver</a>.<br>
   9. Ibid.<br>
-  10. Chuck Davis, “Vancouver, British Columbia,” accessed December 14, 2020, <a href="https://www.britannica.com/place/Vancouver">https://www.britannica.com/place/Vancouver</a>.<br></small>
-
-
+  10. Chuck Davis, “Vancouver, British Columbia,” accessed December 14, 2020, <a href="https://www.britannica.com/place/Vancouver">https://www.britannica.com/place/Vancouver</a>.<br>
+  11.	“Discrimination,” British Columbia, accessed January 22, 2021, <a href="https://www2.gov.bc.ca/gov/content/governments/multiculturalism-anti-racism/chinese-legacy-bc/history/discrimination">https://www2.gov.bc.ca/gov/content/governments/multiculturalism-anti-racism/chinese-legacy-bc/history/discrimination</a>.<br>
+  12. Justine Hunter, “A forgotten history: tracing the ties between B.C.'s First Nations and Chinese workers,” The Globe and Mail, May 9, 2015, <a href="https://www.theglobeandmail.com/news/british-columbia/chinese-heritage/article24335611/">https://www.theglobeandmail.com/news/british-columbia/chinese-heritage/article24335611/</a>.</small><br>
