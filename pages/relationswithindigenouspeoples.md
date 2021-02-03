@@ -26,7 +26,7 @@ This section also contains an image of an animal that has been killed for sport.
       {% include feature/item-figure.html objectid="langmann025" width="100" %}
     </div>
     <div class="col-sm-5">
-      In 1912, the original Lumberman’s Arch, made up of eight thick tree trunks, was installed across Pender Street in downtown Vancouver to commemorate the visit of the Canadian governor general, the Duke of Connaught.<sup>3</sup>  The following year, the arch was relocated to the area now known as Stanley Park. John Mackie, a journalist at the Vancouver Sun, explains how the arch was resituated “on the site of an old native village that whites called Whoi Whoi,” or Xwayxway, home to Squamish, Musqueam and Tsleil-Waututh First Nations.<sup>4</sup>  Not only was it their home, but “when the first road was built around Stanley Park, a construction crew unearthed near Whoi Whoi a large deposit of broken and crushed clam shells, as well as skulls and other body parts.... Rather than exciting any interest, the shells were used to surface the road.”<sup>5</sup>  The provincial government of British Columbia has protocols in place for protecting and conserving heritage sites and archaeological sites. More information, including access to the Heritage Conservation Act, can be found <a href="https://www2.gov.bc.ca/gov/content/industry/natural-resource-use/archaeology">here</a>.<sup>6</sup>
+      In 1912, the original Lumberman’s Arch, made up of eight thick tree trunks, was installed across Pender Street in downtown Vancouver to commemorate the visit of the Canadian governor general, the Duke of Connaught.<sup>3</sup>  The following year, the arch was relocated to the area now known as Stanley Park. John Mackie, a journalist at the Vancouver Sun, explains how the arch was resituated “on the site of an old native village that whites called Whoi Whoi,” or Xwayxway, home to Squamish, Musqueam and Tsleil-Waututh First Nations.<sup>4</sup>  Not only was it their home, but “when the first road was built around Stanley Park, a construction crew unearthed near Whoi Whoi a large deposit of broken and crushed clam shells, as well as skulls and other body parts.... Rather than exciting any interest, the shells were used to surface the road.”<sup>5</sup>  The provincial government of British Columbia now has protocols in place for protecting and conserving heritage sites and archaeological sites. More information, including access to the Heritage Conservation Act, can be found <a href="https://www2.gov.bc.ca/gov/content/industry/natural-resource-use/archaeology">here</a>.<sup>6</sup>
     </div>
   </div>
 </div>
@@ -40,7 +40,7 @@ This section also contains an image of an animal that has been killed for sport.
   <div class="row">
     <div class="col-sm">
       <br>This image shows us another relic of the many past lives of Stanley Park, from a zoo which existed there from 1888 to 1996.<sup>9</sup>  As Jesse Donaldson of <a href="https://thetyee.ca/Life/2013/09/27/Unnatural-History-of-Stanley-Park/">
-The Tyee</a> says, “Not only were plant species regularly added and replaced in the Stanley Park of the early 20th century; so too were members of the peninsula’s animal population” such as “animals kept in the park zoo (including several deer and a bear notable for its repeated escapes).”<sup>10</sup>  Stanley Park remained full of nature, but only in ways that felt palatable and safe to Vancouver’s settler residents. 
+The Tyee</a> says, “Not only were plant species regularly added and replaced in the Stanley Park of the early 20th century; so too were members of the peninsula’s animal population” such as “animals kept in the park zoo (including several deer and a bear notable for its repeated escapes).”<sup>10</sup>  Stanley Park remained full of nature, but only in ways that felt palatable and safe to Vancouver’s settler residents.  
     </div>
     <div class="col-sm">
       {% include feature/item-figure.html objectid="langmann027" width="100" %}
@@ -58,7 +58,7 @@ The Tyee</a> says, “Not only were plant species regularly added and replaced i
     </div>
     <div class="col-sm">
       This image is a further example of the lack of understanding that settlers had for Indigenous customs and traditions, and how they took advantage of natural resources in harmful and toxic ways. The handwritten captions on the photograph – “The cougar hunt” and “The cougar dead just where she fell” – indicate an enjoyment and pride in hunting for sport, rather than hunting for food and sustenance and practicing a more respectful and holistic relationship with the land.
-Daniel Heath Justice engages in a conversation about the relationship that many Indigenous peoples had with the other-than-human world, explaining it in the context of kinship:<br>
+Daniel Heath Justice engages in a conversation about the relationship that many Indigenous peoples have with the other-than-human world, explaining it in the context of kinship:<br>
     </div>
   </div>
 </div>
@@ -91,7 +91,7 @@ Daniel Heath Justice engages in a conversation about the relationship that many 
       {% include feature/item-figure.html objectid="langmann024" width="100" %}
     </div>
     <div class="col-sm-4">
-      An unnamed source in the Museum of Anthropology’s <a href="http://www2.moa.ubc.ca/musqueamteachingkit/history.php">Musqueam Teaching Kit</a> shares the impact that the residential school system had on Indigenous peoples:<br>
+      The Museum of Anthropology’s <a href="http://www2.moa.ubc.ca/musqueamteachingkit/history.php">Musqueam Teaching Kit</a> shares the impact that the residential school system had on many Indigenous peoples:<br>
       “When British Columbia entered Confederation in 1871, Aboriginal people were placed under federal jurisdiction. By 1876, the Indian Act legislated our daily lives. In an attempt to assimilate Aboriginal people to Christian Canadian society, the government sent our children to Indian residential schools. Despite these destructive policies, our culture and society persisted.”<sup>13</sup><br>
       <br>
     </div>
@@ -106,7 +106,7 @@ Justice expands upon the intended impacts of the residential school system, expl
 <div class="container">
   <div class="row">
     <div class="col-sm">
-       <br>This image portrays a white settler child who has been dressed up in traditional Indigenous clothing as a “mascot” for the Vancouver Golden Jubilee celebration. Not only does the image represent willful cultural appropriation, it also betrays the settler-colonial erasure of diversity of Indigenous peoples. The feather headdress and style of beading found on this outfit were not typically used by Indigenous peoples of the Northwest Coast; the outfit is therefore a trope or generalization of what white settlers thought of as Indigenous clothing. Similar inaccuracies were rampant among photographs taken of Indigenous individuals by settlers across North America at the time, including but not limited to the misidentification of nations, tribes, or individuals, or the use of stage props such as bows and arrows, tomahawks, and buckskins.<sup>18</sup><br><br>
+       <br>This image portrays a White settler child who has been dressed up in traditional Indigenous clothing as a “mascot” for the Vancouver Golden Jubilee celebration. Not only does the image represent willful cultural appropriation, it also betrays the settler-colonial erasure of diversity of Indigenous peoples. The feather headdress and style of beading found on this outfit were not typically used by Indigenous peoples of the Northwest Coast; the outfit is therefore a trope or generalization of what White settlers thought of as Indigenous clothing. Similar inaccuracies were rampant among photographs taken of Indigenous individuals by settlers across North America at the time, including but not limited to the misidentification of nations, tribes, or individuals, or the use of stage props such as bows and arrows, tomahawks, and buckskins.<sup>18</sup><br><br>
     </div>
     <div class="col-sm">
       {% include feature/item-figure.html objectid="langmann029" width="75" %}
@@ -125,14 +125,14 @@ Justice expands upon the intended impacts of the residential school system, expl
   Source: Uno Langmann Family Collection of B.C. Photographs. <a href="https://dx.doi.org/10.14288/1.0361456">UL_1624_03_0246</a>. Rare Books and Special Collections.</small></center>
     </div>
     <div class="col-sm-5">
-      <br><br>This image portrays a play about the crucifixion of Jesus Christ performed by Indigenous individuals in front of an audience of white settlers. Christianity was often forcibly imposed on Indigenous peoples, particularly children, in order to separate them from their traditional spiritual practices. This was part of the goal of the residential school system, as well as legislation such as the Indian Act of 1880, which banned potlatch ceremonies. Bob Joseph, a a Gwawaenuk Nation member and the founder and president of Indigenous Corporate Training, Inc., describes the logic behind such legislation thusly:<br><br>
+      <br><br>This image portrays a play about the crucifixion of Jesus Christ performed by Indigenous individuals in front of an audience of White settlers. Christianity was often forcibly imposed on Indigenous peoples, particularly children, in order to separate them from their traditional spiritual practices. This was part of the goal of the residential school system, as well as legislation such as the Indian Act of 1880, which banned potlatch ceremonies. Bob Joseph, a a Gwawaenuk Nation member and the founder and president of Indigenous Corporate Training, Inc., describes the logic behind such legislation thusly:<br><br>
       “If the potlatch, the cornerstone of the culture of coastal First Nations, could be eradicated, then the government and the missionaries would be free to swoop in and fill the cultural void with Christianity.”<sup>19</sup><br><br>
     </div>
   </div>
 </div>
   
   Today, two-thirds of Indigenous people in Canada identify as Christian.<sup>20</sup>  In some cases, hybridized spiritual practices have emerged, with elements of both Christianity and traditional Indigenous spirituality.<sup>21</sup>  A scholarly anthology entitled “Mixed Blessings: Indigenous Encounters with Christianity in Canada” delves into the “intricate and powerful roles played by Christianity in the colonization and transformation of Indigenous societies.”<sup>22</sup>  In particular, they focus on how “critical reappraisals of religious encounter have hinged on such concepts as cultural imperialism, hybridity, and, especially, Indigenous agency and action.”<sup>23</sup>  Religion and spirituality are and have always been complex tools by which many colonized peoples feel empowered to understand themselves and their place in the world, and in many cases, may even be avenues through which they find healing and solace from generational and personal trauma.<br>
-  The Christianization of Indigenous peoples also offered another pathway by which settlers could justify colonization to themselves. By believing that they had been given a mandate by god to convert and assimilate Indigenous peoples, settlers provided a moral pretext to crimes that they might otherwise have found difficult or impossible to excuse.<br>
+  The Christianization of Indigenous peoples also offered another pathway by which settlers could justify colonization to themselves. By believing that they had been given a mandate by god to convert and assimilate Indigenous peoples, churches and missionaries provided a moral pretext to crimes that they might otherwise have found difficult or impossible to excuse.<br>
 
 <div class="col-md-12">
 
