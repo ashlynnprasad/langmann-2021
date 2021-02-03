@@ -40,5 +40,5 @@ Thanks also to Eric Leinberger, who granted permission to use the map he created
 <small>2. “History,” City of Burnaby, accessed November 10, 2020, <a href="https://www.burnaby.ca/About-Burnaby/About/History.html?PageMode=Print">https://www.burnaby.ca/About-Burnaby/About/History.html?PageMode=Print</a>.</small><br>
 <small>3. “Indigenous Peoples : Language Guidelines, Version 2.0,” The University of British Columbia, 2018, <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjE68vGqfnsAhULgp4KHXWgCl0QFjAAegQIBBAC&url=https%3A%2F%2Fassets.brand.ubc.ca%2Fdownloads%2Fubc_indigenous_peoples_language_guide.pdf&usg=AOvVaw0v2e6zxNVHH_qqmx9amCXQ">https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjE68vGqfnsAhULgp4KHXWgCl0QFjAAegQIBBAC&url=https%3A%2F%2Fassets.brand.ubc.ca%2Fdownloads%2Fubc_indigenous_peoples_language_guide.pdf&usg=AOvVaw0v2e6zxNVHH_qqmx9amCXQ</a>.</small><br>
 <small>4. Daniel Heath Justice, Why Indigenous Literatures Matter (Ontario, Canada: Wilfrid Laurier University Press, 2018), 7.</small><br>
-<small>5. Ibid, 9.</small>
-<small>6. Ibid, 11.</small>
+<small>5. Ibid, 9.</small><br>
+<small>6. Ibid, 11.</small><br>
