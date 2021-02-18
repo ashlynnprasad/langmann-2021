@@ -8,7 +8,7 @@ permalink: /about.html
 
 {% include feature/jumbotron.html %}
 
-{% include feature/nav-menu.html sections="Note on Positionality;Note on Terminology;Acknowledgements" %}
+{% include feature/nav-menu.html sections="Note on Positionality;Note on Terminology;Continuing Impacts of Colonization;Acknowledgements" %}
 
 ## Note on Positionality
 
