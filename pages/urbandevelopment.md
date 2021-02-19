@@ -103,7 +103,7 @@ permalink: /urbandevelopment.html
       {% include feature/item-figure.html objectid="langmann018" width="100" %}
     </div>
     <div class="col-sm-4">
-      Indigenous lands, including sacred areas and burial grounds, were taken over and transformed into sites of leisure and social gathering for colonial settlers. This image portrays a busy day at Second Beach in Stanley Park, where settlers in suits and dresses walk, gather, and sun- and ocean-bathe. The tall trees of Stanley Park can be seen in the background. 
+      <br>Indigenous lands, including sacred areas and burial grounds, were taken over and transformed into sites of leisure and social gathering for colonial settlers. This image portrays a busy day at Second Beach in Stanley Park, where settlers in suits and dresses walk, gather, and sun- and ocean-bathe. The tall trees of Stanley Park can be seen in the background. 
     </div>
   </div>
   
@@ -129,10 +129,11 @@ permalink: /urbandevelopment.html
       {% include feature/item-figure.html objectid="langmann028" width="100" %}
     </div>
     <div class="col-sm-4">
-      This postcard depicts the entrance to Stanley Park after construction had been completed. The image shows a carefully pruned lawn with flower boxes and sparse trees in the foreground, with the “wild” expanse of tall trees in the background. Individuals in suits and dresses – presumably settlers – can be seen walking along the promenade and stopping to chat with one another, while their cars stay parked to the left. Although the labour required to transform Stanley Park was likely largely carried out by non-European workers, who made up a significant portion of Vancouver’s population, the image only portrays White settlers using the space for leisure.
+      This postcard depicts the entrance to Stanley Park after construction had been completed. The image shows a carefully pruned lawn with flower boxes and sparse trees in the foreground, with the “wild” expanse of tall trees in the background. Individuals in suits and dresses – presumably settlers – can be seen walking along the promenade and stopping to chat with one another, while their cars stay parked to the left. 
     </div>
   </div>
     
+   Although the labour required to transform Stanley Park was likely largely carried out by non-European workers, who made up a significant portion of Vancouver’s population, the image only portrays White settlers using the space for leisure.
    <center><small>Image description: View of cars and people walking into Stanley Park. Photograph pictured on postcard pre-dates the printing. Photograph dates between approximately 1920 and 1930.<br>
     Source: Uno Langmann Family Collection of B.C. Photographs. <a href="https://dx.doi.org/10.14288/1.0371358">UL_1628_0026</a>. Rare Books and Special Collections.</small></center>
     
