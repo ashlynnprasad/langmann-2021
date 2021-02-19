@@ -26,7 +26,7 @@ This section also contains an image of an animal that has been killed for sport.
       {% include feature/item-figure.html objectid="langmann025" width="100" %}
     </div>
     <div class="col-sm-5">
-      In 1912, the original Lumberman’s Arch, made up of eight thick tree trunks, was installed across Pender Street in downtown Vancouver to commemorate the visit of the Canadian governor general, the Duke of Connaught.<sup>3</sup>  The following year, the arch was relocated to the area now known as Stanley Park. John Mackie, a journalist at the Vancouver Sun, explains how the arch was resituated “on the site of an old native village that whites called Whoi Whoi,” or Xwayxway, home to Squamish, Musqueam and Tsleil-Waututh First Nations.<sup>4</sup>
+      <br>In 1912, the original Lumberman’s Arch, made up of eight thick tree trunks, was installed across Pender Street in downtown Vancouver to commemorate the visit of the Canadian governor general, the Duke of Connaught.<sup>3</sup>  The following year, the arch was relocated to the area now known as Stanley Park. John Mackie, a journalist at the Vancouver Sun, explains how the arch was resituated “on the site of an old native village that whites called Whoi Whoi,” or Xwayxway, home to Squamish, Musqueam and Tsleil-Waututh First Nations.<sup>4</sup>
     </div>
   </div>
 </div>
@@ -126,7 +126,7 @@ Justice expands upon the intended impacts of the residential school system, expl
   Source: Uno Langmann Family Collection of B.C. Photographs. <a href="https://dx.doi.org/10.14288/1.0361456">UL_1624_03_0246</a>. Rare Books and Special Collections.</small></center>
     </div>
     <div class="col-sm-5">
-      <br>This image portrays a play about the crucifixion of Jesus Christ performed by Indigenous individuals in front of an audience of White settlers. Christianity was often forcibly imposed on Indigenous peoples, particularly children, in order to separate them from their traditional spiritual practices. This was part of the goal of the residential school system, as well as legislation such as an amendment to the Indian Act in 1884, which banned potlatch ceremonies. Bob Joseph, a a Gwawaenuk Nation member and the founder and president of Indigenous Corporate Training, Inc., describes the logic behind such legislation thusly:<br><br>
+      This image portrays a play about the crucifixion of Jesus Christ performed by Indigenous individuals in front of an audience of White settlers. Christianity was often forcibly imposed on Indigenous peoples, particularly children, in order to separate them from their traditional spiritual practices. This was part of the goal of the residential school system, as well as legislation such as an amendment to the Indian Act in 1884, which banned potlatch ceremonies. Bob Joseph, a a Gwawaenuk Nation member and the founder and president of Indigenous Corporate Training, Inc., describes the logic behind such legislation thusly:<br><br>
       “If the potlatch, the cornerstone of the culture of coastal First Nations, could be eradicated, then the government and the missionaries would be free to swoop in and fill the cultural void with Christianity.”<sup>19</sup><br><br>
     </div>
   </div>
