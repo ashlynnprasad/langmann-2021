@@ -48,4 +48,4 @@ Thanks also to Eric Leinberger, who granted permission to use the map he created
 <small>4. Daniel Heath Justice, Why Indigenous Literatures Matter (Ontario, Canada: Wilfrid Laurier University Press, 2018), 7.</small><br>
 <small>5. Ibid, 9.</small><br>
 <small>6. Ibid, 11.</small><br>
-<small>7. Terry Mitchell, Courtney Arseneau, Darren Thomas Lecturer, “Colonial Trauma: Complex, continuous, collective, cumulative and compounding effects on the health of Indigenous peoples in Canada and beyond,” International Journal of Indigenous Health 14, no. 2, (2019): 74-94, <a href=”http://dx.doi.org/10.32799/ijih.v14i2.32251”>http://dx.doi.org/10.32799/ijih.v14i2.32251</a>.</small><br>
+<small>7. Terry Mitchell, Courtney Arseneau, Darren Thomas Lecturer, “Colonial Trauma: Complex, continuous, collective, cumulative and compounding effects on the health of Indigenous peoples in Canada and beyond,” International Journal of Indigenous Health 14, no. 2, (2019): 74-94, <a href="http://dx.doi.org/10.32799/ijih.v14i2.32251">http://dx.doi.org/10.32799/ijih.v14i2.32251</a>.</small><br>
