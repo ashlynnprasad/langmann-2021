@@ -113,7 +113,7 @@ permalink: /urbandevelopment.html
 <div class="container">
   <div class="row">
     <div class="col-sm-4">
-      This image portrays a group of settler men laying cement for sidewalks in the rapidly developing urban hub now known as the Greater Vancouver Regional District. Few European settlers occupied the area until the 1850s, when New Westminster (now a suburb of Vancouver) was established. The area saw a further population increase in the 1860s when a gold rush attracted settlers to the Cariboo Mountains. Vancouver was not incorporated as a city until 1886.<sup>10</sup> 
+      This image portrays a group of settler men laying cement for sidewalks in the rapidly developing urban hub now known as Metro Vancouver. Few European settlers occupied the area until the 1850s, when New Westminster was established. The area saw a further population increase in the 1860s when a gold rush attracted settlers to the Cariboo region. Vancouver was not incorporated as a city until 1886.<sup>10</sup> 
     </div>
     <div class="col-sm-8">
       {% include feature/item-figure.html objectid="langmann020" width="100" %}
