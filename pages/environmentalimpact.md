@@ -49,7 +49,7 @@ permalink: /environmentalimpact.html
       {% include feature/item-figure.html objectid="langmann009" width="100" %}
     </div>
     <div class="col-sm-4">
-      <br>This postcard portrays the process of felling a cedar in North Vancouver in 1896. According to the caption, this tree was the largest recorded in British Columbia at that time, with a diameter of twenty-two feet (6.7 metres). From a present-day perspective, the image, and its use on a postcard designed to be mailed convey a certain triumphant attitude with which settlers showed friends and relatives how settler society was “taming” the lands in and around Vancouver. 
+      This postcard portrays the process of felling a cedar in North Vancouver in 1896. According to the caption, this tree was the largest recorded in British Columbia at that time, with a diameter of twenty-two feet (6.7 metres). From a present-day perspective, the image, and its use on a postcard designed to be mailed convey a certain triumphant attitude with which settlers showed friends and relatives how settler society was “taming” the lands in and around Vancouver. 
     </div>
   </div>
 </div>
@@ -87,7 +87,7 @@ permalink: /environmentalimpact.html
       {% include feature/item-figure.html objectid="langmann004" width="100" %}
     </div>
     <div class="col-sm-4">
-      <br>Similarly, this photograph of a paper mill in Ocean Falls might have been taken as a way to provide settlers with evidence of how acquired lands in the Province were cultivated for industries such as papermaking, which would help vault B.C. into the modern world. At the time, environmental concerns were not being widely considered among the settler community, and the image may inspire more concern in present-day viewers than it would with settlers of that time.
+      Similarly, this photograph of a paper mill in Ocean Falls might have been taken as a way to provide settlers with evidence of how acquired lands in the Province were cultivated for industries such as papermaking, which would help vault B.C. into the modern world. At the time, environmental concerns were not being widely considered among the settler community, and the image may inspire more concern in present-day viewers than it would with settlers of that time.
     </div>
   </div>
 </div>
@@ -98,7 +98,7 @@ permalink: /environmentalimpact.html
 <div class="container">
   <div class="row">
     <div class="col-sm-5">
-      <br>This image portrays an aerial view of factories and other buildings in downtown Vancouver. In the distance, fumes from an array of smokestacks are seen wafting into the air and blurring the view of the mountains at the horizon. The entire sky seems hazy, so that one cannot quite tell how much of the haze is cloud and how much pollution.<br><br>
+      This image portrays an aerial view of factories and other buildings in downtown Vancouver. In the distance, fumes from an array of smokestacks are seen wafting into the air and blurring the view of the mountains at the horizon. The entire sky seems hazy, so that one cannot quite tell how much of the haze is cloud and how much pollution.<br><br>
       <small>Image description: Aeriel view of factories and other buildings in downtown Vancouver.<br>
       Source: Uno Langmann Family Collection of B.C. Photographs. <a href="https://dx.doi.org/10.14288/1.0361425">UL_1624_03_0338</a>. Rare Books and Special Collections.</small>
     </div>
