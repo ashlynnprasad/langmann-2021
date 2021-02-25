@@ -36,7 +36,7 @@ Colonization has affected Indigenous peoples on a systemic, societal scale, rath
 Many thanks go to the Uno Langmann Family for donating the collection of photographs from which this exhibition was born.<br>
 This exhibition would not have been possible without the efforts of Eka Grguric, Digital Scholarship Librarian at UBC, who provided near-constant troubleshooting and guidance during the process of building the website.<br>
 Thanks to Krisztina Laszlo for managing the project and providing editing suggestions and curation guidance throughout.<br>
-Thanks to Claire Williams, Karen Ng, and the staff at UBC's Xwi7xwa Library, who reviewed the text, offered important guidance and suggestions, and helped me fill in the gaps.<br>
+Thanks to Claire Williams, Karen Ng, and the staff at UBC's <a href="https://xwi7xwa.library.ubc.ca/">Xwi7xwa Library</a>, who reviewed the text, offered important guidance and suggestions, and helped me fill in the gaps.<br>
 Thanks also to Eric Leinberger, who granted permission to use the map he created of indigenous reserves in Vancouver, and to Katie Ferrante at the Museum of Anthropology for granting permission for use of the welcome figure image.<br><br><br>
 
 
