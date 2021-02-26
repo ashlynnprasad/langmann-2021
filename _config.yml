@@ -8,11 +8,11 @@
 # URL VARIABLES
 #
 # url is your gh-pages base, following the pattern: username.github.io
-url: https://ashlynnprasad.github.io
+url: https://ubc-library-rbsc.github.io
 # baseurl is your github repository's name prefixed with a /
 baseurl: /langmann-2021
 # location of code, the full url to your github repository
-source-code: https://github.com/ashlynnprasad/langmann-2021
+source-code: https://github.com/ubc-library-rbsc/langmann-2021
 
 ##########
 # SITE SETTINGS
